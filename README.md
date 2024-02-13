@@ -1,2 +1,2 @@
 # la-preservacion-involuntaria
-Tesis de Maestría
+Maestría en Tecnología y Estética de las Artes Electrónicas
