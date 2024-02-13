@@ -1,2 +1,5 @@
 # la-preservacion-involuntaria
-Maestría en Tecnología y Estética de las Artes Electrónicas
+Tesis de Maestría  
+Maestría en Tecnología y Estética de las Artes Electrónicas  
+Universidad Nacional de Tres de Febrero  
+Año 2024  
