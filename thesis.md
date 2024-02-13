@@ -2,21 +2,25 @@
 title: "La Preservación Involuntaria"
 author: "Javier de Azkue"
 output:
-  # word_document:
-    # reference_doc: styles/style.docx
   custom_document:
-    path: /Exports/test.pdf
+    path: "/Exports/la-preservacion-involuntaria.docx"
     toc: true
+    reference_doc: styles/style.docx
     pandoc_args: ["--csl", "references/apa.csl"]
 toc-title: "Indice"
-header-includes: |
-    \usepackage{sectsty}
-    \sectionfont{\clearpage}
 bibliography: references/bib.bib
 ---
 
+<!-- IMAGEN CON PIE DE FOTO -->
+
+<!-- <br>
+<div style="text-align: center;">
+![pie de foto](./assets/concordia.jpg){width=300px}
+</div>
+<br> -->
+
 # Resumen
-La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte digital, entendiendo esta hibridación como una combinación de arte por computadora con procesos, formatos y soportes analógicos no-digitales que pueden llevar a la preservación en el tiempo de estas obras electrónicas, voluntaria o involuntariamente. La tesis estudia estos conceptos, analiza las problemáticas de la preservación digital y propone un camino de experimentación y reflexión de arte híbrido, con técnicas ligadas a la fotografía, la animación y la programación.
+La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte digital, entendiendo esta hibridación como una combinación de arte por computadora con procesos, formatos y soportes analógicos no-digitales que pueden llevar a la preservación en el tiempo de estas obras electrónicas, voluntaria o involuntariamente. La tesis estudia estos conceptos, analiza las problemáticas de la preservación digital y propone un camino de experimentación y reflexión de arte híbrido, con técnicas ligadas a la fotografía, la animación y la programación.  
 
 En la tesis se analizan las diferencias entre preservación y acceso, los archivos cinematográficos, los archivos de internet, las obras de artistas audiovisuales independientes y su distribución, el avance tecnológico en el campo de la informática en paralelo a las prácticas y experimentaciones artísticas, la piratería digital, y hasta el avance, proliferación y ocaso de los Token No Fungibles (NFTs). Al mismo tiempo, se estudian autores con prácticas artísticas o archivísticas en línea con la tesis para ilustrar el estilo formal y estético al que se apunta investigar.  
 
@@ -62,6 +66,8 @@ Por otro lado, así como Alfonso del Amo Cuarón destaca también en su guía la
 
 Internet entonces no es sólo fuente de contenido sino también de inspiración. En esta dinámica, los creadores independientes pueden subir y compartir sus obras, y por la sola inercia de las tecnologías (y la capacidad de las computadoras) muchas obras perduran en el tiempo de forma automática. Hay excepciones a la regla: formatos irreproducibles, actualizaciones de hardware sin retrocompatibilidad, páginas web caídas, sitios de guardado de archivos como Megaupload eliminados por cuestiones legales, codecs de video corrompidos, o simplemente bugs.
 
+<br>
+
 ## La Preservación Involuntaria
 Un realizador experimental encuentra una película Super 8 junto a la basura caminando por su barrio. Inspirado, vuelve a su casa y decide pintar el celuloide a mano con marcadores y pinceles, influenciado por sus ídolos Len Lye, Norman McLaren y  Stan Brakhage. Digitaliza las películas cuadro a cuadro con un scanner de su casa y sin necesidad de un proyector reconstruye el movimiento en su computadora. Satisfecho con el resultado hace un backup en un disco externo y sube el video a Instagram y Vimeo. Recibe un par de likes. Algunos foros de animación publican su creación e incluso descubre que otros usuarios lo descargan y lo vuelven a subir.  
 
@@ -75,4 +81,4 @@ Pero preservar es un verbo ambiguo: a pesar de su definición más pura de “co
 
 En este tipo de hibridación e iteración es que observo una preservación involuntaria: las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.  
 
-# Bibliografía
+# Bibliografía  
