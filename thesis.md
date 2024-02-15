@@ -120,7 +120,7 @@ Esta “carta de amor al viejo internet” [@CameronWorld] , como la plantea su 
 
 ![Askin, C. _Cameron’s World_. ](./assets/camerons-world.jpg "Askin, C. _Cameron’s World_. ")
 
-# Brian Mackern
+## Brian Mackern
 
 Brian Mackern es un artista uruguayo que ha desarrollado la mayor parte de su obra alrededor del net art y el sound art. Realiza experimentos con proyecciones, datos y colaborando con artistas sonoros y musicales. A través de sus trabajos de “arqueología digital” lleva adelante un proyecto de divulgación y conservación de net art latinoamericano, netart.org.uy. Aparte destaca la importancia de los archivos digitales, y la importancia de mantener las computadoras para las que funcionaban esos archivos digitales. Desde el año 2004, se dedica a la recuperación, conservación y preservación de obras de netart de los años 90s.
 
@@ -130,7 +130,7 @@ En esta misma línea es que podríamos acercarnos a esta idea de preservación i
 
 ![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart/ [@MaquinaPodridaBrian]](./assets/SAM_5524.jpg)
 
-## Artist Films
+## Bill Brand y los Artist Films
 
 Siguiendo esta idea de lo “independiente” se podría retomar la temática cinematográfica, quizás pasando primero por las dificultades que plantea la preservación de obras de artistas, por fuera del circuito industrial, y particularmente de obras en formato fílmico, lo que nos traerá más cerca de la hibridación que se menciona en la tesis.
 
