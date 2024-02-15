@@ -15,7 +15,7 @@ output:
 
 La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte digital, entendiendo esta hibridación como una combinación de arte por computadora con procesos, formatos y soportes analógicos no-digitales que pueden llevar a la preservación en el tiempo de estas obras electrónicas, voluntaria o involuntariamente. La tesis estudia estos conceptos, analiza las problemáticas de la preservación digital y propone un camino de experimentación y reflexión de arte híbrido, con técnicas ligadas a la fotografía, la animación y la programación.
 
-Este trabajo se estructura en dos partes. En la primer parte, de caracter teórico, se examina el caso de los archivos cinematográficos, las distinciones entre preservación y acceso, los archivos en internet, la producción, distribución y archivo de obras por parte de artistas audiovisuales independientes, el progreso tecnológico en el campo informático en relación con las prácticas y experimentaciones artísticas, y el potencial archivístico en la piratería digital y en los Token No Fungibles (NFTs), desde su surgimiento hasta su eventual declive. Simultáneamente, se realiza un análisis de diversos autores cuyas prácticas artísticas o archivísticas están alineadas con la tesis, con el propósito de ilustrar el estilo formal y estético que se pretende investigar.
+Este trabajo se estructura en dos partes. En la primer parte, de carácter teórico, se examina el caso de los archivos cinematográficos, las distinciones entre preservación y acceso, los archivos en internet, la producción, distribución y archivo de obras por parte de artistas audiovisuales independientes, el progreso tecnológico en el campo informático en relación con las prácticas y experimentaciones artísticas, y el potencial archivístico en la piratería digital y en los Token No Fungibles (NFTs), desde su surgimiento hasta su eventual declive. Simultáneamente, se realiza un análisis de diversos autores cuyas prácticas artísticas o archivísticas están alineadas con la tesis, con el propósito de ilustrar el estilo formal y estético que se pretende investigar.
 
 En la segunda parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como "Films Automáticos": una serie de animaciones por computadora y arte generativo transferidos a fílmico en 35 mm para ser reproducidos en proyectores de diapositivas modificados. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso. 
 
@@ -118,15 +118,17 @@ Los casos de archive.org y la Wayback Machine o el Matters in Media Art funciona
 
 Esta “carta de amor al viejo internet” [@CameronWorld] , como la plantea su autor, además de una obra en sí misma, es un pequeño trabajo de preservación independiente que podríamos sumar a esta lista de esfuerzos destacados y por fuera de la maquinaria y el circuito tradicional de preservación.
 
-![Una de las muchas galerías que se pueden visitar en Cameron's World.](./assets/camerons-world.jpg)
+![Askin, C. _Cameron’s World_. ](./assets/camerons-world.jpg "Askin, C. _Cameron’s World_. ")
 
-## Brian Mackern
+# Brian Mackern
 
 Brian Mackern es un artista uruguayo que ha desarrollado la mayor parte de su obra alrededor del net art y el sound art. Realiza experimentos con proyecciones, datos y colaborando con artistas sonoros y musicales. A través de sus trabajos de “arqueología digital” lleva adelante un proyecto de divulgación y conservación de net art latinoamericano, netart.org.uy. Aparte destaca la importancia de los archivos digitales, y la importancia de mantener las computadoras para las que funcionaban esos archivos digitales. Desde el año 2004, se dedica a la recuperación, conservación y preservación de obras de netart de los años 90s.
 
-Su proyecto Máquina Podrida (_aka La Desdentada_) consistió en una exposición de su propia computadora portátil que lo acompañó desde 1999 a 2004, en la que desarrolló muchas de sus obras como artista, y en la que además compila obras de otros en relación al net art, como Jodi, Superbad, Rafael Lozano-Hemmer, entre otros [@MaquinaPodridaBrian]. La computadora se encuentra en su estado original, con el sistema operativo necesario para correr correctamente todas estas aplicaciones, gifs animados y páginas. De no ser por la forma en que fueron guardadas y en la forma que son ejecutadas, estos archivos posiblemente se hubieran perdido, puesto que en muchas ocasiones ni los propios artistas llegaron a guardar sus obras, pero Brian conservó copias por su interés personal [@MEIACMuseoExtremeno].
+Su proyecto Máquina Podrida (_aka La Desdentada_) consistió en una exposición de su propia computadora portátil que lo acompañó desde 1999 a 2004, en la que desarrolló muchas de sus obras como artista, y en la que además archivó obras de otros en relación al net art, como Jodi, Superbad, Rafael Lozano-Hemmer, entre otros [@MaquinaPodridaBrian]. La computadora se encuentra en su estado original, con el sistema operativo necesario para correr correctamente todas estas aplicaciones, gifs animados y páginas. De no ser por la forma en que fueron guardadas y en la forma que son ejecutadas, estos archivos posiblemente se hubieran perdido, puesto que en muchas ocasiones ni los propios artistas llegaron a guardar sus obras, pero Brian conservó copias por su interés personal [@MEIACMuseoExtremeno].
 
 En esta misma línea es que podríamos acercarnos a esta idea de preservación involuntaria, porque si bien en Brian Mackern la preservación de las obras es parte de las obras en sí, pareciera haber una suerte de coincidencia entre la búsqueda estética personal del autor, y los resultados de preservación actuales. Muchas obras, propias y ajenas, fueron preservadas en el tiempo gracias a este interés, que ahora es medular en su trabajo.
+
+![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart/ [@MaquinaPodridaBrian]](./assets/SAM_5524.jpg)
 
 ## Artist Films
 
@@ -138,12 +140,25 @@ La obra de Bill Brand es “medium-specific” (si la obra se mueve de su medio 
 
 Su obra más conocida es quizás Masstransiscope (1980), realizada íntegramente en la estación de subte abandonada de Myrtle Avenue en Brooklyn, New York, siguiendo el concepto del Zootropo, un juguete óptico del siglo 19. Las ventanas del subte funcionan como obturador de una serie de fotogramas emplazados sobre las paredes de la estación. Curiosamente, es una de sus obras más vistas y peor conservadas: la obturación depende de una minuciosa limpieza y mantenimiento [@lampertResultsYouCan2006, p. 69-78].
 
+![Brand, B. (1980). _Masstransiscope Illustration_. Accedido 15 de Febrero de 2024 desde https://www.billbrand.net/public-art/ [@1980Masstransiscope]](./assets/masstransiscope+illustration.jpg)
+
 ## Computer Art en fílmico y en papel
 
-Siguiendo con las hibridaciones, en los inicios del _computer art_, o arte por computadora, en los cimientos de los pioneros como los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre papel o fílmico. En muchas situaciones, en particular al comienzo, no había forma de visualizar los trabajos a menos que se terminaran o compilaran. Las “computadoras mecánicas” que utilizaban los hermanos Whitney en los 50, por ejemplo, se trataban de cañones antiaéreos de la Segunda Guerra Mundial modificados. Aprovechando los cálculos y las ecuaciones polares que realizaban estas máquinas para calcular la trayectoria de un avión, los Whitney realizaban movimientos matemáticos para sus animaciones, que eran luego fotografiadas cuadro por cuadro con cámaras de cine.
+Siguiendo con las hibridaciones, en los inicios del _computer art_, o arte por computadora, en los cimientos de los pioneros como los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre papel o fílmico. En muchas situaciones, en particular al comienzo, no había forma de visualizar los trabajos a menos que se terminaran o compilaran. Las “computadoras mecánicas” que utilizaban los hermanos Whitney en los 50, por ejemplo, se trataban de cañones antiaéreos de la Segunda Guerra Mundial modificados. Aprovechando los cálculos y las ecuaciones polares que realizaban estas máquinas para calcular la trayectoria de un avión, los Whitney realizaban movimientos matemáticos para sus animaciones, que eran luego fotografiadas cuadro por cuadro con cámaras de cine. Tal es el caso con _Catalog_ (1961) y _Lapis_ (1966) [@whitneyDigitalHarmony1980, 184-186].
 
+> "I acquired, (not exactly overnight) a highly specialized skill in adapting the almost worth- less mechanical junk excreted from army depots across the country as the Army, Navy, Air Force and Marines unloaded material on the surplus market. Junk such as brand new thirty-thousand-dollar antiaircraft specialized analog ballistic problem-solver computers dating back to World War II." [Adquirí (no exactamente de la noche a la mañana) una habilidad altamente especializada en adaptar chatarra mecánica casi sin valor que salía de depósitos de todo el país, cuando el Ejército, la Armada, la Fuerza Aérea y los Marines descargaban material en el mercado de excedentes. Chatarra como computadoras analógicas especializadas en resolver problemas balísticos, completamente nuevas y valuadas en treinta mil dólares, que databan de la Segunda Guerra Mundial.]
+
+![Whitney, J., & Whitney, J. (1947). _Pacoima Court studio, Studio City, CA._ . Whitney Editions™, Los Angeles, CA. Accedido 15 de Febrero de 2024 desde https://canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney/ [@CanyonCinemaNew]](./assets/Whitneys_1_Medium.jpeg)
+
+Los fotogramas originales en papel para la truca fueron eventualmente reemplazados por haces de luz, aunque eventualmente los Whitney abandonaron esa "absurdidad que producía poco más que un equivalente al rayo catódico de un osciloscopio" [@whitneyDigitalHarmony1980, p. 184]. A partir de 1970 ya trabajaban con computadoras digitales, fotografiaban cuadro a cuadro el monitor para imprimir en fílmico la animación, con las ventajas de la velocidad y la posibilidad de la interacción en vivo a través del teclado [@whitneyDigitalHarmony1980, 197]. Así es el caso de __Matrix I_, _II_ y _III_ (1971-72).
+
+![_Matrix I_ [@whitneyDigitalHarmony1980 p. 77]](./assets/matrix.jpg)
+
+Los experimentos audiovisuales de los Whitney dejan en claro hoy la particularidad del soporte, además del valor documental y, por ejemplo, la posibilidad de hacer copias nuevas 50 años después. A pesar de esto, las copias disponibles en plataformas como Youtube (o incluso en DVDs oficiales de los artistas) son de muy baja resolución, rescatadas quizás de copias analógicas en VHS. El _Academy Film Archive_ de la Academia de Artes y Ciencias Cinematográficas
+(AMPAS por sus siglas en inglés) preserva docenas de los films de los Whitney [@JohnWhitneyAnimator2023].
 
 # Bibliografía
+
 
 
 [^3]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
