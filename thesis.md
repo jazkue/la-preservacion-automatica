@@ -68,7 +68,7 @@ Internet entonces no es sólo fuente de contenido sino también de inspiración.
 
 Un realizador experimental encuentra una película Super 8 junto a la basura caminando por su barrio. Inspirado, vuelve a su casa y decide pintar el celuloide a mano con marcadores y pinceles, influenciado por Len Lye, Norman McLaren yStan Brakhage. Digitaliza las películas cuadro a cuadro con un escáner de su casa y sin necesidad de un proyector reconstruye la animación del movimiento en su computadora. Satisfecho con el resultado, guarda el trabajo en un disco externo y sube el video a Instagram y Vimeo. Recibe un par de likes. Algunos foros de animación publican su creación e incluso descubre que otros usuarios lo descargan y lo vuelven a subir.
 
-Es 2020: el realizador lee sobre el auge de las criptomonedas y los NFT. Decide mintear su animación en la blockchain y sin entender mucho la pone a la venta en www.HicEtNunc.xyz en formato .gif. Este .gif queda para siempre loopeando en estos sitios, respaldado por tecnologías de bloques, algoritmos y sistemas de guardado IPFS (Inter Planetary File System). Un coleccionista le compra la obra por 20 tezos, la moneda que utiliza esa red. La obra ya se reprodujo y copió cientos de veces.
+Es 2020: el realizador lee sobre el auge de las criptomonedas y los NFT. Decide "mintear" su obra en la blockchain y sin entender mucho la pone a la venta en www.HicEtNunc.xyz en formato .gif. Este .gif queda para siempre loopeando en estos sitios, respaldado por tecnologías de bloques, algoritmos y sistemas de guardado IPFS (Inter Planetary File System). Un coleccionista le compra la obra por 20 tezos, la moneda que utiliza esa red. La obra ya se reprodujo y copió cientos de veces.
 
 Pasan los años, es el año 2050. El disco rígido se rompió hace mucho y los NFT nunca resultaron, y los foros de animadores experimentales están en su mayoría caídos. Y quizás no se supo más de este realizador experimental, sus discos y herramientas terminaron en un tacho de reciclables, y los foros solo existen en la Wayback Machine de Archive.org, que ahora es paga. Quizás la blockchain conserva el hash de la transacción, y quizás con un poco de búsqueda y esfuerzo y gracias a las redes descentralizadas el archivo sigue vivo en algunas computadoras del mundo. O quizás nada de esto sigue funcionando, pero aparece el Super 8 escondido en un cajón, en perfecto estado.
 
@@ -94,6 +94,9 @@ En restauración digital para cine, la idea general de preservación muchas vece
 
 Estos dilemas también escapan de los laboratorios de restauración más profesionales: en Youtube hay decenas de canales dedicados al rescate y la preservación de películas del cine mudo, con herramientas de Inteligencia Artificial, que le suman color, resolución, estabilización y fotogramas. “Nineteenth century videos back to life” promete uno de los canales más famosos, con sus upscalings[^4] a 4K e interpolación de 60 fotogramas por segundo.  El problema aquí quizás sea que no se está apelando a la definición más pura de restauración: lo que se busca es realismo.
 
+[^3]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
+[^4]: El término en inglés "upscaling" refiere a escalar una imagen por encima de su resolución original.
+
 ## Internet Archive (el archivo de internet)
 
 _Internet Archive_ (archivo de Internet) es una biblioteca digital sin fines de lucro dedicada al archivo y conservación preservación de sitios web, libros, audio, software, imágenes, películas y videos. Funciona como un sitio de consulta permanente, de uso libre, y funciona desde 1996, nacida principalmente como un proyecto de archivo de sitios web, en pleno auge del internet de modo masivo. En la actualidad una sola copia de todo el archivo supera los 70 petabytes (1 petabyte = 1024 terabytes), y de todo documento se conserva por lo menos 2 copias. Es de uso libre, como el sistema de crowdsourcing de Wikipedia, y tiene asociaciones con bibliotecas y archivos de todo el mundo, lo que lo hace además de un proyecto a escala mundial, un trabajo colaborativo. “Nuestra misión es ofrecer acceso universal a todo el conocimiento” [@InternetArchiveIA].
@@ -116,7 +119,7 @@ Los casos de archive.org y la Wayback Machine o el Matters in Media Art funciona
 
 [Cameron’s World](https://www.cameronsworld.net/) es un proyecto del artista neozelandés Cameron Askin, basado en las capacidades de archivo de Wayback Machine. Se trata de una compilación de páginas de Geocities, un servicio gratuito de alojamiento web de finales de los 90. En este período Geocities le permitió a usuarios de todo el mundo crear sus propios sitios web, llegando hasta 38 millones de páginas en su cierre en 2008. El proyecto es un tributo a esa era inocente y prolífica de internet, a través de un collage temático y estético en un largo scroll repleto de gifs, con una suerte de “emulador” del explorador por excelencia de esas épocas, el Netscape Navigator (disfrazado para el proyecto como “Catscape Navigator”), que nos permite ingresar a los hipervínculos y conocer más.
 
-Esta “carta de amor al viejo internet” [@CameronWorld] , como la plantea su autor, además de una obra en sí misma, es un pequeño trabajo de preservación independiente que podríamos sumar a esta lista de esfuerzos destacados y por fuera de la maquinaria y el circuito tradicional de preservación.
+Esta “carta de amor al viejo internet” [@askinCameronWorld2015] , como la plantea su autor, además de una obra en sí misma, es un pequeño trabajo de preservación independiente que podríamos sumar a esta lista de esfuerzos destacados y por fuera de la maquinaria y el circuito tradicional de preservación.
 
 ![Askin, C. _Cameron’s World_. ](./assets/camerons-world.jpg "Askin, C. _Cameron’s World_. ")
 
@@ -128,7 +131,7 @@ Su proyecto Máquina Podrida (_aka La Desdentada_) consistió en una exposición
 
 En esta misma línea es que podríamos acercarnos a esta idea de preservación involuntaria, porque si bien en Brian Mackern la preservación de las obras es parte de las obras en sí, pareciera haber una suerte de coincidencia entre la búsqueda estética personal del autor, y los resultados de preservación actuales. Muchas obras, propias y ajenas, fueron preservadas en el tiempo gracias a este interés, que ahora es medular en su trabajo.
 
-![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart/ [@MaquinaPodridaBrian]](./assets/SAM_5524.jpg)
+![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart](./assets/SAM_5524.jpg)
 
 ## Bill Brand y Artist Films
 
@@ -140,9 +143,9 @@ La obra de Bill Brand es “medium-specific” (si la obra se mueve de su medio 
 
 Su obra más conocida es quizás Masstransiscope (1980), realizada íntegramente en la estación de subte abandonada de Myrtle Avenue en Brooklyn, New York, siguiendo el concepto del Zootropo, un juguete óptico del siglo 19. Las ventanas del subte funcionan como obturador de una serie de fotogramas emplazados sobre las paredes de la estación. Curiosamente, es una de sus obras más vistas y peor conservadas: la obturación depende de una minuciosa limpieza y mantenimiento [@lampertResultsYouCan2006, p. 69-78].
 
-![Brand, B. (1980). _Masstransiscope Illustration_. Accedido 15 de Febrero de 2024 desde https://www.billbrand.net/public-art/ [@1980Masstransiscope]](./assets/masstransiscope+illustration.jpg)
+![Brand, B. (1980). _Masstransiscope Illustration_. Accedido 15 de Febrero de 2024 desde https://www.billbrand.net/public-art](./assets/masstransiscope+illustration.jpg)
 
-## Computer Art en fílmico y en papel
+## Computer Art en celuloide y en papel
 
 Siguiendo con las hibridaciones, en los inicios del _computer art_, o arte por computadora, en los cimientos de los pioneros como los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre fílmico o papel. En muchas situaciones, en particular al comienzo, al contrario de lo que sucede hoy en día, no había forma de visualizar los resultados en tiempo real. Zsofi Valyi-Nagy escribe sobre estos temas en su dosier sobre Vera Molnar:
 
@@ -158,11 +161,11 @@ Los fotogramas originales en papel para la truca fueron eventualmente reemplazad
 
 ![_Matrix I_ [@whitneyDigitalHarmony1980 p. 77]](./assets/matrix.jpg)
 
-En el documental de John Musilli _The film art of John Whitney, Sr._ (1975) Whitney compara su trabajo con la música, por compartir con ella la experiencia "tensional" y la "harmonía visual". El animador describe una suerte de sinestesia sonora al hablar de la búsqueda humana por la "música visual" (_Visual Music_ en inglés) a lo largo de la historia, desde Leonardo da Vinci, quien fue de los primeros en poner en palabras esta idea, hasta la cronología de los _Color Organs_, invenciones que buscaban generar luz y color como si se tocara un instrumento musical. Al percibir entonces sus invenciones como instrumentos de música visual, lo que más lamenta Whitney en el documental es "el problema del control directo", o la falta de interacción en tiempo real con la máquina, soñando en este sentido un futuro con sus sueños realizados [@musilliFilmArtJohn1997].
+En el documental de John Musilli _The film art of John Whitney, Sr._ (1975) Whitney compara su trabajo con la música, por compartir con ella la experiencia "tensional" y la "harmonía visual". El animador describe una suerte de sinestesia sonora al hablar de la búsqueda humana por la "música visual" (_Visual Music_ en inglés) a lo largo de la historia, desde Leonardo da Vinci, quien fue de los primeros en poner en palabras esta idea, hasta la cronología de los _Color Organs_, invenciones que buscaban generar luz y color como si se tocara un instrumento musical. Al percibir entonces sus invenciones como instrumentos de música visual, lo que más lamenta Whitney en el documental es "el problema del control directo", o la falta de interacción en tiempo real con la máquina, imaginando en este sentido un futuro con sus sueños realizados [@musilliFilmArtJohn1974].
 
 Los experimentos audiovisuales de los Whitney dejan en claro hoy la particularidad del soporte, además del valor documental y, por ejemplo, la posibilidad de hacer copias nuevas 50 años después. A pesar de esto, las copias disponibles en plataformas como Youtube (o incluso en DVDs oficiales de los artistas) son de muy baja resolución, rescatadas quizás de copias analógicas en VHS. El _Academy Film Archive_ de la Academia de Artes y Ciencias Cinematográficas (AMPAS por sus siglas en inglés) preserva docenas de los films de los Whitney [@JohnWhitneyAnimator2023].
 
-Volviendo a los soportes, hablemos del papel. La artista húngara Vera Molnar (que casualmente perteneció al mismo colectivo artístico que el mendocino Julio Le Parc cuando vivían en París) al igual que otros artistas como Georg Ness, Frieder Nake o Michael Noll, trabajaban en papel con plotters. Traducían a papel instrucciones y procedimientos. Vera se especializó en los "Drum Plotters", que a diferencia de los "Flatbed Plotters" tenían una fuente continua de papel, como una impresora [@valyi-nagyHOLODossierVera2022]. Valyi-Nagy hace una observación muy atinada con respecto al soporte principal de Molnar:
+Volviendo a los soportes, hablemos del papel. La artista húngara Vera Molnar (que casualmente perteneció al mismo colectivo artístico que el mendocino Julio Le Parc en París) al igual que otros artistas como Georg Ness, Frieder Nake o Michael Noll, trabajaban en papel con plotters. Traducían a papel instrucciones y procedimientos. La historiadora Zsofi Valyi-Nagy describe en un dossier sobre Vera Molnar que la artista se especializaba en los "Drum Plotters", que a diferencia de los "Flatbed Plotters" tenían una fuente continua de papel, como una impresora [@valyi-nagyHOLODossierVera2022]. Valyi-Nagy hace una observación muy atinada con respecto al soporte principal de Molnar:
 
 "The ink-on-paper format is perhaps what has allowed art museums to collect this work more extensively than other forms of digital art, as we don’t need to reactivate obsolete technologies to view it. But its deceptive straightforwardness also runs the risk of flattening our understanding of early computational art into a simple process of input and output." [El formato de tinta sobre papel es quizás lo que ha permitido a los museos de arte coleccionar su obra de manera más extensa que otras formas de arte digital, ya que no necesitamos preservar tecnologías obsoletas para verla. Sin embargo, su aparente sencillez también corre el riesgo de simplificar nuestra comprensión del arte por computadoras temprano en un simple proceso de entrada y salida.] [@valyi-nagyHOLODossierVera2022].
 
@@ -174,10 +177,49 @@ En esta misma línea es interesante traer a colación los “Paper Prints”, un
 
 En muchísimos casos gracias a los Paper Prints es que se conservan hoy películas de esa época, pues por falta de interés, por la naturaleza de los materiales (como el nitrato autocombustible) o por los requisitos legales, muchas copias se perdieron para siempre.
 
+## Datos en celuloide
+
+El proceso de transferencia de imágenes en video o digitales a medios fotoquímicos tradicionales es conocido de forma general como Film-out o Digital-to-film. En el pasado en general este paso cumplía objetivos técnicos de distribución, principalmente para películas realizadas en formatos digitales o analógicos que requerían de una conversión óptica para copias en 35 mm para su distribución en cines. Hoy en día la práctica se encuentra muy reservada a casos específicos de archivo o se basa casi exclusivamente en una decisión artística. Según la revista norteamericana _Filmmaker Magazine_, en Estados Unidos en 2021 se estrenaron 30 películas rodadas total o parcialmente en fílmico [@rizovApproximately30Movies2022], en 2022 solo 24 [@rizov24Features20222022] y en 2023 menos de 30 [@rizov29FeaturesShot2023].
+
+
+El caso de _Dune_ (2021), del director Québécois Denis Villeneuve, es un caso contemporáneo de digital-to-film. Filmada en digital en su totalidad, fue transferida posteriormente a digital para luego ser nuevamente digitalizada para la posproducción [@WhyDuneWas2021].
+
+En la línea de formatos y soportes inesperados, es interesante mencionar la tecnología de la empresa noruega Piql, dedicada a soluciones de almacenamiento y preservación de datos digitales. Además de trabajar para la industria audiovisual generando copias en fílmico de películas (digital to film), también ofrecen el servicio de copias en film de archivos digitales de cualquier tipo, también almacenadas en película de 35 mm. El sistema codifica cada bit del archivo digital a una forma de luz en la película, para formar largas cantidades de film que son luego almacenadas y, en todo caso, decodificadas posteriormente con la misma máquina. En general también incluyen referencias gráficas o humanamente legibles al documento original[^5].
+
+![Piql. *Piql - Data Regeneration*. 2021. _Vimeo_, https://vimeo.com/516428662](./assets/piql2.jpg)
+
+![Piql. *Piql - Data Regeneration*. 2021. _Vimeo_, https://vimeo.com/516428662](./assets/piql.jpg)
+
+Es conocido el uso de esta tecnología para el Arctic World Archive, un proyecto de archivo y preservación en la isla de Spitsbergen, en Noruega. El AWA “contiene información histórica y cultural de varios países, además de todo el código abierto de GitHub, (…) con una expectativa de vida de 500 a 2000 años, almacenado en las condiciones adecuadas” [@ArcticWorldArchive2021].
+
+[^5]: _Piql. Piql - Data Regeneration._ 2021. _Vimeo_, https://vimeo.com/516428662
+
+## La Web Permanente: sistemas descentralizados de preservación
+
+Para vincular la línea que venimos marcando entre preservación y soportes con el concepto de “sistemas descentralizados” en la web, quizás conviene destacar las diferentes “webs” que vinieron dándose a lo largo de los años, y dejar en claro algunas definiciones.
+
+“Internet” refiere a los cables, los protocolos, la tecnología; y “Web” (también conocida como “red” en español) a los buscadores, las aplicaciones, los programas. “Web 1.0” hace referencia a los sitios estáticos y de “solo lectura” de hasta principios de los 2000. “Web 2.0” a la naturaleza dinámica e interactiva de los sitios post-2000, también conocida como “read/write web”: los usuarios pueden leer información y subir su propio contenido, utilizando programas y a través de intermediarios. Y para la “Web 3.0”, se plantea la idea de “confianza” (trust): se conectan los programas con el contenido, se eliminan las organizaciones intermediarias, y se suma la “verificación pública” [@benetWhatExactlyWeb32018].
+
+![_What Exactly is Web3? by Juan Benet at Web3 Summit 2018. Youtube_, https://www.youtube.com/watch?v=l44z35vabvA](./assets/benet.png)
+
+En este contexto de la Web 3.0 se habla mucho de lo descentralizado, y por supuesto también de su gran protagonista, la blockchain: un mecanismo de datos cuya información se agrupa en conjuntos (bloques) a los que se les añade metadata relativa a otro bloque de la cadena anterior en una línea temporal. Gracias a esto la información contenida en un bloque solo puede ser editada modificando todos los bloques posteriores, lo que la hace segura y verificable [@CadenaBloques2021]. Tiene múltiples usos, desde financieros, legales, y hasta democráticos.
+
+“El Sistema de Archivos Interplanetario (del inglésː InterPlanetary File System - IPFS), es un sistema de guardado de archivos “en la nube” basado en la tecnología de la blockchain, pariente del sistema de archivos de los torrents. Los sitios subidos a la IPFS son distribuidos entre múltiples usuarios participantes, lo que permite que si el server original de un sitio cae o desaparece, todavía se pueda acceder a esta información por estar dividido y descentralizado en muchas computadoras en el mundo. También permite, por ejemplo, revisar versiones anteriores. “Los inventores del internet están intentando construir una red verdaderamente permanente” es el nombre que lleva el artículo de la revista norteamericana WIRED. En ella comparan la obsolescencia de los floppy disk con la de muchísimos sitios web ahora extintos, la centralización que implica el Internet Archive, y las bondades de los archivos basados en papel. “Le estamos dando a la información digital una cualidad parecida al papel” dice el fundador del IPFS, Juan Benet [@finleyInventorsInternetAre2016].
+
+La gran mayoría de los NFT están respaldados a través de esta tecnología descentralizada, vinculados además con la blockchain, aunque no concretamente a la red de Bitcoin, sino a otras más nuevas, como Ethereum, Tezos, o Cardano. Sin embargo, que estos sistemas sean descentralizados no significa que sean baratos, y menos aún ecológicos. Si bien se sobreentiende que por algoritmos, descentralización y criptografía los archivos se conservan, todavía queda preguntarse si este sistema es más seguro o duradero que las películas en 35 mm de Piql, los Paper Prints de Edison o incluso los archivos de empresas privadas como el Internet Archive. A nivel ecológico, pareciera que ningún método es del todo efectivo, incluso el film implica toneladas de cartílago de animales para su desarrollo.
+
+## La imagen pobre y los archivos involuntarios
+
+Si bien ya muy citada, se pueden reciclar y rescatar las palabras de Hito Steyerl alrededor de esta otra manera de distribución y democratización de la información, “la imagen pobre”: las “copias en movimiento”. Copias por fuera del circuito comercial y legal, desautorizadas para su distribución: copias pirata, “screeners”, copias de mala calidad. En palabras de Steyerl:
+
+> …los materiales visuales resistentes o disidentes desaparecieron de la superficie para sumergirse en un subsuelo de archivos y colecciones alternativas, manteniéndose vivos solo en una red de organizaciones e individuos comprometidos que hacían circular entre ellos copias piratas en vhs. Las fuentes de procedencia eran extremadamente raras: las cintas circulaban de mano en mano, dependiendo del boca en boca, en círculos de amigos y colegas. Con la aparición reciente del streaming de video online, esta situación empezó a cambiar radicalmente [@steyerlCondenadosPantalla2014, p. 38].
+
+En este contexto la autora hace referencia directa al video digital y a su distribución alternativa, pero lo que rescato de todo el movimiento que describe aquí es la tecnología y las consecuencias culturales del mero uso de las plataformas secundarias de distribución. Del mismo modo que un usuario sube a Youtube la filmografía completa de Chris Marker (como el ejemplo que Hito menciona en su escrito)… ¿No podríamos pensar a los NFT y a sus creadores como unas nuevas imágenes pobres, en cuanto a su distribución “permanente”, gracias a su apoyo en tecnologías descentralizadas como el IPFS y la blockchain? Incluso se podría encontrar un paralelismo con la preservación accidental de la que habla Bill Brand, que por el mero hecho de haber trabajado con material fílmico y haber trabajado con artistas, se preserva “involuntariamente” en el tiempo.
+
+Todas estas tecnologías parecieran estar trazando una genealogía de preservación híbrida, entre lo analógico y lo digital. Pareciera que mientras más pasos de hibridación y mudanza del soporte, mientras más “generaciones” como se dice en el ambiente del archivo audiovisual, más posibilidades existen de que se preserve en el tiempo.
+
+De esta forma, no parece descabellada la idea de transferir obras digitales a fílmico, o incluso subirlas (o mintearlas[^6]) a una IPFS vinculada a la Blockchain. Todo este proceso híbrido funciona como un experimento para “preservar la memoria y la historia” de nuestras creaciones. Esto es lo que se verá en la segunda parte de la tesis, donde se llevará a cabo una práctica híbrida de tecnologías de preservación y reproducción para obras generativas, con fines estéticos y experimentales, llamados "Films Automáticos".
+
+[^6]: Mintear un NFT (como “acuñar un token no fungible”), es publicar un activo digital único en la blockchain para que pueda comprarse, venderse y/o intercambiarse.
 
 # Bibliografía
-
-
-
-[^3]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
-[^4]: El término en inglés "upscaling" refiere a escalar una imagen por encima de su resolución original.
