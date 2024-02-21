@@ -81,7 +81,7 @@ En este tipo de hibridación e iteración es que observo una preservación invol
 
 # Antecedentes teóricos y referentes artísticos
 
-En este primer capítulo se pondrán en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan.
+En este primer capítulo se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan.
 
 ## Preservación y acceso
 
