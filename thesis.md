@@ -1,18 +1,19 @@
 ---
-title: "La Preservación Involuntaria"
-author: "Javier de Azkue"
-toc-title: "Indice"
+title: La Preservación Involuntaria
+author: Javier de Azkue
+toc-title: Indice
 bibliography: references/bib.bib
 output:
   custom_document:
-    # path: "/Exports/la-preservacion-involuntaria.pdf"
-    path: "/Exports/la-preservacion-involuntaria.docx"
+    path: /Exports/la-preservacion-involuntaria.docx
     toc: true
     reference_doc: styles/style.docx
-    pandoc_args: ["--csl", "references/apa.csl"]
+    pandoc_args:
+      - --csl
+      - references/apa.csl
 ---
 
-# _Resumen_
+# Resumen
 
 La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte digital, entendiendo esta hibridación como una combinación de arte por computadora con procesos, formatos y soportes analógicos no-digitales que pueden llevar a la preservación en el tiempo de estas obras electrónicas, voluntaria o involuntariamente. La tesis estudia estos conceptos, analiza las problemáticas de la preservación digital y propone un camino de experimentación y reflexión de arte híbrido, con técnicas ligadas a la fotografía, la animación y la programación.
 
@@ -89,7 +90,7 @@ Sería pertinente introducir al concepto de “preservación” y diferenciarlo 
 
 Preservar patrimonio cultural consiste principalmente en conservar su “forma original” frente a las adversidades del paso del tiempo, o frente a accidentes o acciones humanas; y muchas veces consiste también en “restaurarlo” (o volverlo) a esa forma. “Dar acceso” a una obra,  a nivel público, consiste justamente en eso, democratizar su visualización y utilidad. Y podría considerarse la antítesis de la idea de preservación, pues a nivel abstracto puede sugerir degradación y desgaste, aunque muchas veces demuestran ser inesperados salvadores del patrimonio. A continuación un ejemplo:
 
-En el cine en particular, por muchísimos años se pensaba que para preservar una película bastaba con duplicarla (hacer una copia). A nivel local, en Argentina es conocido el caso de la colección de películas de Manuel Peña Rodriguez, actualmente conservadas en el Museo del Cine Pablo Ducrós Hicken de Buenos Aires. Peña Rodriguez era un crítico, productor y realizador de cine Argentino que en 1941 fundó el Primer Museo Cinematográfico Argentino (PMCA) y cuya colección pasó a estar bajo custodia del Fondo Nacional de las Artes a finales de los años 60, por una deuda que tenía el crítico con la institución. La colección contaba con importantes obras del período silente en su formato original de 35 mm en soporte nitrato, algunas de las cuales hoy se consideraban perdidas. Hacia 1971 se dispuso la destrucción de las copias originales luego de duplicarlas a acetato en 16 mm, con intenciones de dar acceso pero también de salvarlas de su pronta degradación total, pues era lo que se solía hacer en esos tiempos con el material en soporte nitrato, que entre otras cosas era inflamable y el acetato era más económico y seguro ("Safety Film"). A esto se le sumó en 1974 una transmisión televisiva de estos cortos del período silente transmitida por Canal 7, en el que sin ningún criterio de preservación se cortaban y editaban nuevas versiones adaptadas para los tiempos televisivos. Los efectos fueron devastadores para la colección: las películas perdieron color, detalle, e incluso coherencia narrativa. Sin embargo, son también las únicas copias existentes de algunas películas que se consideraban perdidas a nivel internacional [@cappaNitratoArgentinoHistoria2019][^3].
+En el cine en particular, por muchísimos años se pensaba que para preservar una película bastaba con duplicarla (hacer una copia). A nivel local, en Argentina es conocido el caso de la colección de películas de Manuel Peña Rodriguez, actualmente conservadas en el Museo del Cine Pablo Ducrós Hicken de Buenos Aires. Peña Rodriguez era un crítico, productor y realizador de cine Argentino que en 1941 fundó el Primer Museo Cinematográfico Argentino (PMCA) y cuya colección pasó a estar bajo custodia del Fondo Nacional de las Artes a finales de los años 60, por una deuda que tenía el crítico con la institución. La colección contaba con importantes obras del período silente en su formato original de 35 mm en soporte nitrato, algunas de las cuales hoy se consideraban perdidas. Hacia 1971 se dispuso la destrucción de las copias originales luego de duplicarlas a acetato en 16 mm, con intenciones de dar acceso pero también de salvarlas de su pronta degradación total, pues era lo que se solía hacer en esos tiempos con el material en soporte nitrato, que entre otras cosas era inflamable y el acetato era más económico y seguro ("Safety Film"). A esto se le sumó en 1974 una transmisión televisiva de estos cortos del período silente transmitida por Canal 7, en el que sin ningún criterio de preservación se cortaban y editaban nuevas versiones adaptadas para los tiempos televisivos. Los efectos fueron devastadores para la colección: las películas perdieron color, detalle, e incluso coherencia narrativa. Sin embargo, son también las únicas copias existentes de algunas películas que se consideraban perdidas a nivel internacional [@cappaNitratoArgentinoHistoria2019].
 
 En restauración digital para cine, la idea general de preservación muchas veces depende del interés del cliente que paga por el trabajo. La idea de “conservar” la forma original muchas veces es olvidada y reemplazada por una idea de que se vea “mejor” (e incluso cuando esto implica modificar limitaciones tecnológicas de la época: corregir fluctuaciones de luz, simular fotogramas faltantes, estabilizar la cámara, simular color, etc.).
 
@@ -132,7 +133,8 @@ Su proyecto Máquina Podrida (_aka La Desdentada_) consistió en una exposición
 
 En esta misma línea es que podríamos acercarnos a esta idea de preservación involuntaria, porque si bien en Brian Mackern la preservación de las obras es parte de las obras en sí, pareciera haber una suerte de coincidencia entre la búsqueda estética personal del autor, y los resultados de preservación actuales. Muchas obras, propias y ajenas, fueron preservadas en el tiempo gracias a este interés, que ahora es medular en su trabajo.
 
-![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart](./assets/SAM_5524.jpg)
+![[SAM_5524.jpg]]
+adsfasdfasdfasdf[^1]
 
 ## Bill Brand y Artist Films
 
@@ -173,6 +175,8 @@ Volviendo a los soportes, hablemos del papel. La artista húngara Vera Molnar (q
 ![_Vera Molnar in her Paris studio in 2018_. Galerie Oniris–Rennes. Accedido 16 de Febrero desde https://news.artnet.com/art-world/vera-molnar-venice-biennale-2098046](./assets/Ofisx-1920x1285.jpg)
 
 En esta misma línea es interesante traer a colación los “Paper Prints”, un sistema guardado de propiedad intelectual para películas hacia finales del siglo XIX y principios del siglo XX en los que se archivaban los fotogramas de las películas. Como no había antecedentes legales para registrar este formato, las cintas se transferían a papel con una copiadora óptica y se las archivaba como obras gráficas, y de esta manera se mantenía su autoría. Thomas Alva Edison fue el primero en registrar una película con este sistema en 1893 [@PaperPrint2023].
+
+![[Edison.jpg]]
 
 ![A la izquierda: Dickson, W. K.-L. (1889). _Edison Kinetoscopic Record of a Sneeze_. [@dicksonFrancaisMorceauFilm1889]. A la derecha: Frank Wylie, S. (2005). _Paper print of The Untamable Whiskers (Le roi du maquillage, 1904), Georges Méliès greeting to the camera_. [@ohioEnglishPaperPrint2005]](./assets/Edison.jpg)
 
