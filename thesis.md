@@ -67,7 +67,9 @@ Pero preservar es un verbo ambiguo: a pesar de su definición más pura de “co
 
 En este tipo de hibridación e iteración es que observo una preservación involuntaria: las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.
 
-# Conceptos y contextos sobre preservación y acceso
+# Conceptos y contextos alrededor de preservación y acceso
+
+En este primer capítulo se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan en la segunda parte.
 
 ## Una obligación incuestionable
 
@@ -78,8 +80,6 @@ Con internet y la ley de Gordon Moore que estima que aproximadamente cada 2 año
 Por otro lado, así como Alfonso del Amo Cuarón destaca también en su guía las bondades de rescatar materiales fílmicos dando acceso a ellos (proyectándolos), es provechoso compararlo con la piratería, el exceso de imágenes, los remixes, los torrents. Hito Steyerl habla de la “imagen pobre” como “copias en movimiento”. La imagen pobre “...transforma la calidad en accesibilidad, el valor de exhibición en valor de culto, las películas en clips, la contemplación en distracción. La imagen es liberada de las criptas del cine y los archivos y empujada a la incertidumbre digital a costa de su propia sustancia" [@steyerlCondenadosPantalla2014]
 
 Internet entonces no es sólo fuente de contenido sino también de inspiración. En esta dinámica, los creadores independientes pueden subir y compartir sus obras, y por la sola inercia de las tecnologías (y la capacidad de las computadoras) muchas obras perduran en el tiempo de forma automática. Hay excepciones a la regla: formatos irreproducibles, actualizaciones de hardware sin retrocompatibilidad, páginas web caídas, sitios de guardado de archivos como Megaupload eliminados por cuestiones legales, codecs de video corrompidos, o simplemente bugs.
-
-En este primer capítulo se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan.
 
 ### Preservación y acceso
 
