@@ -67,7 +67,9 @@ Pero preservar es un verbo ambiguo: a pesar de su definición más pura de “co
 
 En este tipo de hibridación e iteración es que observo una preservación involuntaria: las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.
 
-# Una obligación incuestionable
+# Conceptos y contextos sobre preservación y acceso
+
+## Una obligación incuestionable
 
 En el prólogo al libro Clasificar para Preservar del investigador español en cine Alfonso del Amo García se plantea la “obligación incuestionable” de las civilizaciones de “preservar la memoria y la historia”. El texto asevera que “mediante la palabra repetida y atesorada en piedra, pergamino y papel, sabemos quiénes somos y cuál es nuestro lugar en el mundo” [@amogarciaClasificarParaPreservar2008]. Es un libro muy reconocido y consultado en el ambiente de los archivos y la preservación cinematográfica en la mayoría de los países de habla hispana. Considerando las diferentes realidades socioeconómicas e históricas de los archivos del mundo, el autor presenta el libro no como un “manual de preservación” sino como una especie de guía y manifiesto. Además de resaltar la importancia del compartir y el acceso a las películas, prioriza la clasificación en los archivos y el conocimiento técnico de los materiales como fuente de poder frente a la acción implacable del tiempo. De la era del cine silente en Estados Unidos se estima que al menos el 70% de las películas están completamente perdidas [@pierceSurvivalAmericanSilent2013, p.136].
 
@@ -78,10 +80,6 @@ Por otro lado, así como Alfonso del Amo Cuarón destaca también en su guía la
 Internet entonces no es sólo fuente de contenido sino también de inspiración. En esta dinámica, los creadores independientes pueden subir y compartir sus obras, y por la sola inercia de las tecnologías (y la capacidad de las computadoras) muchas obras perduran en el tiempo de forma automática. Hay excepciones a la regla: formatos irreproducibles, actualizaciones de hardware sin retrocompatibilidad, páginas web caídas, sitios de guardado de archivos como Megaupload eliminados por cuestiones legales, codecs de video corrompidos, o simplemente bugs.
 
 En este primer capítulo se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan.
-
-## Preservación por accidente
-
-La preservación en las artes audiovisuales puede desarrollares por accidente o como parte de una decisión estética y política. A continuación se desarrollan algunas definiciones y se contextualizan con referentes artísticos y técnicos.
 
 ### Preservación y acceso
 
@@ -201,6 +199,8 @@ Es conocido el uso de esta tecnología para el Arctic World Archive, un proyecto
 [^5]: _Piql. Piql - Data Regeneration._ 2021. _Vimeo_, https://vimeo.com/516428662
 
 ## La web Permanente
+
+En internet se habla mucho de democratización y distribución, ya sea desde los principios y las bases del software libre hasta los sitios web basados en el croudsourcing. Existen valores e ideales fuertes en los sitios de piratería, donde la confianza se basa en las ideas de un acceso universal a la cultura y la retribución a los autores se basa en el mérito y la solidaridad. Y en la blockchain, nada es privado, toda la información es pública y permanente.
 
 ### Preservación descentralizada
 
