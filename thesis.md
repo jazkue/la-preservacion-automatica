@@ -67,11 +67,15 @@ Pero preservar es un verbo ambiguo: a pesar de su definición más pura de “co
 
 En este tipo de hibridación e iteración es que observo una preservación involuntaria: las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.
 
-# Conceptos y contextos alrededor de preservación y acceso
+# hipótesis y metodología de trabajo
 
-En este primer capítulo se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio, investigando desde cine hasta instalaciones basadas en computadoras, e incluso videojuegos. En paralelo se incluirán referentes artísticos que ejemplifican ciertos puntos, y se intentará demostrar la conexión entre estas ideas y trabajos con el interés particular de la tesis y los experimentos prácticos que la acompañan en la segunda parte.
+# Preservar (?)
 
-## Una obligación incuestionable
+En este primer apartado se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio
+
+## Algo sobre preservación "general"
+
+## Una obligación incuestionable (preservar cine)
 
 En el prólogo al libro Clasificar para Preservar del investigador español en cine Alfonso del Amo García se plantea la “obligación incuestionable” de las civilizaciones de “preservar la memoria y la historia”. El texto asevera que “mediante la palabra repetida y atesorada en piedra, pergamino y papel, sabemos quiénes somos y cuál es nuestro lugar en el mundo” [@amogarciaClasificarParaPreservar2008]. Es un libro muy reconocido y consultado en el ambiente de los archivos y la preservación cinematográfica en la mayoría de los países de habla hispana. Considerando las diferentes realidades socioeconómicas e históricas de los archivos del mundo, el autor presenta el libro no como un “manual de preservación” sino como una especie de guía y manifiesto. Además de resaltar la importancia del compartir y el acceso a las películas, prioriza la clasificación en los archivos y el conocimiento técnico de los materiales como fuente de poder frente a la acción implacable del tiempo. De la era del cine silente en Estados Unidos se estima que al menos el 70% de las películas están completamente perdidas [@pierceSurvivalAmericanSilent2013, p.136].
 
@@ -81,7 +85,7 @@ Por otro lado, así como Alfonso del Amo Cuarón destaca también en su guía la
 
 Internet entonces no es sólo fuente de contenido sino también de inspiración. En esta dinámica, los creadores independientes pueden subir y compartir sus obras, y por la sola inercia de las tecnologías (y la capacidad de las computadoras) muchas obras perduran en el tiempo de forma automática. Hay excepciones a la regla: formatos irreproducibles, actualizaciones de hardware sin retrocompatibilidad, páginas web caídas, sitios de guardado de archivos como Megaupload eliminados por cuestiones legales, codecs de video corrompidos, o simplemente bugs.
 
-### Preservación y acceso
+## Preservación y acceso (lo original?)
 
 Sería pertinente introducir al concepto de “preservación” y diferenciarlo del de “acceso” porque muchas veces se entrecruzan.
 
@@ -96,7 +100,7 @@ Estos dilemas también escapan de los laboratorios de restauración más profesi
 [^3]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
 [^4]: El término en inglés "upscaling" refiere a escalar una imagen por encima de su resolución original.
 
-### Bill Brand
+## Bill Brand
 
 Bill Brand es un director de cine experimental de Estados Unidos que es también reconocido como activista y educador, principalmente en torno a la preservación audiovisual. En su obra como artista todo el proceso de laboratorio y las formalidades que conlleva la preservación de esas obras forman parte de la obra. En esta forma de trabajo surge lo que él bautiza como “The accidental preservationist” (el preservador accidental), entendiéndose a él mismo como experto en preservación y conservación recién en los últimos años de su carrera, viendo en perspectiva que fueron sus intereses y sus búsquedas lo que lo que lo llevaron a descubrirse en ese sector [@lampertResultsYouCan2006, 35-43].
 
@@ -106,7 +110,27 @@ Su obra más conocida es quizás Masstransiscope (1980), realizada íntegramente
 
 ![Brand, B. (1980). _Masstransiscope Illustration_. Accedido 15 de Febrero de 2024 desde https://www.billbrand.net/public-art](./assets/masstransiscope+illustration.jpg)
 
-### Brian Mackern
+# Preservación de arte en tiempo real
+
+Como con los sitios web, la preservación de las “time-based media works” (obras de arte basadas en el tiempo, como video, cine, audio, instalaciones, videojuegos, etc.) conlleva un desafío muy importante para los museos y los coleccionistas. Estas obras muchas veces dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, en esta disciplina los métodos son más jóvenes y son principalmente estudiados por instituciones de países desarrollados en cooperación con estándares de industrias audiovisuales y tecnológicas.
+
+## Medios basados en el tiempo
+
+_Matters in Media Art_ es un proyecto de cooperación entre instituciones como los museos MoMA y TATE alrededor de la preservación de obras de este tipo, consultando a expertos y preparando guías para el desarrollo de esta práctica. Este consorcio apunta a generar material para coleccionistas, artistas e instituciones de todos las escalas. Las guías son exhaustivas, asesorando alrededor de la adquisición, la documentación a realizar, cómo llevar a cabo préstamos, y cómo preservar digitalmente estas obras [@MattersMediaArt].
+
+El trabajo que plantea el consorcio en general compete disciplinas muy diversas y requiere trascender y confrontar prácticas de archivo y preservación tradicionales. Curadores, archivistas, técnicos en informática, conservadores y expertos contribuyen a estas diversas obras de arte. Algunos ejemplos de estas guías son de obras de video, audio, cine, y diapositivas, pero también ofrecen guías para tratar las computadoras, las pantallas, los reproductores y los proyectores.
+
+En esta línea podríamos citar el ejemplo del _Computerspiele Museum_ en Berlín, un museo dedicado a la conservación y preservación de videojuegos, desde el software al hardware, financiado por el Consejo Internacional de Museos.
+
+Los casos de archive.org y la Wayback Machine o el Matters in Media Art funcionan, entre otras cosas, gracias a un respaldo institucional y una inversión multimillonaria de años. Sin embargo, no es la única manera de conservar páginas web (o como se viene hablando, cualquier tipo de medio), puesto que, como ya se aclaró, muchas se encuentran perdidas incluso en estas instituciones. A continuación algunos ejemplos de conservación paralelas, algunas más “involuntarias” que otras.
+
+## Preservación de internet
+
+_Internet Archive_ (archivo de Internet) es una biblioteca digital sin fines de lucro dedicada al archivo y conservación preservación de sitios web, libros, audio, software, imágenes, películas y videos. Funciona como un sitio de consulta permanente, de uso libre, y funciona desde 1996, nacida principalmente como un proyecto de archivo de sitios web, en pleno auge del internet de modo masivo. En la actualidad una sola copia de todo el archivo supera los 70 petabytes (1 petabyte = 1024 terabytes), y de todo documento se conserva por lo menos 2 copias. Es de uso libre, como el sistema de crowdsourcing de Wikipedia, y tiene asociaciones con bibliotecas y archivos de todo el mundo, lo que lo hace además de un proyecto a escala mundial, un trabajo colaborativo. “Nuestra misión es ofrecer acceso universal a todo el conocimiento” [@InternetArchiveIA].
+
+Sin duda uno de sus mayores atractivos es la Wayback Machine, nacida en pleno auge de los sitios web en los 90 como un proyecto de guardado automático de páginas. De manera automática los _crawlers_ toman _snapshots_ de sitios públicos, para guardarlos cronológicamente en un calendario, donde el usuario puede (o no) conseguir versiones anteriores a las disponibles online o inclusive visitar páginas ya extintas. Se lleva muy bien con el html básico pero todo lo que requería de sistemas externos como Javascript o Flash no funcionan al día de hoy. De hecho la Wayback Machine es una excelente lección de lo vulnerable de los archivos digitales, porque la mayoría de los sitios web se encuentran perdidos o inutilizables. Lo mismo sucede con mucho software y no tanto pero también con formatos de video. El caso de los videojuegos es interesante porque muchos tienen incorporado un emulador con el que se pueden jugar en el sitio mismo, por lo que juegos para la Atari, DOS o Commodore 64 funcionan sin problema.
+
+## Brian Mackern
 
 Brian Mackern es un artista uruguayo que ha desarrollado la mayor parte de su obra alrededor del net art y el sound art. Realiza experimentos con proyecciones, datos y colaborando con artistas sonoros y musicales. A través de sus trabajos de “arqueología digital” lleva adelante un proyecto de divulgación y conservación de net art latinoamericano, netart.org.uy. Aparte destaca la importancia de los archivos digitales, y la importancia de mantener las computadoras para las que funcionaban esos archivos digitales. Desde el año 2004, se dedica a la recuperación, conservación y preservación de obras de netart de los años 90s.
 
@@ -116,27 +140,7 @@ En esta misma línea es que podríamos acercarnos a esta idea de preservación i
 
 ![Mackern, B. (2015). _La máquina podrida_. Accedido 15 de Febrero 2024 desde https://netart.org.uy/podrida_ceart](./assets/SAM_5524.jpg)
 
-## Arte temporal
-
-Como con los sitios web, la preservación de las “time-based media works” (obras de arte basadas en el tiempo, como video, cine, audio, instalaciones, videojuegos, etc.) conlleva un desafío muy importante para los museos y los coleccionistas. Estas obras muchas veces dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, en esta disciplina los métodos son más jóvenes y son principalmente estudiados por instituciones de países desarrollados en cooperación con estándares de industrias audiovisuales y tecnológicas.
-
-### Medios basados en el tiempo
-
-El [Matters in media art](http://mattersinmediaart.org/) es un proyecto de cooperación entre instituciones como los museos MoMA y TATE alrededor de la preservación de obras de este tipo, consultando a expertos y preparando guías para el desarrollo de esta práctica. Este consorcio apunta a generar material para coleccionistas, artistas e instituciones de todos las escalas. Las guías son exhaustivas, asesorando alrededor de la adquisición, la documentación a realizar, cómo llevar a cabo préstamos, y cómo preservar digitalmente estas obras [@MattersMediaArt].
-
-El trabajo que plantea el consorcio en general compete disciplinas muy diversas y requiere trascender y confrontar prácticas de archivo y preservación tradicionales. Curadores, archivistas, técnicos en informática, conservadores y expertos contribuyen a estas diversas obras de arte. Algunos ejemplos de estas guías son de obras de video, audio, cine, y diapositivas, pero también ofrecen guías para tratar las computadoras, las pantallas, los reproductores y los proyectores.
-
-En esta línea podríamos citar el ejemplo del _Computerspiele Museum_ en Berlín, un museo dedicado a la conservación y preservación de videojuegos, desde el software al hardware, financiado por el Consejo Internacional de Museos.
-
-Los casos de archive.org y la Wayback Machine o el Matters in Media Art funcionan, entre otras cosas, gracias a un respaldo institucional y una inversión multimillonaria de años. Sin embargo, no es la única manera de conservar páginas web (o como se viene hablando, cualquier tipo de medio), puesto que, como ya se aclaró, muchas se encuentran perdidas incluso en estas instituciones. A continuación algunos ejemplos de conservación paralelas, algunas más “involuntarias” que otras.
-
-### Internet Archive (el archivo de internet)
-
-_Internet Archive_ (archivo de Internet) es una biblioteca digital sin fines de lucro dedicada al archivo y conservación preservación de sitios web, libros, audio, software, imágenes, películas y videos. Funciona como un sitio de consulta permanente, de uso libre, y funciona desde 1996, nacida principalmente como un proyecto de archivo de sitios web, en pleno auge del internet de modo masivo. En la actualidad una sola copia de todo el archivo supera los 70 petabytes (1 petabyte = 1024 terabytes), y de todo documento se conserva por lo menos 2 copias. Es de uso libre, como el sistema de crowdsourcing de Wikipedia, y tiene asociaciones con bibliotecas y archivos de todo el mundo, lo que lo hace además de un proyecto a escala mundial, un trabajo colaborativo. “Nuestra misión es ofrecer acceso universal a todo el conocimiento” [@InternetArchiveIA].
-
-Sin duda uno de sus mayores atractivos es la Wayback Machine, nacida en pleno auge de los sitios web en los 90 como un proyecto de guardado automático de páginas. De manera automática los _crawlers_ toman _snapshots_ de sitios públicos, para guardarlos cronológicamente en un calendario, donde el usuario puede (o no) conseguir versiones anteriores a las disponibles online o inclusive visitar páginas ya extintas. Se lleva muy bien con el html básico pero todo lo que requería de sistemas externos como Javascript o Flash no funcionan al día de hoy. De hecho la Wayback Machine es una excelente lección de lo vulnerable de los archivos digitales, porque la mayoría de los sitios web se encuentran perdidos o inutilizables. Lo mismo sucede con mucho software y no tanto pero también con formatos de video. El caso de los videojuegos es interesante porque muchos tienen incorporado un emulador con el que se pueden jugar en el sitio mismo, por lo que juegos para la Atari, DOS o Commodore 64 funcionan sin problema.
-
-### Cameron's World
+## Cameron's World
 
 [Cameron’s World](https://www.cameronsworld.net/) es un proyecto del artista neozelandés Cameron Askin, basado en las capacidades de archivo de Wayback Machine. Se trata de una compilación de páginas de Geocities, un servicio gratuito de alojamiento web de finales de los 90. En este período Geocities le permitió a usuarios de todo el mundo crear sus propios sitios web, llegando hasta 38 millones de páginas en su cierre en 2008. El proyecto es un tributo a esa era inocente y prolífica de internet, a través de un collage temático y estético en un largo scroll repleto de gifs, con una suerte de “emulador” del explorador por excelencia de esas épocas, el Netscape Navigator (disfrazado para el proyecto como “Catscape Navigator”), que nos permite ingresar a los hipervínculos y conocer más.
 
@@ -144,13 +148,13 @@ Esta “carta de amor al viejo internet” [@askinCameronWorld2015] , como la pl
 
 ![Askin, C. _Cameron’s World_. ](./assets/camerons-world.jpg "Askin, C. _Cameron’s World_. ")
 
-## Computer Art en papel y en celuloide
+# Computer Art en papel y en celuloide
 
 Siguiendo con las hibridaciones, en los inicios del _computer art_, o arte por computadora, en los cimientos de los pioneros como los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre fílmico o papel. En muchas situaciones, en particular al comienzo, al contrario de lo que sucede hoy en día, no había forma de visualizar los resultados en tiempo real. Zsofi Valyi-Nagy escribe sobre estos temas en su dosier sobre Vera Molnar:
 
 “In the early days, computing was a blind process. Artist gave instructions using punch cards but wouldn’t see the results of their program for hours or even days.” [En los primeros tiempos, la computación era un proceso a ciegas. Los artistas daban instrucciones con tarjetas perforadas pero no verían los resultados del programa por horas o incluso días] [@valyi-nagyHOLODossierVera2022]
 
-### Los hermanos Whitney
+## Los hermanos Whitney
 
 Las “computadoras mecánicas” que utilizaban los hermanos Whitney en los 50, por ejemplo, se trataban de cañones antiaéreos de la Segunda Guerra Mundial modificados. Aprovechando los cálculos y las ecuaciones polares que realizaban estas máquinas para calcular la trayectoria de un avión, los Whitney realizaban movimientos matemáticos para sus animaciones, que eran luego fotografiadas cuadro por cuadro con cámaras de cine. Tal es el caso con _Catalog_ (1961) y _Lapis_ (1966) [@whitneyDigitalHarmony1980, 184-186].
 
@@ -166,7 +170,7 @@ En el documental de John Musilli _The film art of John Whitney, Sr._ (1975) Whit
 
 Los experimentos audiovisuales de los Whitney dejan en claro hoy la particularidad del soporte, además del valor documental y, por ejemplo, la posibilidad de hacer copias nuevas 50 años después. A pesar de esto, las copias disponibles en plataformas como Youtube (o incluso en DVDs oficiales de los artistas) son de muy baja resolución, rescatadas quizás de copias analógicas en VHS. El _Academy Film Archive_ de la Academia de Artes y Ciencias Cinematográficas (AMPAS por sus siglas en inglés) preserva docenas de los films de los Whitney [@JohnWhitneyAnimator2023].
 
-### Vera Molnar
+## Vera Molnar
 
 Volviendo a los soportes, hablemos del papel. La artista húngara Vera Molnar (que casualmente perteneció al mismo colectivo artístico que el mendocino Julio Le Parc en París) al igual que otros artistas como Georg Ness, Frieder Nake o Michael Noll, trabajaban en papel con plotters. Traducían a papel instrucciones y procedimientos. La historiadora Zsofi Valyi-Nagy describe en un dossier sobre Vera Molnar que la artista se especializaba en los "Drum Plotters", que a diferencia de los "Flatbed Plotters" tenían una fuente continua de papel, como una impresora [@valyi-nagyHOLODossierVera2022]. Valyi-Nagy hace una observación muy atinada con respecto al soporte principal de Molnar:
 
@@ -174,7 +178,7 @@ Volviendo a los soportes, hablemos del papel. La artista húngara Vera Molnar (q
 
 ![_Vera Molnar in her Paris studio in 2018_. Galerie Oniris–Rennes. Accedido 16 de Febrero desde https://news.artnet.com/art-world/vera-molnar-venice-biennale-2098046](./assets/Ofisx-1920x1285.jpg)
 
-### Los Paper Prints
+## Los Paper Prints
 
 En esta misma línea es interesante traer a colación los “Paper Prints”, un sistema guardado de propiedad intelectual para películas hacia finales del siglo XIX y principios del siglo XX en los que se archivaban los fotogramas de las películas. Como no había antecedentes legales para registrar este formato, las cintas se transferían a papel con una copiadora óptica y se las archivaba como obras gráficas, y de esta manera se mantenía su autoría. Thomas Alva Edison fue el primero en registrar una película con este sistema en 1893 [@PaperPrint2023].
 
@@ -182,7 +186,7 @@ En esta misma línea es interesante traer a colación los “Paper Prints”, un
 
 En muchísimos casos gracias a los Paper Prints es que se conservan hoy películas de esa época, pues por falta de interés, por la naturaleza de los materiales (como el nitrato autocombustible) o por los requisitos legales, muchas copias se perdieron para siempre.
 
-### Digital pero tangible: "data-on-film"
+## Digital pero tangible: "data-on-film"
 
 El proceso de transferencia de imágenes en video o digitales a medios fotoquímicos tradicionales es conocido de forma general como Film-out o Digital-to-film. En el pasado en general este paso cumplía objetivos técnicos de distribución, principalmente para películas realizadas en formatos digitales o analógicos que requerían de una conversión óptica para copias en 35 mm para su distribución en cines. Hoy en día la práctica se encuentra muy reservada a casos específicos de archivo o se basa casi exclusivamente en una decisión artística. Según la revista norteamericana _Filmmaker Magazine_, en Estados Unidos en 2021 se estrenaron 30 películas rodadas total o parcialmente en fílmico [@rizovApproximately30Movies2022], en 2022 solo 24 [@rizov24Features20222022] y en 2023 menos de 30 [@rizov29FeaturesShot2023].
 
@@ -198,11 +202,11 @@ Es conocido el uso de esta tecnología para el Arctic World Archive, un proyecto
 
 [^5]: _Piql. Piql - Data Regeneration._ 2021. _Vimeo_, https://vimeo.com/516428662
 
-## La web Permanente
+# La web Permanente
 
 En internet se habla mucho de democratización y distribución, ya sea desde los principios y las bases del software libre hasta los sitios web basados en el croudsourcing. Existen valores e ideales fuertes en los sitios de piratería, donde la confianza se basa en las ideas de un acceso universal a la cultura y la retribución a los autores se basa en el mérito y la solidaridad. Y en la blockchain, nada es privado, toda la información es pública y permanente.
 
-### Preservación descentralizada
+## Preservación descentralizada
 
 Para vincular la línea que venimos marcando entre preservación y soportes con el concepto de “sistemas descentralizados” en la web, quizás conviene destacar las diferentes “webs” que vinieron dándose a lo largo de los años, y dejar en claro algunas definiciones.
 
