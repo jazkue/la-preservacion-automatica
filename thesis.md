@@ -69,11 +69,20 @@ En este tipo de hibridación e iteración es que observo una preservación invol
 
 # hipótesis y metodología de trabajo
 
-# Preservar (?)
+Bla bla bla
 
-En este primer apartado se ponen en contexto algunos conceptos e ideas generales alrededor de la preservación de obras audiovisuales en un sentido amplio
+# Una obligación incuestionable
 
-## Algo sobre preservación "general"
+¿Qué es preservar? del latín _praeservare_ ("cuidar/observar con antelación"), preservar podría definirse como conservar anticipadamente alguna cosa frente a accidentes, acciones humanas o el paso del tiempo. El historiador norteamericano David Lowenthal explica algunos de los orígenes de esta "manía por la memorabilia" en su artículo _Material Preservation and Its Alternatives_. En primer lugar plantea el origen de preservar en la búsqueda humana por sus raíces desde un aspecto nostálgico y genealógico: la tradición oral, el romanticismo por la historia, las expectativas y la decepción con el presente. En este contexto, también menciona la difusión del nacionalismo, que preserva íconos de identidad, y el capitalismo, que preserva símbolos de poder. Y en segundo lugar plantea lo obvio: la memoria es trunca y da origen a herramientas de preservación como aniversarios, archivos y museos [@lowenthalMaterialPreservationIts1989, p. 68].
+
+¿Por qué preservamos? Lowenthal enumera de manera general un par de motivos en forma de "cultos". Primero habla del "culto a lo representativo" como el mérito a aquello que representa "algo de un tiempo determinado". Después plantea el "culto al folklore" por el valor de los pueblos que no dejaron palabra escrita. El "culto a lo familiar y reciente" como una lucha contra la obsolescencia y la dislocación. Y el "culto a lo económico" por la explotación energética, turística o de materiales [@lowenthalMaterialPreservationIts1989, p. 68].
+
+¿Con qué criterios preservamos? Lowenthal explica las contradicciones de preservar patrimonio histórico a través del dilema de "El Barco de Teseo" de Plutarco. Amarrado en el muelle de un astillero por reparaciones, todas las viejas tablas del barco son reemplazadas por unas nuevas. ¿Es todavía el barco original? Según el autor es difícil separar la "identidad" de la "colección", lo más importante son las propiedades genéticas: el creador, el período, y la historia. Por otro lado, Lowenthal también plantea que preservar conlleva contradicciones en la sociedad: los "costos" contra el progreso de la modernidad, la preservación contra la creatividad, y el divorcio con la realidad de todos los días [@lowenthalMaterialPreservationIts1989, p. 69 - 71].
+
+¿Y de qué alternativas habla Lowenthal? El autor propone que preservar es más que la persistencia física de algo y lo defiende a través de tres alternativas. Primero habla de la "fragmentación", preservar una parte y no el todo, sus ventajas espaciales y simbólicas. Luego habla de preservar con "procesos", la destrucción inherente a la preservación como parte de una reconstrucción (y cita el ejemplo del templo de madera Ise Shinto en Japón que en los últimos mil años se viene desarmando y rearmando completamente cada 20 años). Y finalmente habla de preservar con "el lenguaje y las ideas", la memoria contra la persistencia física, como la china de Mao cuando se mandó demoler monumentos históricos para dar paso a nuevas ideas y nuevo arte, donde las posesiones materiales son vistas como vicios que dan lugar a la lujuria de la acumulación [@lowenthalMaterialPreservationIts1989, p. 74].
+
+Lowenthal acompaña esta idea de que si bien preservar es innato a la vida, no lo es más que innovar: "Preservation is not action or epilogue; it is only prologue" [Preservar no es la acción ni el epílogo; es solamente el prólogo] [@lowenthalMaterialPreservationIts1989, p. 76].
+
 
 ## Una obligación incuestionable (preservar cine)
 
@@ -85,7 +94,7 @@ Por otro lado, así como Alfonso del Amo Cuarón destaca también en su guía la
 
 Internet entonces no es sólo fuente de contenido sino también de inspiración. En esta dinámica, los creadores independientes pueden subir y compartir sus obras, y por la sola inercia de las tecnologías (y la capacidad de las computadoras) muchas obras perduran en el tiempo de forma automática. Hay excepciones a la regla: formatos irreproducibles, actualizaciones de hardware sin retrocompatibilidad, páginas web caídas, sitios de guardado de archivos como Megaupload eliminados por cuestiones legales, codecs de video corrompidos, o simplemente bugs.
 
-## Preservación y acceso (lo original?)
+## Preservación del original
 
 Sería pertinente introducir al concepto de “preservación” y diferenciarlo del de “acceso” porque muchas veces se entrecruzan.
 
