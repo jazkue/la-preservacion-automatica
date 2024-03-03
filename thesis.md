@@ -11,7 +11,9 @@ output:
     reference_doc: styles/style.docx
     pandoc_args: ["--csl", "references/apa.csl"]
 ---
-<!-- La preservación involuntaria: Estrategias híbridas para reflexionar sobre la permanencia en obras de arte digital. -->
+
+La preservación involuntaria: Estrategias híbridas para reflexionar sobre la permanencia en obras de arte digital
+
 
 # Resumen
 
@@ -90,7 +92,9 @@ Preservar entonces es un acto creativo, innovador, contradictorio e innato en el
 
 ## Una obligación incuestionable
 
-Las películas implican un desafío particular de preservación. Presentes en las sociedades desde hace poco más de 100 años, ocupan mucho lugar, se descomponen, se pudren. Necesitan temperaturas y humedad controladas. El material de nitrato de la mayoría de las copias del período de cine mudo es inflamable, y el material de acetato se avinagra en ácido acético con facilidad. Las copias se encojen, se endurecen. No es un material fácil, aunque al mismo tiempo es un sistema genial y elemental: lo único que requiere una película para apreciarse con el ojo humano es luz a través de su soporte. Esto trae ventajas importantísimas frente a la preservación de otros medios como los "born-digital" o los basados en tiempo que veremos más adelante.
+Las películas implican un desafío particular de preservación. Presentes en las sociedades desde hace poco más de 100 años, ocupan mucho lugar, se descomponen, se pudren. Necesitan temperaturas y humedad controladas. El material de nitrato de la mayoría de las copias del período de cine mudo es inflamable, y el material de acetato se avinagra en ácido acético con facilidad. Las copias se encojen, se endurecen. No es un material fácil, aunque al mismo tiempo es un sistema genial y elemental: lo único que requiere una película para apreciarse con el ojo humano es luz a través de su soporte. Esto trae ventajas importantísimas frente a la preservación de otros medios como los "born-digital" o los basados en tiempo que veremos más adelante. Sin embargo, con respecto a esta ventaja, la archivista Giovana Fossati dice:
+
+_...the concepts of analog and digital do not help in distinguishing between those media that are intelligible for us and those that need transcoding to allow intelligibility. Analog photography and film, in the end, are a technological singularity since they are the only representation systems that are fully transcoding-free and isomorphic with the originating image, as photographic images are transcribed and stored in a way that is intelligible for us without any kind of transcoding process. This is true unless we consider the chemical development of the latent image of a photograph as a transcoding process in itself._ [...los conceptos de analógico y digital no ayudan a distinguir entre los medios que son comprensibles para nosotros y aquellos que necesitan ser transcodificados para permitir la comprensión. La fotografía y el cine analógicos, al final, son una singularidad tecnológica ya que son los únicos sistemas de representación que son completamente libres de transcodificación e isomorfos con la imagen original, ya que las imágenes fotográficas se transcriben y almacenan de una manera que es comprensible para nosotros sin ningún tipo de proceso de transcodificación. Esto es cierto a menos que consideremos el desarrollo químico de la imagen latente de una fotografía como un proceso de transcodificación en sí mismo.] [@fossatiGrainPixelArchival2018, p. 26].
 
 En el prólogo al libro _Clasificar para Preservar_ del investigador español en cine Alfonso del Amo García plantea la “obligación incuestionable” de las civilizaciones de “preservar la memoria y la historia”. El texto asevera que “mediante la palabra repetida y atesorada en piedra, pergamino y papel, sabemos quiénes somos y cuál es nuestro lugar en el mundo” [@amogarciaClasificarParaPreservar2008].  Considerando las diferentes realidades socio económicas e históricas de los archivos del mundo, el autor presenta el libro como una especie de guía y manifiesto y no como un “manual de preservación”.
 
@@ -112,7 +116,7 @@ Podemos percibir entonces que la definición es abierta y que en preservación l
 
 ## Acceder al original
 
-Sería pertinente diferenciar preservación de "acceso" porque muchas veces se mezclan. Como habíamos dicho, preservar patrimonio cultural consiste principalmente en conservar su forma original frente a las adversidades del paso del tiempo, o frente a accidentes o acciones humanas; y muchas veces consiste también en “restaurarlo” (o volverlo) a esa forma. “Dar acceso” a una obra,  a nivel público, consiste justamente en eso, democratizar su visualización y utilidad. Y podría considerarse la antítesis de la idea de preservación, pues a nivel abstracto puede sugerir degradación y desgaste, aunque muchas veces demuestran ser inesperados salvadores del patrimonio.
+Sería pertinente diferenciar preservación de "acceso" porque muchas veces se mezclan. Como habíamos dicho, preservar patrimonio cultural consiste principalmente en conservar su forma original frente a las adversidades del paso del tiempo, o frente a accidentes o acciones humanas; y muchas veces consiste también en “restaurarlo” (o volverlo) a esa forma. “Dar acceso” a una obra,  a nivel público, consiste en democratizar su visualización y utilidad. Y podría considerarse la antítesis de la idea de preservación, pues a nivel abstracto puede sugerir degradación y desgaste, aunque muchas veces demuestran ser inesperados salvadores del patrimonio.
 
 Como se habló antes, Del Amo García destacaba la clasificación de los materiales, la conservación de los originales y la "reproducción para la preservación". Este último punto es importante, porque Fossati menciona que la diferencia principal entre los archivos y los museos o cinematecas es que los primeros tienden a no tener como misión principal el acceso al material (la reproducción), mientras que los otros sí. La principal diferencia entre archivos, museos y cinematecas radica en la forma en que exhiben sus películas, de acuerdo con la declaración de su misión, o política de exhibición [@fossatiGrainPixelArchival2018, p. 31].
 
