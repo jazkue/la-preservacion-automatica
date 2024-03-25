@@ -20,9 +20,9 @@ output:
 
 La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte y preservación, entendiendo esta hibridez como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. La tesis estudia estos conceptos analizando las problemáticas de la preservación digital y analógica y propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación, las computadoras y la programación.
 
-Este trabajo se estructura en tres partes. La primera parte es introductoria y se trata de una memoria descriptiva de dos trabajos previos de producción propia que se centran en las temáticas de la memoria, los archivos audiovisuales y los dispositivos. Estos son _El Viaje del Henrietta_ (2014) y _Cuanto más se conecta, menos se conecta_ (2019).
+Este trabajo se estructura en tres partes. La primera parte es introductoria y es una memoria descriptiva de dos trabajos previos de producción propia que se centran en las temáticas de la memoria, los archivos y los dispositivos. Estos son _El Viaje del Henrietta_ (2014) y _Cuanto más se conecta, menos se conecta_ (2019).
 
-La segunda parte, de carácter teórico, está dividida en cuatro apartados, donde se examinan distintos temas alrededor de la preservación para contextualizar las reflexiones de la tesis. En general los apartados a su vez se dividen en distintos subtemas relacionados y muchas veces entrelazados a través de referentes artísticos. La investigación comienza con un primer apartado titulado "El desafío de preservar", donde se establece una suerte de "estado de la cuestión" alrededor de los orígenes de la acción de preservar y el vínculo con los archivos cinematográficos. El segundo apartado se llama "Computer Art en papel y en celuloide", e investiga el rol de estos soportes físicos en el mundo digital del arte por computadora. Luego "Preservación de arte electrónico" reúne referentes teóricos y artísticos sobre la preservación de esta disciplina que forma parte de los llamados "". Y para finalizar se presenta "Preservación de internet", un apartado que se compone de descripciones alrededor de la conservación y la descentralización en Internet.
+La segunda parte, "Preservación y obsolescencia", está dividida en cuatro apartados, donde se tratan distintos temas alrededor de la preservación para contextualizar las reflexiones de la tesis. En general los apartados a su vez se dividen en distintos subtemas relacionados y muchas veces entrelazados a través de referentes artísticos. La investigación comienza con un primer apartado titulado "El desafío de preservar", donde se establece una suerte de "estado de la cuestión" alrededor de los orígenes de la acción de preservar y el vínculo con los archivos cinematográficos. El segundo apartado se llama "Computer Art en papel y en celuloide", e investiga el rol de estos soportes físicos en el mundo digital del arte por computadora. Luego "Preservación de arte electrónico" reúne referentes teóricos y artísticos sobre la preservación de esta disciplina que forma parte de los llamados "". Y para finalizar se presenta "Preservación de internet", un apartado que se compone de descripciones alrededor de la conservación y la descentralización en Internet.
 
 Y en la tercera parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de la tesis en su formato "obra": un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como "Films Automáticos". Esta serie es un conjunto de animaciones por computadora y arte generativo transferidos fotográficamente a fílmico en 35 mm para ser reproducidos en proyectores de diapositivas modificados. El mecanismo de proyección consiste en 4 proyectores Kodak Carousel sincronizados para obturar en secuencia, superpuestos sobre la misma superficie, generando velocidad e ilusión de movimiento. Son "automáticos" en tanto que "actúan por sí mismos", son "maquinales", "indeliberados" e "involuntarios", como el acto de preservar al que alude la tesis. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso.
 
@@ -138,11 +138,17 @@ Preservar es un verbo ambiguo: a pesar de su definición más pura de “conserv
 
 En este tipo de hibridez e iteración es que se observa una preservación involuntaria. En las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.
 
-# El desafío de preservar
+# Preservación y obsolescencia
+
+¿Por qué se preserva? ¿Cómo se guardan las películas? ¿Qué tienen en común con el arte por computadora? ¿Cómo hacen los museos para salvar videos, páginas web, obras de arte electrónico y videojuegos en tiempos de velocidad tecnológica y obsolescencia electrónica? En este segundo capítulo vamos a estudiar algunas formas de preservación de los "Time-based Media" y vamos a analizar el trabajo de algunos referentes artísticos y técnicos del mundo del cine experimental, el arte por computadora, el arte electrónico y los archivos de internet.
+
+Los "Time-based Media" son aquellos medios que se "despliegan" en el tiempo, y a pesar de que muchas veces son de naturaleza tecnológica, es un nombre flexible que engloba disciplinas desde cine y video hasta instalaciones, arte electrónico y performance. En general estas obras, que son muchas veces de naturaleza efímera, dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Son medios inestables, en constante cambio y actualización. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, en este grupo los métodos suelen ser más jóvenes y son principalmente estudiados por instituciones específicas en cooperación con estándares de industrias audiovisuales y tecnológicas.
+
+## El desafío de preservar
 
 ¿Qué es preservar? del latín _praeservare_ ("cuidar/observar con antelación"), preservar podría definirse como proteger anticipadamente alguna cosa frente a accidentes, acciones humanas o el paso del tiempo. Preservar implica pensar estrategias para desafiar el paso del tiempo y desarrollar un juicio de valor para decidir el criterio con el que se preserva. En este primer apartado vamos a contextualizar de forma general la acción de preservar y vincular sus particularidades y contradicciones con el mundo de la preservación de obras cinematográficas.
 
-## Orígenes, criterios y alternativas
+### Orígenes, criterios y alternativas
 
 ¿Por qué preservamos? La investigadora argentina Mariela Cantú plantea que "una de las más fascinantes e imperecederas fantasías humanas (aún hoy, a pesar de todas nuestras derrotas) radica en la creencia de un mundo que puede ser ordenado, clasificado y así, en última instancia, dominado. (...) Es aquí donde el archivo se hace presente, en la medida en que su concepto (y su labor) proponen un ordenamiento, un discurso y, en última instancia, una forma de contacto con el pasado y con las posibles memorias que pueden generarse a partir de él" [@cantuArchivosVideoNo2015].
 
@@ -156,7 +162,7 @@ Lowenthal además propone que preservar es más que la persistencia física de a
 
 Preservar entonces es un acto creativo, innovador, contradictorio e innato en el ser humano, y muchas decisiones se toman en relación al momento histórico, el contexto, los recursos y el patrimonio en sí. Vamos a ver los desafíos de preservar películas.
 
-## Una obligación incuestionable
+### Una obligación incuestionable
 
 En el prólogo al libro _Clasificar para Preservar_ del investigador español en cine Alfonso del Amo García plantea la “obligación incuestionable” de las civilizaciones de “preservar la memoria y la historia”. El texto asevera que “mediante la palabra repetida y atesorada en piedra, pergamino y papel, sabemos quiénes somos y cuál es nuestro lugar en el mundo” [@amogarciaClasificarParaPreservar2008].  Considerando las diferentes realidades socio económicas e históricas de los archivos del mundo, el autor presenta el libro como una especie de guía y manifiesto y no como un “manual de preservación”.
 
@@ -184,7 +190,7 @@ El video cuenta con otra particularidad: el "original" suele ser un componente a
 
 Incluso dentro de la labor de preservación, es notable advertir que las técnicas de restauración de obras insisten en general en el trabajo sobre los originales: en la pintura o la escultura por ser obras únicas, pero también cuando hablamos de películas o fotografías, se busca operar sobre los negativos (para el caso de las imágenes reproducibles, lo más cercano a un original). El video es diverso en este sentido, ya que su supervivencia se ha visto vinculada sobre todo a la ausencia de esa obra material originaria: si bien tuvo que existir una primera copia en el momento de creación, su circulación y por lo tanto su existencia (dos coordenadas que al tratarse de un medio técnicamente reproducible aparecen prácticamente asociadas), han sido definidas por la imposibilidad de rastrear aquella copia primera, en pos de la multiplicación y la difusión [@cantuArchivosVideoNo2015].
 
-## Acceder al original
+### Acceder al original
 
 En el libro _Restoration of Motion Picture Film_ de Read y Meyer se define al original como el material capturado directa y exactamente desde la cámara. El negativo de cámara es el original y los "prints" son las copias para ver el material [@readRestorationMotionPicture2000, p. 14]. Y si en el cine analógico resulta intuitivo imaginar cuál es el material original, en el cine digital la definición tiende a complicarse. 
 
@@ -206,7 +212,7 @@ Estos dilemas también escapan de los laboratorios de restauración más profesi
 
 Decíamos que los laboratorios de preservación muchas veces toman decisiones de restauración de acuerdo a lo que busca el cliente. Es interesante el caso del director de cine experimental Bill Brand, devenido en preservador experto, que tiene muchas ideas innatas de preservación por ser parte del mundo de cine vanguardista experimental y conocer bien el medio. Su legado engloba muchos de los puntos que vimos hasta ahora como documentación, acceso, preservación y conceptos de original y copia. Vamos a estudiar un poco a este autor y cómo conecta con las ideas que venimos tratando.
 
-## Bill Brand y la preservación accidental
+### Bill Brand y la preservación accidental
 
 La directora e investigadora de cine experimental Sharon Sandusky opina que "cuando se hace una película, su mera existencia es un milagro", que "la recuperación de una película es frecuentemente un proceso accidental", y que "la creación o la destrucción de imágenes y sonidos está enteramente conducida por intereses económicos" [@sanduskyArchaeologyRedemptionArchival1992]. La tesis de la autora en el artículo _The Archaeology of Redemption: Toward Archival Film_ del _Millenium Film Journal_ apunta a que para los grandes estudios, elegir qué se guarda y que se tira depende de decisiones estrictamente comerciales y que recae en el "taxpayer" (los que pagan impuestos, el estado) la preservación universal de las imágenes. Y en este escenario, además de mencionar la importancia del material de "stock" y su potencial de preservación por el mero hecho de su rentabilidad, la autora destaca el papel de los artistas experimentales de vanguardia que trabajan con material de archivo, o "metraje encontrado", los "Archival Art Film artists", quienes por el mero uso de material preexistente muchas veces terminan salvando imágenes que en circunstancias normales terminaría perdidas o descartadas.
 
@@ -232,13 +238,13 @@ Su obra más conocida es quizás la más híbrida de todas: _Masstransiscope_ (1
 
 Esta obra de Brand por fuera del soporte y las tecnologías originales del medio, desde un tren y directo a la pared, nos abre el camino a la hibridez que venimos describiendo, para saltar al medio digital. Fossati menciona en su libro que Dan Streible, académico y fundador del _Simposio de Películas Huérfanas_, argumenta que hablar de "digital films" es un oxymoron. Pero la autora lo ve como algo esencial: en ese oxymoron se puede ver cómo el soporte y la técnica se contraponen y se complementan [@fossatiGrainPixelArchival2018, p. 18]. Siguiendo con las hibridaciones y alejándonos un poco de la preservación vamos a investigar los inicios del _computer art_, o arte por computadora, donde no era para nada extraño que el soporte para visualizar o proyectar las obras fuera uno físico o analógico.
 
-# Computer Art en papel y en celuloide
+## Computer Art en papel y en celuloide
 
 En los inicios del _computer art_, o arte por computadora, en los cimientos de los pioneros como los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre fílmico o papel. En muchas situaciones, en particular al comienzo, al contrario de lo que sucede hoy en día, no había forma de visualizar los resultados en tiempo real. Zsofi Valyi-Nagy escribe sobre estos temas en su dosier sobre Vera Molnar:
 
 > _In the early days, computing was a blind process. Artist gave instructions using punch cards but wouldn’t see the results of their program for hours or even days._ [En los primeros tiempos, la computación era un proceso a ciegas. Los artistas daban instrucciones con tarjetas perforadas pero no verían los resultados del programa por horas o incluso días] [@valyi-nagyHOLODossierVera2022].
 
-## Los hermanos Whitney y el celuloide
+### Los hermanos Whitney y el celuloide
 
 John (1917 - 1995) y James (1921 - 1982) Whitney fueron pioneros del cine abstracto minimalista y la animación "programada" por computadora, experimentando con la sinestesia y trabajando con luz, aerógrafos, impresión óptica y gráficos generados por computadora, en un principio mecánicas y modificadas de armamento militar en desuso. John, quien inicialmente estaba interesado en composición y había viajado a Europa para estudiar el sistema atonal del compositor Arnold Schoenberg, y su hermano menor James, quien se había formado como pintor, crecieron en Hollywood, California.
 
@@ -262,7 +268,7 @@ En el documental de John Musilli _The film art of John Whitney, Sr._ (1975) Whit
 
 Los experimentos audiovisuales de los Whitney dejan en claro hoy la particularidad del soporte, además del valor documental y, por ejemplo, la posibilidad de hacer copias nuevas 50 años después. El _Academy Film Archive_ de la Academia de Artes y Ciencias Cinematográficas (AMPAS por sus siglas en inglés) preserva docenas de los films de los Whitney [@JohnWhitneyAnimator2023].
 
-## Vera Molnar y el papel
+### Vera Molnar y el papel
 
 Vera Molnar (1924 - 2023) es una artista visual húngara pionera en el campo del arte generativo y por computadora que desarrolló la mayor parte de su carrera en Francia. Interesada en formarse como pintora de arte abstracto, se mudó a París al terminar su carrera de arte en Budapest. Aunque solo usaba herramientas tradicionales, como lápices de colores, pinceles y pasteles, antes de empezar a trabajar con computadoras en 1968 Vera recuerda haber inventado varios métodos sistemáticos para hacer arte, incluso desde una edad temprana. Antes de tener acceso a una computadora, Molnar trabajaba con lo que ella llamaba _le machine imaginaire_, una computadora imaginaria con la que generaba series de imágenes emulando movimientos aleatorios con un dado, y haciendo pequeños desplazamientos morfológicos y matemáticos de las formas.
 
@@ -280,7 +286,7 @@ El trabajo de Molnar implicaba una vuelta constante entre papel y computadora, r
  
 ![A la izquierda: Vera Molnar, estudio para "Inclinaisons" (1971). A la derecha: Vera Molnar, dibujo hecho en plotter "Inclinaison" (1971). Accedido desde https://www.holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/](./assets/vera_molnar.jpg)
 
-## Los Paper Prints
+### Los Paper Prints
 
 En esta misma línea es interesante traer a colación los “Paper Prints”, un sistema guardado de propiedad intelectual para películas hacia finales del siglo XIX y principios del siglo XX en los que se archivaban los fotogramas de las películas. Como no había antecedentes legales para registrar este formato, las cintas se transferían a papel con una copiadora óptica y se las archivaba como obras gráficas, y de esta manera se mantenía su autoría. Thomas Alva Edison fue el primero en registrar una película con este sistema en 1893 [@PaperPrint2023].
 
@@ -288,7 +294,7 @@ En esta misma línea es interesante traer a colación los “Paper Prints”, un
 
 En muchísimos casos gracias a los Paper Prints es que se conservan hoy películas de esa época, pues por falta de interés, por la naturaleza de los materiales (como el nitrato autocombustible) o por los requisitos legales, muchas copias se perdieron para siempre. [@rewaldJohnHayWhitney1983]
 
-## "Data-on-film" (digital pero tangible)
+### "Data-on-film" (digital pero tangible)
 
 El proceso de transferencia de imágenes en video o digitales a medios fotoquímicos tradicionales es conocido de forma general como Film-out o Digital-to-film. En el pasado en general este paso cumplía objetivos técnicos de distribución, principalmente para películas realizadas en formatos digitales o analógicos que requerían de una conversión óptica para copias en 35 mm para su distribución en cines. Hoy en día la práctica se encuentra muy reservada a casos específicos de archivo o se basa casi exclusivamente en una decisión artística. Según la revista norteamericana _Filmmaker Magazine_, en Estados Unidos en 2021 se estrenaron 30 películas rodadas total o parcialmente en fílmico [@rizovApproximately30Movies2022], en 2022 solo 24 [@rizov24Features20222022] y en 2023 menos de 30 [@rizov29FeaturesShot2023].
 
@@ -302,13 +308,13 @@ En la línea de formatos y soportes inesperados, es interesante mencionar la tec
 
 Es conocido el uso de esta tecnología para el Arctic World Archive, un proyecto de archivo y preservación en la isla de Spitsbergen, en Noruega. El AWA “contiene información histórica y cultural de varios países, además de todo el código abierto de GitHub, (…) con una expectativa de vida de 500 a 2000 años, almacenado en las condiciones adecuadas” [@ArcticWorldArchive2021].
 
-# Preservación de arte electrónico
+## Preservación de arte electrónico
  
-La preservación de las Time-based Media, aquellas obras de arte que se "despliegan" en el tiempo, conlleva un desafío muy importante para los museos y los coleccionistas. Con el arte electrónico en particular, en relación a soportes que podríamos llamar "tradicionales" se encuentra en una etapa muy incipiente. Estas obras, muchas veces de naturaleza efímera, dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Son medios inestables, en constante cambio y actualización. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, en esta disciplina los métodos son más jóvenes y son principalmente estudiados por instituciones específicas en cooperación con estándares de industrias audiovisuales y tecnológicas. La investigadora Vanina Hofman hace una definición en su artículo _Album inestable, una acercamiento a la conservación del arte electrónico_:
+En el artículo _Album inestable, una acercamiento a la conservación del arte electrónico_, la investigadora argentina Vanina Hofman investiga y desarrolla criterios y limitaciones a la hora de preservar arte electrónico, que en relación a otros soportes que podríamos llamar "tradicionales", se encuentra en una etapa muy incipiente.  Uno de los planteos de la autora es que justamente para poder preservar arte electrónico este debe transformase. Esto va en contra de la imagen generalizada del coleccionismo de los archivos y de su asociación a cierta idea de inmutabilidad. La conversión constante de la obra en post de su perdurabilidad puede orientarse hacia el plano de la documentación y también hacia la transformación física concreta en virtud de su presentación futura.
 
 > _El arte electrónico es un término amplio que abarca distintas expresiones artísticas contemporáneas que utilizan tecnologías electrónicas y/o digitales. (...) A la hora de pensar su conservación, encontramos que existen aspectos compartidos y por tanto estrategias comunes, pero también es cierto que sus particularidades y la gran variedad de materiales con las que han sido producidas marcan diferencias significativas. (...) No existen criterios únicos ni normas generales, por tanto se ha vuelto fundamental el trabajo en base a casos de estudio. El tema específico de la conservación del arte electrónico y de los nuevos medios suma a los problemas compartidos de la conservación de las piezas de arte, la obsolescencia inmediata de la tecnología que las sustenta, y por consiguiente, la imposibilidad de una reflexión separada de algún tipo de acción concreta y rápida al respecto._ [@hofmanAlbumInestableAcercamiento2007]
 
-## Transformar para conservar
+### Transformar para conservar
 
 Hofman junto a Consuelo Rozo del grupo _Taxonomedia_ explican en el texto que acompaña al seminario _Conservación de Arte Electrónico: ¿Qué preservar y cómo preservarlo?_ algunas nociones de lo que implica conservar este tipo de arte y nos introducen a la idea de "transformar para preservar":
 
@@ -324,7 +330,7 @@ Hofman explica que en el arte electrónico hay un aspecto importante a considera
 
 Con estas forma general de preservación que resulta del equilibrio entre información y documentación y entre acciones pasivas y activas, a continuación se van a mencionar algunas instituciones y fundaciones que desarrollaron distintas escuelas y diversos modelos de organización de la documentación para las obras de la llamada "media variable".
 
-## Modelos e instutuciones
+### Modelos e instutuciones
 
 La _Variable Media Network_, fundada por el Museo Guggenheim con apoyo de la Fundación Daniel Langlois, es una red de instituciones y expertos que tiene por objetivo el establecimiento de protocolos que permitan un acercamiento flexible a la preservación de prácticas artísticas basadas en "media variable" (esto incluye lo que conocemos por arte electrónico, aunque se extiende a casi toda forma de arte). El modelo de organización de esta red es una herramienta de base de datos en forma de cuestionario: el Cuestionario de Media Variable (VMQ por sus sílabas en inglés), una interfaz gráfica online no convencional que le permite a los creadores e investigadores registrar una obra y su funcionamiento a través de preguntas y modelos de organización específicos alrededor del paradigma de los medios variables: el sentido independiente del medio. Por ejemplo, pueden almacenar "interpretaciones" de tamaños, "partes" de una obra con sus respectivas "preguntas", y también "participantes" de la obra y "entrevistas" que pueden sumar más información a la pieza. La subjetividad de los participantes de cada obra también le permite a la herramienta establecer criterios muy versátiles de cuatro factores esenciales: almacenamiento, migración, emulación y recreación. La herramienta cuenta con modelos de piezas preestablecidos que le permiten a quien carga la información partir de una base similar para ampliar y completar. La intención de la herramienta es "determinar la forma en el cual los creadores desearían que su obra sea re-creada (siempre y cuando esto sea posible), con independencia del medio en el fue realizada" [@hofmanAlbumInestableAcercamiento2007].[^12]
 
@@ -336,7 +342,7 @@ Otra institución digna de mencionar es el _Matters in Media Art_, un proyecto d
 
 En relación al Moma, este museo está adquiriendo desde 2012 videojuegos a su colección, como parte del acervo de piezas de arte y diseño, y es un buen ejemplo de preservación de documentación. La institución aspira a incorporar una lista de por lo menos 40 juegos, entre los que ahora podemos encontrar títulos como _Pac-Man_ (1980), _Tetris_ (1984), _Another World_ (1991), _Myst_ (1993), _SimCity 2000_ (1994), _The Sims_ (2000), _Dwarf Fortress_ (2006), _Portal_ (2007), entre otros. La colección también incluye consolas de videojuegos como la _Magnavox Odyssey_ de 1972. Los curadores del departamento de diseño y arquitectura Paola Antonelli y Paul Galloway escriben en 2022 un artículo que acompañó la exhibición _Never Alone: Video Games and Other Interactive Design_ la experiencia a la hora de adquirir y preservar el material. En primer lugar explican que fue indispensable hacerse del código fuente de los juegos, ya sea en forma digital o física (cartuchos o consolas), para poder traducirlo en el futuro si la tecnología original queda obsoleta. Esto incluyó emuladores de las consolas en caso de que los hubiera, y documentación de los programadores originales, porque escribir código es un proceso personal y creativo que a veces requiere del autor de primera mano. La segunda parte fue pensar la exhibición de los juegos en su dimensión temporal, ya que son productos que no fueron especialmente diseñados para ese tipo de expansión en el espacio, por lo que se llegó a clasificar el juego según su "duración", desde experiencias cortas de 5 minutos a juegos prácticamente infinitos como el Sim City 2000 [@antonelliWhenVideoGames2022].
 
-También se puede mencionar el _Computerspiele Museum_ en Berlín, un museo dedicado a la conservación y preservación de videojuegos, desde el software al hardware, financiado por el Consejo Internacional de Museos. También la Fundación Langlois en Montreal, Canadá, que desarrolla metodologías y herramientas con relación a la preservación y documentación de piezas artísticas digitales, tecnológicas y electrónicas por medio del proyecto DOCAM. O el Netherlands Media Art Institute, Montevideo/Time Based Arts (ahora LIMA), que desde 1992 investigaba y desarrollaba modelos, métodos de registro, teorías y acciones en torno a la conservación, orientadas hacia su objetivo central de hacer accesible la herencia cultural del arte electrónico.
+También se puede mencionar el _Computerspiele Museum_ en Berlín, un museo dedicado a la conservación y preservación de videojuegos, desde el software al hardware, financiado por el Consejo Internacional de Museos. También la Fundación Langlois en Montreal, Canadá, que desarrolla metodologías y herramientas con relación a la preservación y documentación de piezas artísticas digitales, tecnológicas y electrónicas por medio del proyecto DOCAM (Documentation et Conservation des Arts Médiatiques). O el Netherlands Media Art Institute, Montevideo/Time Based Arts (ahora LIMA), que desde 1992 investigaba y desarrollaba modelos, métodos de registro, teorías y acciones en torno a la conservación, orientadas hacia su objetivo central de hacer accesible la herencia cultural del arte electrónico.
 
 Como se puede apreciar en este apartado, el mayor número de instituciones y proyectos alrededor de la preservación de arte electrónico ocurren en Europa, Estados Unidos y Canadá, donde también incluso se lucha contra la falta de fondos y personal para llevar adelante esta proeza de documentación y preservación.
 
@@ -344,7 +350,7 @@ En Sudamérica no es diferente, pero existen muchos ejemplos de investigación, 
 
 También vale mencionar la labor de la revista _Replay_, dedicada a la arqueología e investigación alrededor de la historia de los videojuegos y el entretenimiento digital en el territorio nacional, donde en cada edición se investiga una nueva historia de Arcades, los muebles para los "fichines", la historia de Sacoa, desarrolladores locales, industria nacional, etc; y también en forma independiente la base de datos de obras de net-art que desarrolla el artista uruguayo Brian Mackern.
 
-## Brian Mackern y la máquina podrida
+### Brian Mackern y la máquina podrida
 
 Brian Mackern es un artista uruguayo que ha desarrollado la mayor parte de su obra alrededor del net art y el sound art. Realiza experimentos con proyecciones, datos y colaborando con artistas sonoros y musicales. A través de sus trabajos de “arqueología digital” lleva adelante un proyecto de divulgación y conservación de net art latinoamericano. El autor destaca la importancia de los archivos digitales, y la importancia de mantener las computadoras para las que funcionaban esos archivos digitales. Desde el año 2004, se dedica a la recuperación, conservación y preservación de obras de netart de los años 90, tanto como investigador como artista.
 
@@ -364,11 +370,11 @@ El Museo Extremeño e Iberoamericano de Arte Contemporáneo termina comprándole
 
 "Considerando que el coleccionista amateur tiene una idea de valor para aquello que cuida, es perfectamente coherente que después de poseerlo y ponderarlo, desee compartirlo y posibilitarle una continuidad que exceda su propia vida" [@hofmanMiradasDivergentesPara2011]. En esta línea es que podríamos acercarnos nuevamente a la idea de "preservación involuntaria", porque si bien en Brian Mackern la preservación "amateur" de las piezas termina siendo parte de la obra en sí, pareciera haber una coincidencia entre la búsqueda estética personal y los intereses del autor, y los resultados de preservación consiguientes. Muchas obras, propias y ajenas, fueron preservadas en el tiempo gracias a este interés, que ahora es medular en su trabajo. En el apartado siguiente vamos a profundizar un poco más sobre los archivos de internet y sus posibilidades contemporáneas.
 
-# Preservación de internet
+## Preservación de internet
 
 En internet se habla mucho de democratización y distribución, ya sea desde los principios y las bases del software libre hasta los sitios web basados en el croudsourcing. Existen valores e ideales fuertes en los sitios de piratería, donde la confianza se basa en las ideas de un acceso universal a la cultura y la retribución a los autores se basa en el mérito y la solidaridad. Y en la _Blockchain_ nada es privado, toda la información es pública y permanente. Existen familias que depositan toda su confianza de archivo en servicios de empresas privadas como Facebook o Instagram (madres que crean cuentas aparte para sus hijos donde agrupar las imágenes que comparten). Y aunque no quiera decir que los archivos dependan de esto, la existencia de todo tipo de documentos y sitios web muchas veces dependen de compañías privadas como Amazon, Google o Facebook para sobrevivir, aunque existen excepciones que se verán más adelante, como el proyecto sin fines de lucro Internet Archive, o el proyecto de código abierto y descentralizado de sistema de archivos _Inter Planetary File System_. En esta vorágine de tormenta tecnológica surge la colectividad y el carácter “abierto” de las computadoras e internet: se prioriza la creación de contenido por parte del usuario a través de sitios y aplicaciones. La práctica de archivo  está cambiando muy rápidamente y en este apartado vamos a contextualizar cómo se preserva en internet.
 
-## Internet archive
+### Internet archive
 
 La ley de Moore, formulada en 1965 por el cofundador de Intel, Gordon Moore, estima que aproximadamente cada 2 años se duplica la cantidad de transistores en un microchip (y por lo tanto la capacidad de las computadoras). En el contexto de los archivos del mundo, la realidad se ve desafiada y amenazada continuamente. Giovana Fossati hace una mención de esta transformación en su libro:
 
@@ -378,7 +384,7 @@ _Internet Archive_ (literalmente archivo de Internet) es una biblioteca digital 
 
 Sin duda uno de sus servicios más atractivos es la _Wayback Machine_, nacida en pleno auge de los sitios web en los 90 como un proyecto de guardado automático de páginas. De manera automática los _crawlers_ toman _snapshots_ de sitios públicos, para guardarlos cronológicamente en un calendario, donde el usuario puede (o no) conseguir versiones anteriores a las disponibles online o inclusive visitar páginas ya extintas, como por ejemplo los sitios de Geocities de los años noventa o los perfiles de Fotolog de los años 2000. Funciona bien con páginas de html básico pero todo lo que requería de sistemas externos como Javascript o Flash no funcionan al día de hoy. De hecho la Wayback Machine es una excelente lección de lo vulnerable de los archivos digitales, porque la mayoría de los sitios web se encuentran perdidos o inutilizables. Lo mismo sucede con mucho software y no tanto pero también con formatos de video. El caso de los videojuegos es interesante porque muchos tienen incorporado un emulador con el que se pueden jugar en el sitio mismo, por lo que juegos para la Atari, DOS o Commodore 64 pueden visitarse directamente desde el explorador.
 
-## Preservación descentralizada
+### Preservación descentralizada
 
 Para vincular la línea que venimos marcando entre preservación y soportes con el concepto de “sistemas descentralizados” en la web, quizás conviene destacar las diferentes “webs” que vinieron dándose a lo largo de los años, y dejar en claro algunas definiciones.
 
@@ -392,7 +398,7 @@ El "Sistema de Archivos Interplanetario" (_IPFS_ por _InterPlanetary File System
 
 La gran mayoría de los NFT están respaldados a través de esta tecnología descentralizada, vinculados además con la _Blockchain_, aunque no concretamente a la red de _Bitcoin_, sino a otras más nuevas, como _Ethereum_, _Tezos_, o _Cardano_. Sin embargo, que estos sistemas sean descentralizados no significa que sean baratos, y menos aún ecológicos. Si bien se sobreentiende que por algoritmos, descentralización y criptografía los archivos se preservan en el tiempo, todavía queda preguntarse si este sistema es más seguro o duradero que las películas en 35 mm de Piql, los Paper Prints de Edison o incluso los archivos de empresas privadas como el Internet Archive. A nivel ecológico, pareciera que ningún método es del todo efectivo, incluso el film implica toneladas de cartílago de animales para su desarrollo. Y un bloque de la Blockchain no preserva imágenes o documentos, sino referencias a estos, por lo que sigue siendo esencial la constante migración, mantenimiento y actualización de equipos y protocolos a nivel mundial.
 
-## Cameron's World y los GIF
+### Cameron's World y los GIF
 
 _Cameron’s World_ es un proyecto del artista neozelandés Cameron Askin, basado en las capacidades de archivo de Wayback Machine. Se trata de una compilación de páginas de Geocities, un servicio gratuito de alojamiento web de finales de los 90. En este período Geocities le permitió a usuarios de todo el mundo crear sus propios sitios web, llegando hasta 38 millones de páginas en su cierre en 2008. El proyecto es un tributo a esa era inocente y prolífica de internet, a través de un collage temático y estético en un largo scroll repleto de archivos gif, con una suerte de “emulador” del explorador por excelencia de esas épocas, el Netscape Navigator (disfrazado para el proyecto como “Catscape Navigator”), que nos permite ingresar a los hipervínculos y conocer más.
 
@@ -408,11 +414,11 @@ Es un formato en parte limitado, casi deprecado en los años 90 si no hubiera si
 
 En el artículo Rourke destaca el uso de imágenes de la cultura pop y su herencia y relación con el cine, desde que eran pequeños en tamaño y de pocos fotogramas hasta convertirse en un lenguaje visual propio, parte de la cultura memética actual.
 
-Es interesante la obra del artista finlandés Juha van Ingen, quien en 2017 creó una pieza llamada _AS Long As Possible_ (ASLAP), un gif de 1000 años de duración, de 48.140.288 fotogramas con una duración de 11 minutos cada uno, pensada para reproducirse hasta el año 3017. La obra se puede ver y forma parte de la colección de la Galería Nacional de Finlandia (KIASMA)[^14].
+Como ejemplo de las posibilidades del medio cabe mencionar la obra del artista finlandés Juha van Ingen, quien en 2017 creó una pieza llamada _AS Long As Possible_ (ASLAP), un gif de 1000 años de duración, de 48.140.288 fotogramas con una duración de 11 minutos cada uno, pensada para reproducirse hasta el año 3017. La obra se puede ver y forma parte de la colección de la Galería Nacional de Finlandia (KIASMA)[^14].
 
 ![Juha van Ingen, AS Long As Possible (2017), accedido desde https://www.aslongaspossible.com/images/As_long_as_possible_publication_2018.pdf](./assets/aslap.jpeg)
 
-## Un momento transicional
+### Un momento transicional
 
 Del Amo Cuarón destacaba en _Clasificar para Preservar_ las bondades de rescatar materiales fílmicos dando acceso a ellos (proyectándolos), y Sandusky en su artículo del _Millenium Film Journal_ celebraba el uso de material de archivo de los cineastas del Archival Art Film que duplicaban y circulaban sin permiso imágenes que de otra manera serían descartadas o perdidas. Estos autores promueven voluntaria o involuntariamente y de maneras opuestas distintas maneras de acceso al material como recurso de preservación. Sería interesante recordar el caso de la colección amateur de películas de Fernando Peña Rodriguez, que en manos de instituciones y frente a adversidades y errores resultó tener la última copia completa de Metrópolis de la que se tiene conocimiento. Como dice Sandusky, realmente "cuando se hace una película, su mera existencia es un milagro".
 
@@ -428,6 +434,11 @@ Steyerl hace referencia directa al video digital y a su distribución alternativ
 
 Todas estas tecnologías parecieran estar trazando una genealogía de preservación híbrida, entre lo analógico y lo digital. Pareciera que mientras más pasos de hibridez y mudanza del soporte, mientras más “generaciones” como se dice en el ambiente del archivo audiovisual, más posibilidades existen de que se preserve en el tiempo. En este momento "transicional" como describe Fosatti, nos quedan más preguntas que respuestas.
 
+# Los Films Automáticos
+
+![3ba87a632fb60a1ff1f217a510c31914.jpg](./assets/3ba87a632fb60a1ff1f217a510c31914.jpg)
+
+
 [^1]: Ver más en https://javierdeazkue.ar/henrietta
 [^2]: Ver más en https://javierdeazkue.ar/themoreyouconnect
 [^3]: Ver https://tequebellota.wordpress.com/ruta-del-henrietta/
@@ -435,7 +446,7 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 [^5]: Un Paisaje de Acontecimientos, CC San Martín, Buenos Aires (2016); Mención especial en Festival FAB, Bariloche (2015); Mención especial en Festival de Cine Latinoamericano Rosario (2015); FASE7, Centro Cultural Recoleta, Buenos Aires (2015); Orphan Films, MALBA, Buenos Aires (2015); Premio mejor cortometraje experimental Festival REC, La Plata(2015); Let it VJ Club Cultural Matienzo (2015); Muestra Satélite XI en el Centro Hipermediático Experimental Latinoamericano (2014). 
 [^6]: Ver https://westbeth.org//about/history/
 [^7]: Ver ejemplo https://vimeo.com/376739351
-[^8]: Ver apartado 4.4
+[^8]: Ver apartado de Bill Brand
 [^9]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
 [^10]: El término en inglés "upscaling" refiere a escalar una imagen por encima de su resolución original.
 [^11]: _Piql. Piql - Data Regeneration._ 2021. _Vimeo_, https://vimeo.com/516428662
