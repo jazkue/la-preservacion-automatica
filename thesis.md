@@ -34,7 +34,7 @@ El interés de la investigación se basa en una obsesión personal alrededor de 
 
 Preservación, hibridez, analógico, digital, automatismo, formatos, películas, fílmico, circuit bending, loop.
 
-# Introducción
+# I. Introducción
 
 En la introducción al libro _Del grano al pixel: cine y archivos en transición_ la archivista italiana Giovana Fosatti asevera que nos encontramos en un "momento transicional" en el que los medios de comunicación , definidos por su constante transición, tienden a la hibridez como una característica necesaria, y que como consecuencia la idea de pureza del medio, sea analógico o digital, debe ser reconsiderada y eventualmente abandonada [@fossatiGrainPixelArchival2018, p. 28]. Por otro lado, en un artículo de la revista _Millenium Film Journal_ titulado _The Archaeology of Redemption: Toward Archival Film_ (que se traduce como _La Arqueología de la Redención: Hacia el cine de archivo_) la directora e investigadora de cine experimental Sharon Sandusky sostiene que "cuando se hace una película, su mera existencia es un milagro", y que "la recuperación de una película es frecuentemente un proceso accidental", refiriéndose a las múltiples adversidades a las que se enfrenta una película para perdurar en el tiempo, desde aspectos físicos y espaciales hasta legales y económicos [@sanduskyArchaeologyRedemptionArchival1992].
 
@@ -138,7 +138,7 @@ Preservar es un verbo ambiguo: a pesar de su definición más pura de “conserv
 
 En este tipo de hibridez e iteración es que se observa una preservación involuntaria. En las decisiones estéticas y técnicas que quizás determinan la única copia que queda de algo importante que queríamos recordar.
 
-# Preservación y obsolescencia
+# II. Preservación y obsolescencia
 
 ¿Por qué se preserva? ¿Cómo se guardan las películas? ¿Qué tienen en común con el arte por computadora? ¿Cómo hacen los museos para salvar videos, páginas web, obras de arte electrónico y videojuegos en tiempos de velocidad tecnológica y obsolescencia electrónica? En este segundo capítulo vamos a estudiar algunas formas de preservación de los "Time-based Media" y vamos a analizar el trabajo de algunos referentes artísticos y técnicos del mundo del cine experimental, el arte por computadora, el arte electrónico y los archivos de internet.
 
@@ -434,7 +434,7 @@ Steyerl hace referencia directa al video digital y a su distribución alternativ
 
 Todas estas tecnologías parecieran estar trazando una genealogía de preservación híbrida, entre lo analógico y lo digital. Pareciera que mientras más pasos de hibridez y mudanza del soporte, mientras más “generaciones” como se dice en el ambiente del archivo audiovisual, más posibilidades existen de que se preserve en el tiempo. En este momento "transicional" como describe Fosatti, nos quedan más preguntas que respuestas.
 
-# Los Films Automáticos
+# III. Los Films Automáticos
 
 ![3ba87a632fb60a1ff1f217a510c31914.jpg](./assets/3ba87a632fb60a1ff1f217a510c31914.jpg)
 
