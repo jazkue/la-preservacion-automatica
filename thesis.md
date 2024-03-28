@@ -438,23 +438,47 @@ La inspiración para las piezas de la tesis nace en una primera instancia por ac
 ![Primer acercamiento al "film out"](./assets/films_1.jpg)
 La resolución químicamente infinita de la emulsión y el atractivo de entender y diseñar una forma de trabajo y reproducción eran claros intereses en este experimento. ¿Cómo optimizar este proceso? ¿Cómo aprovechar al máximo sus alcances y limitaciones? ¿Cómo transferir movimiento a un medio estático? En esta tercera parte de la tesis vamos a llevar a cabo una descripción de las iteraciones que llevan a la realización de _Los Films Automáticos_. Son "automáticos" en tanto que "actúan por sí mismos", son "maquinales", "indeliberados" e "involuntarios", como la inercia en loop de un gif en internet, o como el acto de preservar al que alude la tesis. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso. _Los Films Automáticos_ ponen en evidencia el dispositivo al ser transparentes en su tecnología y funcionamiento. Meditan alrededor de la fragilidad de los formatos, el paso del tiempo y la preservación digital.
 
-## Primera iteración: digital-to-analog-to-digital
+## Primera iteración: digital-to-film-to-digital
 
-![Proceso manual de "blow out"](./assets/7e70fc22497ba2a99b650f260bd30eca.png)
+Esta primera iteración surgió por fuera de la tesis, durante la pandemia del COVID en 2020, y nos sirve como preludio a la técnica que se desarrolla en la tesis. En el auge de las criptomonedas y los NFTs, comencé a producir mucho material para subir y vender en los marketplaces, y encontré en esta técnica propia un potencial particular. Como se explicó anteriormente, los NFT tienen la particularidad de quedar vinculados a las cadenas de bloques de la Blockchain "permanentemente", lo que los hace potencialmente inmortales al paso del tiempo, mientras existan internet y las computadoras. Y si bien el propósito y trasfondo comercial de esos tiempos de burbuja e incertidumbre económica no son interés de la tesis, sí es interesante la hibridez que implica transferir a analógico algo digital, volver a digitalizarlo, luego procesarlo y multiplicarlo en las "cadenas de bloques".
 
-![Película y contenedores](./assets/83d77e27c0210dffac1fd102ed749a89.jpg)
+Para transferir algo digital a fílmico primero hay que definir la unidad mínima en una película, y eso es el fotograma. En el caso de los rollos comerciales de 36 fotos, la unidad es la exposición. Por lo tanto lo primero que hay que hacer en la computadora es traducir lo que se quiera transferir a un formato discreto, fragmentado y visual. En el caso de un GIF o un video, hay que separar la animación en fotogramas independientes, y en el caso de un programa que dibuja como puede ser el caso de algún sketch generativo realizado en Processing, hay que guardar cada "dibujo" por separado: esto puede hacerse capturando la pantalla como si fuera un video o avanzando y pausando la progresión del dibujo.
+
+Definida esta fragmentación de la animación, se coloca una cámara 35 mm frente al monitor, en total oscuridad, con un lente largo para evitar aberraciones, y lo más perpendicular a la imagen. Se hace foco, se dispara la foto, se avanza el fotograma en la computadora y se repite el proceso. Es importante tener en cuenta que la imagen digital debe estar invertida para obtener un negativo "positivado" sin tener que recurrir a rollos de diapositiva o procesos de laboratorio engorrosos.
+
+En el caso de esta primera iteración, se hicieron un par de pruebas a partir de programas generativos escritos en Processing, como también una prueba a partir de una animación 3D. En el caso de la animación 3D se realizó una serie de transformaciones antes de la transferencia a fílmico: primero se renderizó el modelo y en segundo lugar se redujo a una animación en formato GIF monocromática de baja resolución.
+
+!["Plantae", a la izquierda código y ventana, a la derecha transfer a fílmico](./assets/af1cbf525eb59abcbf9cafc1afa58e3a.jpg)
+
+!["Nodos", a la izquierda código y ventana, a la derecha transfer a fílmico](./assets/8dd19fa4371ad4649ba50f81e8948dbb.JPG)
+
+!["El Faro", GIF original y transfer](./assets/7b1490a7c218dadf67f2075ceeee5629.jpg)
+
+![Proceso manual de blow out: cada rollo era procesado manualmente en un tanque Paterson con revelador y fijador](./assets/7e70fc22497ba2a99b650f260bd30eca.png)
+
+El proceso de laboratorio es más bien sencillo porque se trata de película en blanco y negro, y al fotografiar imágenes en negativo se revelan en positivo. Una vez obtenido el material analógico se procede a la digitalización. En este caso se utilizó un escaner EPSON v600 que tiene la particularidad de soportar transparencias, como diapositivas o rollos. la película debe apoyarse perpendicularmente al vidrio y a la altura del vidrio superior donde se encuentra el haz de luz para transparencias. Pueden digitalizarse hasta 3 fotogramas a la vez. El proceso posterior ocurre en After Effects: cada imagen ocupa 3 fotogramas de la línea de tiempo, y tiene 3 transformaciones de posición que generan la ilusión de movimiento. Esta transformación es aplicada a todos los grupos de imágenes de 3, en secuencia, y por último se aplica una estabilización general basada en las perforaciones del film, lo que genera una imagen estable.
 
 ![Digitalización de fotogramas](./assets/834a5308f4a621c379b8956a94caa980.jpg)
 
-![Los films en su formato digital y animado, distribuidos como NFTs en el marketplace knownorigin.io (2020)](./assets/bf0da1ed8f53cdd96fc67b6cc12b3a1d.jpg)
+Y como bien de describía al comienzo de esta primera iteración, eran tiempos de NFT y las obras muchas terminaron en los marketplace de la blockchain, donde coleccionistas y especuladores gastaban sus criptomonedas en obras de arte. Cuando un artista sube una pieza puede definir el número de unidades de la edición (por ejemplo, 15 copias), o definirla como una copia única, aumentando su valor simbólico. Cuando un coleccionista compra una obra se transfiere la autenticidad de la obra al comprador, pero no necesariamente los derechos de uso. No se transfiere la exclusividad ni la autoría, solo la propiedad de esa "copia" en particular. El comprador puede volver a vender la obra a otro coleccionista y usufructar el valor, y en muchos casos el autor original obtiene un porcentaje de esta nueva compra. Es una dinámica interesante que lamentablemente está cada vez más en desuso.
 
-## Segunda iteración: el faro
+![Un film distribuido como NFTs en el marketplace knownorigin.io (2020)](./assets/bf0da1ed8f53cdd96fc67b6cc12b3a1d.jpg)
 
-![Fotograma de El Faro (2022)](./assets/e4dfd27e4cab5b73a17f8321a30ba2e1.jpg)
+## Segunda iteración: digital-to-film
+
+Esta segunda iteración formó parte oficial de la tesis, y consistió en aprovechar el formato 35 mm en su dimensión física, sin volver a digitalizar las imágenes. La película en 35 mm es universal y la de las cámaras fotográficas convencionales es la misma que la de las cámaras o los proyectores de cine, aunque la orientación es diferente: las cámaras de fotos trasladan la película horizontalmente y las de cine verticalmente, resultando la primera en mayor resolución pero la segunda en más fotogramas por metro.
+
+Los Films Automáticos utilizan equipos de descarte: cámaras reflex heredadas y proyectores de diapositivas olvidados. Inspirado en la forma de reproducción cíclica de los gifs y limitado por la corta duración de las pruebas en la primera iteración, se recurrió a un famoso modelo de proyector de Kodak, el Kodak Carousel, que lleva cartuchos de diapositivas circulares que giran infinitamente. En este caso se consiguó un proyector modelo 800. El primer paso consistió en convertir el proyector a LED, para evitar el desgaste de las lámparas originales de Wolframio. Para esto se compró un driver LED que convierte la corriente y la tensión original del proyector, y se instaló un LED cálido de 30w con un disipador de calor pequeño.
 
 ![Hackeo de Kodak Carousel: reemplazo de lámpara original por LED](./assets/6ccd794ebea71733e60fec2d15d6904b.png)
 
+El segundo paso consistió en la automatización. Estos proyectores suelen venir con un control remoto, cableado, que avanza y retrocede una foto. También suelen tener un modo "automático", como es el caso del modelo 800. El problema era que el automático es lento y el control remoto requiere de una persona que lo accione. Aquí entró en escena el Arduino, una placa electrónica de hardware libre que utiliza un microcontrolador programable con una serie de salidas y entradas que permiten establecer conexiones entre el controlador y sensores, luces, motores, botones, interruptores, etc. El Arduino era alimentado por la fuente de 30v del proyector y reducida a 12v por una fuente "Step-down". La idea era que la placa encendiera y apagara un "relay", que se trata de una compuerta electromagnética que abre y cierra el paso de electricidad. En este caso se utilizaba para hacer de botón de "control remoto". De esta manera se logró presionar el botón lo más simétricamente posible, y lo más rápido que el proyector podía soportar. También se le incorporó un sensor de luminosidad en el lente para detectar cuando la lámpara estaba proyectando y cuando no, en pos de agilizar la comunicación entre el proyector y el Arduino.
+
+Para esto también se experimentó con distintas animaciones de computadora, desde programas generativos hasta "El Faro" que se mostró anteriormente, el cual al ser un movimiento sencillo de rotación podía verse más apreciado en el lento movimiento del Carousel.
+
 ![A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva](./assets/2d6d68553d1352ccb00277e9b4aaba43.png)
+
+El dispositivo llegó a montarse y registrarse en centro cheLA en 2023, y sirvió como antecedente a la tercera iteración. Pero el problema principal fue la falta de potencia de luz comparado con las lámparas originales, y la poca velocidad de la proyección como para siquiera aludir a la ilusión de movimiento. También parecía que todo el proceso pecaba de estar "sobre-ingenierizado", con demasiados pasos y sensores y el resultado no era del todo esperado.[^15]
 
 ![Rodaje y montaje en cheLA de proyector Carousel modificado (2023)](./assets/d187c33616d32b6abf8b897528709638.jpg)
 
@@ -476,5 +500,6 @@ La resolución químicamente infinita de la emulsión y el atractivo de entender
 [^12]: Ver variablemediaquestionnaire.net
 [^13]: Ver moma.org/research/conservation/matters-in-media-art
 [^14]: Ver https://www.aslongaspossible.com/
+[^15]: Ver registro: https://youtu.be/Ymcq9Ykm_YE
 
 # Bibliografía
