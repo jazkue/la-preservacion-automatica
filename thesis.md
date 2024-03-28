@@ -1,5 +1,5 @@
 ---
-title: "La Preservación Involuntaria"
+title: "La preservación involuntaria: Estrategias híbridas de permanencia en obras de arte digital"
 author: "Javier de Azkue"
 toc-title: "Indice"
 bibliography: references/bib.bib
@@ -13,9 +13,6 @@ output:
     lang: "es"
     locale: "es-ES"
 ---
-
-<!-- La preservación involuntaria: Estrategias híbridas para reflexionar sobre la permanencia en obras de arte digital -->
-
 # Resumen
 
 La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte y preservación, entendiendo esta hibridez como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. La tesis estudia estos conceptos analizando las problemáticas de la preservación digital y analógica y propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación, las computadoras y la programación.
@@ -24,13 +21,11 @@ Este trabajo se estructura en tres partes. La primera parte es introductoria y e
 
 La segunda parte, "Preservación y obsolescencia", está dividida en cuatro apartados, donde se tratan distintos temas alrededor de la preservación para contextualizar las reflexiones de la tesis. En general los apartados a su vez se dividen en distintos subtemas relacionados y muchas veces entrelazados a través de referentes artísticos. La investigación comienza con un primer apartado titulado "El desafío de preservar", donde se establece una suerte de "estado de la cuestión" alrededor de los orígenes de la acción de preservar y el vínculo con los archivos cinematográficos. El segundo apartado se llama "Computer Art en papel y en celuloide", e investiga el rol de estos soportes físicos en el mundo digital del arte por computadora. Luego "Preservación de arte electrónico" reúne referentes teóricos y artísticos sobre la preservación de esta disciplina que forma parte de los llamados "". Y para finalizar se presenta "Preservación de internet", un apartado que se compone de descripciones alrededor de la conservación y la descentralización en Internet.
 
-Y en la tercera parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de la tesis en su formato "obra": un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como "Films Automáticos". Esta serie es un conjunto de animaciones por computadora y arte generativo transferidos fotográficamente a fílmico en 35 mm para ser reproducidos en proyectores de diapositivas modificados. El mecanismo de proyección consiste en 4 proyectores Kodak Carousel sincronizados para obturar en secuencia, superpuestos sobre la misma superficie, generando velocidad e ilusión de movimiento. Son "automáticos" en tanto que "actúan por sí mismos", son "maquinales", "indeliberados" e "involuntarios", como el acto de preservar al que alude la tesis. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso.
+Y en la tercera parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de la tesis en su formato "obra": un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como "El Film Automático". Esta serie es un conjunto de animaciones por computadora y arte generativo transferidos fotográficamente a fílmico en 35 mm para ser reproducidos en proyectores de diapositivas modificados. El mecanismo de proyección consiste en 4 proyectores Kodak Carousel sincronizados para obturar en secuencia, superpuestos sobre la misma superficie, generando velocidad e ilusión de movimiento. Es "automático" en tanto que "actúa por sí mismo", es "maquinal", "indeliberado" e "involuntario", como el acto de preservar al que alude la tesis. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso. El texto que acompaña a la obra busca reflexionar sobre la historia de los soportes y las tecnologías y dar contexto a la investigación. En estas relaciones se busca que el interlocutor reflexione sobre el valor de la responsabilidad y la dimensión del tiempo en la preservación digital.
 
-Los Films Automáticos intentan poner en evidencia el dispositivo al ser transparentes en su tecnología y funcionamiento. Meditan alrededor de la fragilidad de los formatos, el paso del tiempo y la preservación digital. El texto que acompaña a la obra busca reflexionar sobre la historia de los soportes y las tecnologías y dar contexto a la investigación. En estas relaciones se busca que el interlocutor reflexione sobre el valor de la responsabilidad y la dimensión del tiempo en la preservación digital.
+El interés de la investigación se basa en una obsesión personal alrededor de la obsolesencia tecnológica y la memoria. La tesis se trata de una búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales que hoy podrían considerarse "bastardas".
 
-El interés de la investigación se basa en una obsesión personal alrededor de la obsolesencia tecnológica y la memoria. La tesis se trata de una búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales.
-
-## Palabras clave
+### Palabras clave
 
 Preservación, hibridez, analógico, digital, automatismo, formatos, películas, fílmico, circuit bending, loop.
 
@@ -44,7 +39,7 @@ _Henrietta_ fue realizado como trabajo de tesis para mi carrera de Diseño de Im
 
 _Cuanto más se conecta, menos se conecta_ fue realizada en contexto de una residencia de tres meses en la _School for Poetic Computation_ en Nueva York (que se traduce como _Escuela de Computación Poética_), gracias a una beca de la Fundación Fulbright de Estados Unidos y el Fondo Nacional de las Artes de Argentina. La videoinstalación interactiva utiliza imágenes de mi infancia de 1992, y consistió en dos monitores de PC modificados, con unos paneles de aluminio adaptados a sus lados que conectaban un monitor con otro a través de cables monopolares. Las distintas combinaciones de cables eran traducidas a digital e interpretadas en una computadora. Desde el punto de vista del espectador, en el monitor izquierdo se podía ver el material sin editar en crudo: mi casa, la nieve, mi abuela, mis padres, mi perra, el auto. En el monitor derecho, la pantalla en negro, y cuando se conectaba un cable de la izquierda a la derecha se generaban distintos resultados en este monitor derecho, que consistían en combinaciones de caras de personajes de la familia recortadas por un algoritmo de reconocimiento facial, y algoritmos de edición que desordenaban los fotogramas del video original. El resultado a la derecha era un collage desordenado y caótico de caras, escenarios y sonidos. La pantalla de la izquierda representa el pasado inalterado, y la pantalla de la derecha representa la forma en que tendemos a recordarlo. La pieza contrasta tecnologías analógicas con digitales, confrontando el video de baja resolución con la detección de rostros, los filtros, la inteligencia artificial y los algoritmos automáticos[^2].
 
-En este primer apartado introductorio vamos a realizar una descripción de estas piezas que nos servirá de antecedente artístico para reflexionar y meditar alrededor de sus estrategias híbridas, la preservación, la técnica y la estética.
+En este primer apartado introductorio vamos a realizar una descripción de estas piezas que nos servirá de antecedente artístico para reflexionar y meditar alrededor de sus estrategias híbridas, la preservación, la técnica y la estética. 
 
 ## Henrietta (2014)
 
@@ -190,7 +185,7 @@ El video cuenta con otra particularidad: el "original" suele ser un componente a
 
 Incluso dentro de la labor de preservación, es notable advertir que las técnicas de restauración de obras insisten en general en el trabajo sobre los originales: en la pintura o la escultura por ser obras únicas, pero también cuando hablamos de películas o fotografías, se busca operar sobre los negativos (para el caso de las imágenes reproducibles, lo más cercano a un original). El video es diverso en este sentido, ya que su supervivencia se ha visto vinculada sobre todo a la ausencia de esa obra material originaria: si bien tuvo que existir una primera copia en el momento de creación, su circulación y por lo tanto su existencia (dos coordenadas que al tratarse de un medio técnicamente reproducible aparecen prácticamente asociadas), han sido definidas por la imposibilidad de rastrear aquella copia primera, en pos de la multiplicación y la difusión [@cantuArchivosVideoNo2015].
 
-### Acceder al original
+### El acceso al original
 
 En el libro _Restoration of Motion Picture Film_ de Read y Meyer se define al original como el material capturado directa y exactamente desde la cámara. El negativo de cámara es el original y los "prints" son las copias para ver el material [@readRestorationMotionPicture2000, p. 14]. Y si en el cine analógico resulta intuitivo imaginar cuál es el material original, en el cine digital la definición tiende a complicarse. 
 
@@ -199,6 +194,8 @@ En su libro Fossati habla del "original" como el núcleo de la práctica archiv�
 > _...the meaning of “original” can change depending on the theoretical frameworks one embraces. “The original” can be a conceptual artifact (e.g. one particular version of a film) or a material artifact (e.g. the original camera negative), it can refer to the film as it was originally shown to the audience, as well as the material film artifact as it was recovered by the film archive. But it can refer to the film as text where its integrity is measured in terms of completeness and continuity (e.g. all the scenes that constitute the version as it was meant by the director, edited in their right order), or to the film as text and as technological artifact, where resolution, color depth and look in general are also integral parts of the whole. In view of all these different assumptions, “film as original” forms a framework of reference in itself and, as such, it lies at the core of the archival practice, the focal point for the discussion on the nature of (archival) film, again, both as material and conceptual artifact._ [...el significado de "original" puede cambiar según los marcos teóricos que uno adopte. "Lo original" puede ser un artefacto conceptual (por ejemplo, una versión particular de una película) o un artefacto material (por ejemplo, el negativo original de la cámara), puede referirse a la película tal como se mostró originalmente al público, así como al artefacto material cinematográfico tal como fue recuperado por el archivo cinematográfico. Pero puede referirse a la película como texto, donde su integridad se mide en términos de completitud y continuidad (por ejemplo, todas las escenas que constituyen la versión tal como fue concebida por el director, editadas en su orden correcto), o a la película como texto y como artefacto tecnológico, donde la resolución, la profundidad de color y el aspecto en general también son partes integrales del conjunto. A la luz de todas estas suposiciones diferentes, "la película como original" forma en sí misma un marco de referencia y, como tal, se encuentra en el núcleo de la práctica archivística, el punto focal para la discusión sobre la naturaleza del cine (archivístico), tanto como artefacto material como conceptual] [@fossatiGrainPixelArchival2018, p. 161].
 
 Sería pertinente diferenciar preservación de "acceso" porque muchas veces se mezclan. Como habíamos dicho, preservar patrimonio cultural consiste principalmente en conservar su forma original frente a las adversidades del paso del tiempo, o frente a accidentes o acciones humanas; y muchas veces consiste también en “restaurarlo” (o volverlo) a esa forma. “Dar acceso” a una obra,  a nivel público, consiste en democratizar su visualización y utilidad. Y podría considerarse la antítesis de la idea de preservación, pues a nivel abstracto puede sugerir degradación y desgaste, aunque muchas veces demuestran ser inesperados salvadores del patrimonio.
+
+Un poco parecido a las ideas de Walter Benjamin en _La obra de arte en la época de su reproductibilidad técnica_, que planteaba una polaridad en las obras de arte, basada en el valor de culto por un lado y el valor de exhibición por el otro. La producción artística nace al servicio de los rituales: la apreciación humana era casi accidental y lo que realmente importaba era que sea presenciada por dioses y espíritus. A medida que en la historia se fue emancipando el ritual del proceso artístico, el potencial de exhibición fue aumentando, para llegar hoy al énfasis exclusivo puesto en este valor [@benjaminWorkArtAge2008, p. 25].
 
 Como se habló antes, Del Amo García destacaba la clasificación de los materiales, la conservación de los originales y la "reproducción para la preservación". Este último punto es importante, porque Fossati menciona que la diferencia principal entre los archivos y los museos o cinematecas es que los primeros tienden a no tener como misión principal el acceso al material (la reproducción), mientras que los otros sí. La principal diferencia entre archivos, museos y cinematecas radica en la forma en que exhiben sus películas, de acuerdo con la declaración de su misión, o política de exhibición [@fossatiGrainPixelArchival2018, p. 31].
 
@@ -222,7 +219,7 @@ Bill Brand es un director de cine experimental de Estados Unidos conocido por su
 
 Las películas estructuralistas en general están producidas en formatos de película chicos y medianos, por su naturaleza independiente y no comercial. Además de su carrera como artista, Bill Brand en particular se hizo muy reconocido por su habilidad como técnico de impresora óptica, un dispositivo cinematográfico con un par de cámaras mecánicamente enlazadas que se usa para hacer copias y efectos especiales. Brand realizaba copias y "blow ups" de esas películas en formatos pequeños a formatos de proyección y distribución, como podría ser una ampliación de un Super8 a 16 mm. En el libro _Results You Can't Refuse: Celebrating 30 Years of BB Optics_ de Andrew Lampert, Bill Brand se define a sí mismo como un "preservador accidental", siendo que adquirió muchísima habilidad para esta disciplina a través de la práctica en su laboratorio BB Optics,  trabajando para amigos y artistas de la escena, conociendo el medio en el que se manejaba siendo él mismo artista, y entendiendo además las particularidades del cine de vanguardia, pero sin realmente proponérselo. ¿Qué se guarda, qué se salva, qué se corrije en una película estructuralista, siendo que toda la obra es justamente volver explícito las particularidades del soporte? Y en relación al acceso de las obras, Brand dice en una entrevista del libro:
 
-> _The preservation process is not just about making a long-lasting object and putting it on ice. (...) It's not really preserved as far as I'm concerned, unless it is made available._ [Preservar no es solamente conseguir que un objeto dure en el tiempo y se lo congele como hielo. (...) En lo que a mí respecta, si no está accesible no está realmente preservado] [@brandAccidentalPreservationistInterview2006, p. 42].
+> _The preservation process is not just about making a long-lasting object and putting it on ice. (...) It's not really preserved as far as I'm concerned, unless it is made available._ [Preservar no es solamente conseguir que un objeto dure en el tiempo y se congele como hielo. (...) En lo que a mí respecta, si no está accesible no está realmente preservado] [@brandAccidentalPreservationistInterview2006, p. 42].
 
 Aún así, según Brand preservar una película no es exactamente una práctica transparente, y requiere mucha empatía con la estrategia original del artista [@lampertResultsYouCan2006, p. 28]. Aquí podemos recordar lo que hablábamos de la importancia de la documentación. Ser un artista y ser parte del contexto donde se desarrolla ese arte lo hace la persona idónea para el trabajo: qué decisiones tomar, qué limpiar, qué dejar de lado, qué arreglar, y lejos de las estandarizaciones de los laboratorios de la industria del cine.
 
@@ -434,10 +431,36 @@ Steyerl hace referencia directa al video digital y a su distribución alternativ
 
 Todas estas tecnologías parecieran estar trazando una genealogía de preservación híbrida, entre lo analógico y lo digital. Pareciera que mientras más pasos de hibridez y mudanza del soporte, mientras más “generaciones” como se dice en el ambiente del archivo audiovisual, más posibilidades existen de que se preserve en el tiempo. En este momento "transicional" como describe Fosatti, nos quedan más preguntas que respuestas.
 
-# III. Los Films Automáticos
+# III. El Film Automático
 
-![3ba87a632fb60a1ff1f217a510c31914.jpg](./assets/3ba87a632fb60a1ff1f217a510c31914.jpg)
+La inspiración para las piezas de la tesis nace en una primera instancia por accidente, por un gesto creativo intuitivo no premeditado. Tenía una cámara de rollo y me quedaba una sola foto. En la pantalla de mi computadora tenía un programa generativo de dibujos que estaba desarrollando, una serie de puntos blancos que se acercan y alejan entre sí en un fondo negro, de acuerdo a diferentes parámetros. Saco una foto de la pantalla y se termina el rollo. El revelado me inspira: encuentro una forma "low-tech" de realizar un proceso de digital a analógico, "digital to film", o "film out" como se lo conoce en la jerga cinematográfica.
 
+![Primer acercamiento al "film out"](./assets/films_1.jpg)
+La resolución químicamente infinita de la emulsión y el atractivo de entender y diseñar una forma de trabajo y reproducción eran claros intereses en este experimento. ¿Cómo optimizar este proceso? ¿Cómo aprovechar al máximo sus alcances y limitaciones? ¿Cómo transferir movimiento a un medio estático? En esta tercera parte de la tesis vamos a llevar a cabo una descripción de las iteraciones que llevan a la realización de _El Film automático_. Es "automático" en tanto que "actúa por sí mismos", es "maquinales", "indeliberado" e "involuntario", como el acto de preservar al que alude la tesis. Alrededor de esta obra se documentan experimentos, pruebas e iteraciones específicas del proceso. _El Film Automático_ intenta poner en evidencia el dispositivo al ser transparentes en su tecnología y funcionamiento. Medita alrededor de la fragilidad de los formatos, el paso del tiempo y la preservación digital.
+
+## Primera iteración: digital-to-analog-to-digital
+
+![Proceso manual de "blow out"](./assets/7e70fc22497ba2a99b650f260bd30eca.png)
+
+![Película y contenedores](./assets/83d77e27c0210dffac1fd102ed749a89.jpg)
+
+![Digitalización de fotogramas](./assets/834a5308f4a621c379b8956a94caa980.jpg)
+
+![Los films en su formato digital y animado, distribuidos como NFTs en el marketplace knownorigin.io (2020)](./assets/bf0da1ed8f53cdd96fc67b6cc12b3a1d.jpg)
+
+## Segunda iteración: el faro
+
+![Fotograma de El Faro (2022)](./assets/e4dfd27e4cab5b73a17f8321a30ba2e1.jpg)
+
+![Hackeo de Kodak Carousel: reemplazo de lámpara original por LED](./assets/6ccd794ebea71733e60fec2d15d6904b.png)
+
+![A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva](./assets/2d6d68553d1352ccb00277e9b4aaba43.png)
+
+![Rodaje y montaje en cheLA de proyector Carousel modificado (2023)](./assets/d187c33616d32b6abf8b897528709638.jpg)
+
+## Tercera iteración: el film automático
+
+...
 
 [^1]: Ver más en https://javierdeazkue.ar/henrietta
 [^2]: Ver más en https://javierdeazkue.ar/themoreyouconnect
