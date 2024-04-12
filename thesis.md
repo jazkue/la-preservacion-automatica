@@ -115,11 +115,13 @@ _Cuanto más se conecta, menos se conecta_ vino a concluir y representar un poco
 
 ![Cuanto más se conecta, menos se conecta (2019)](./assets/cuandomas.jpg)
 
+
+
 # II. Preservación y obsolescencia
 
 ¿Por qué se preserva? ¿Cómo se guardan las películas? ¿Qué tienen en común con el arte por computadora? ¿Cómo hacen los museos para salvar videos, páginas web, obras de arte electrónico y videojuegos en tiempos de velocidad tecnológica y obsolescencia electrónica? En este segundo capítulo vamos a estudiar algunas formas de preservación de los "Time-based Media" y vamos a analizar el trabajo de algunos referentes artísticos y técnicos del mundo del cine experimental, el arte por computadora, el arte electrónico y los archivos de internet.
 
-Los "Time-based Media" son aquellos medios que se "despliegan" en el tiempo, y a pesar de que muchas veces son de naturaleza tecnológica, es un nombre flexible que engloba disciplinas desde cine y video hasta instalaciones, arte electrónico y performance. En general estas obras, que son muchas veces de naturaleza efímera, dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Son medios inestables, en constante cambio y actualización. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, derivados de milenios de restauración arquitectónica, pictórica y artística en manos de artistas de todo el mundo, y luego a partir del Siglo XX concentrados y estandarizados por museos e instituciones occidentales como el _British Museum_ o los _Staatliche Museen_ en Berlin, en el grupo de los Time-based los métodos suelen ser más jóvenes y son principalmente estudiados por instituciones específicas en cooperación con estándares de industrias audiovisuales y tecnológicas.
+Los "Time-based Media" son aquellos medios que se "despliegan" en el tiempo, y a pesar de que muchas veces son de naturaleza tecnológica, es un nombre flexible que engloba disciplinas desde cine y video hasta instalaciones, arte electrónico y performance. En general estas obras, que son muchas veces de naturaleza efímera, dependen de su formato desplegado en el espacio, o de ciertas tecnologías específicas que hacen posible su desarrollo y ejecución. Son medios inestables, en constante cambio y actualización. Mientras que existen estándares internacionales para el manejo, instalación y cuidado de obras de arte tradicionales, derivados de milenios de restauración arquitectónica, pictórica y artística en manos de artistas de todo el mundo, y luego a partir del Siglo XX concentrados y estandarizados por museos e instituciones occidentales como puede ser el _British Museum_ o los _Staatliche Museen_ en Berlin, en el grupo de los Time-based los métodos suelen ser más jóvenes y son principalmente estudiados por instituciones específicas en cooperación con estándares de industrias audiovisuales y tecnológicas.
 
 ## El desafío de preservar
 
@@ -273,6 +275,10 @@ En esta misma línea es interesante encontrar una continuidad histórica con los
 ![A la izquierda: William Kennedy Dickson, "Edison Kinetoscopic Record of a Sneeze" (1889). A la derecha: Georges Méliès, paper print de "Le roi du maquillage" (1904). Accedido desde https://en.wikipedia.org/wiki/Paper_print](./assets/Edison.jpg)
 
 Un efecto secundario afortunado de esta técnica es que mientras las películas y negativos reales de este período a menudo se deterioraban o eran destruidos, las impresiones en papel permanecían ignoradas y guardadas. En muchísimos casos gracias a los Paper Prints es que se conservan  películas de esa época, pues por falta de interés, por la naturaleza de los materiales (como el nitrato autocombustible) o por los requisitos legales, muchas copias se perdían para siempre [@rewaldJohnHayWhitney1983].
+
+También hay referentes del uso de esta tecnología en el continente asiático. El proyecto _Japanese Paper Film Project_ de la universidad de Bucknell, Pensilvania, es un trabajo dedicado al rescate e investigación de las _kami firumu_, las películas producidas directamente en papel en el Japón de principios del siglo XX. De 1932 a 1938, dos empresas japonesas dominaron el mercado de las películas de papel: _REFCY_, con sede en Tokio, y _Katei Toki_, con sede en Osaka. Se producían películas animadas y fotografiadas y, a menudo, a color. Además, muchas de las películas contenían sonido sincronizado en vinilos de 78 rpm. Dado el corto período de producción, la diferentes calidades del papel y la devastación de la Segunda Guerra Mundial, muy pocas copias de estas películas sobreviven. El proyecto se basa en la documentación y la digitalización de las películas que, dada la naturaleza irregular del soporte, requirió de un diseño de hardware y software particular para el proyecto [@fadenJapanesePaperFilm2023].
+
+![A la izquierda: scanner "Kyōrinrin" en acción. Arriba: distintas ubicaciones de las perforaciones. Abajo: paper film empalmado a mano. "Japanese Paper Film Project" (2023).](./assets/jap_paper_film.jpg)
 
 ### "Data-on-film" (digital pero tangible)
 
