@@ -19,7 +19,7 @@ La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbr
 
 El interés de la investigación se basa en una obsesión personal alrededor de la obsolesencia tecnológica y la memoria. La tesis se trata de una búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales que hoy podrían considerarse "bastardas".
 
-### Palabras clave
+**Palabras clave**
 
 Preservación, hibridez, transición, impureza, automatismo, formatos, películas, customización, loop.
 
@@ -267,7 +267,7 @@ El trabajo de Molnar implicaba una vuelta constante entre papel y computadora, r
 
 > _I belong to that generation where the first things I made with computers … there was no screen. If you can imagine that. You couldn’t see what you were doing. You would see \[the results] the next day, or three days later, and then you’d say … that’s not what I wanted! When the screen appeared, it completely changed my life. It was like moving to Paris all over again, that’s how exciting it was…. I had this feeling that this was invented for me. This was an academic research institute, so people didn’t really care how the graphics looked, or what graphics even were, really. But that is all I cared about. I realized very quickly that the computer screen was the thing for me._
  
-_[Pertenezco a una generación en la que las primeras cosas que hice con computadoras... no había pantalla. Si pudieras imaginar eso. No podías ver lo que estabas haciendo. Verías los resultados al día siguiente, o tres días después, y luego dirías... ¡eso no es lo que quería! Cuando apareció la pantalla, mi vida cambió por completo. Fue como mudarme a París de nuevo, así de emocionante fue... Tenía la sensación de que esto fue inventado para mí]_ [@valyi-nagyHOLODossierVera2022].
+> _[Pertenezco a una generación en la que las primeras cosas que hice con computadoras... no había pantalla. Si pudieras imaginar eso. No podías ver lo que estabas haciendo. Verías los resultados al día siguiente, o tres días después, y luego dirías... ¡eso no es lo que quería! Cuando apareció la pantalla, mi vida cambió por completo. Fue como mudarme a París de nuevo, así de emocionante fue... Tenía la sensación de que esto fue inventado para mí]_ [@valyi-nagyHOLODossierVera2022].
  
 ![A la izquierda: Vera Molnar, estudio para "Inclinaisons" (1971). A la derecha: Vera Molnar, dibujo hecho en plotter "Inclinaison" (1971). Accedido desde https://www.holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/](./assets/vera_molnar.jpg)
 
