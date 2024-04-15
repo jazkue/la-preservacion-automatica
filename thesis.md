@@ -19,6 +19,7 @@ La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbr
 
 El interés de la investigación se basa en una obsesión personal alrededor de la obsolesencia tecnológica y la memoria. La tesis se trata de una búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales que hoy podrían considerarse "bastardas".
 
+
 **Palabras clave**
 
 Preservación, hibridez, transición, impureza, automatismo, formatos, películas, customización, loop.
