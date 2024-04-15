@@ -1,5 +1,5 @@
 ---
-title: "La preservación involuntaria: Estrategias híbridas de permanencia en obras de arte digital"
+title: "La preservación involuntaria!: Estrategias híbridas de permanencia en obras de arte digital"
 author: "Javier de Azkue"
 toc-title: "Indice"
 bibliography: references/bib.bib
