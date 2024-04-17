@@ -52,13 +52,13 @@ Para abordar las inquietudes y los objetivos de la investigación, el trabajo se
 
 La historia comienza en 1937 cuando desembarca _Henrietta_ en el Puerto de Buenos Aires, un velero proveniente de Estados Unidos en medio de un viaje alrededor del mundo. La llegada de este barco tuvo mucha repercusión en la comunidad porteña de la navegación y fue anunciada en varios medios deportivos, como la revista El Gráfico. Los navegantes andaban buscando sumar hombres a la tripulación para el trayecto desde Buenos Aires hasta Valparaíso por la particular dificultad de navegación que presentaba el Estrecho de Magallanes. Mi abuelo Horacio Ezcurra tenía 24 años y estaba terminando sus estudios de arquitectura en la Universidad de Buenos Aires. Por su experiencia de navegación se sumó a la tripulación ad honorem junto a dos argentinos más, Alberto Quayat y Eduardo Cavanagh.
 
-![Federico Ribas, caricaturas de tripulantes de Henrietta (Horacio a la derecha), publicación desconocida, posiblemente El Gráfico (1938)](./assets/a60b509825c936b75fbf807369c99886.png)
+![Nota sobre los tripulantes de Henrietta (Horacio a la derecha), dibujos de Federico Ribas, posiblemente en El Gráfico (1938)](./assets/a60b509825c936b75fbf807369c99886.png)
 
 El viaje está muy documentado a través de cartas que le escribía uno de los tripulantes, Marvin Collins, a su padre en Estados Unidos, quien las publicaba en el diario “Spirit Lake Beacon”: "estamos sumando tres argentinos a nuestra tripulación, ya que necesitamos mucha fuerza para los vientos en el Estrecho. Todavía no los conocemos muy bien, pero parecen buenos muchachos" [@collinsSailingSevenSeas1938].
 
 Mi tío Exequiel Ezcurra fue quien llevó a cabo la mayor parte de la investigación sobre el viaje, inspirado por el hallazgo de mi primo Joaquín Ezcurra que encontró en 2012 la cinta en VHS de la película, la digitalizó y la envió por email a la familia . Toda la información del viaje parte de su documentación, publicada en su blog: "Después que Joaquín Ezcurra nos enviara la versión digital de la película de Horacio Ezcurra –El Yayo– con su fascinante viaje alrededor del continente en la goleta Henrietta, me puse a buscar en las hemerotecas de la época a ver si encontraba alguna pista periodística del viaje"[^3] [@ezcurraRutaHenriettaSiguiendo2012].
 
-![Joaquín Ezcurra, foto de la copia en VHS de "Henrietta" (2012)](./assets/henrietta_vhs.png)
+![Foto de la copia en VHS de "Henrietta" (2012)](./assets/henrietta_vhs.png)
 
 Mi abuelo Horacio tuvo la oportunidad de documentar el viaje con una filmadora de 16 mm, posiblemente prestada. El material es fascinante, y pueden verse imágenes de Mar del Plata, Mar Argentino, Estrecho de Magallanes, glaciares, barcos petroleros, nativos Kawésqar, Valparaíso y Los Andes. También la relación entre ellos en el viaje, que eran 12 tripulantes: 7 norteamericanos, 2 británicos y 3 argentinos.
 
@@ -202,7 +202,7 @@ Brand menciona un caso interesante: en 1972, siendo asistente y alumno del direc
 
 La obra de Bill Brand es “medium-specific” (si la obra se mueve de su medio o soporte esencial pierde parte sustancial, o total, de su significado). Por la naturaleza de su trabajo, y por trabajar por tantos años con material fílmico, Bill se ha convertido en una eminencia en torno a la preservación audiovisual, por su experiencia de conocer los soportes y las búsquedas de los artistas como él.
 
-Su obra más conocida es quizás la más híbrida de todas: _Masstransiscope_ (1980), realizada íntegramente en las paredes de una estación de metro abandonada en Brooklyn, New York, siguiendo el concepto del Zootropo, un juguete óptico del siglo 19. Mientras se desplaza el tren las ventanas funcionan como obturador de una serie de fotogramas emplazados sobre las paredes de la estación. La obra fue restaurada en 2013[^11]
+Su obra más conocida es quizás la más híbrida de todas: _Masstransiscope_ (1980), realizada íntegramente en las paredes de una estación de metro abandonada en Brooklyn, New York, siguiendo el concepto del Zootropo, un juguete óptico del siglo 19. Mientras se desplaza el tren las ventanas funcionan como obturador de una serie de fotogramas emplazados sobre las paredes de la estación. La obra fue restaurada en 2013[^11].
 
 ![Bill Brand, "Masstransiscope Illustration" (1980). Accedido 15 de Febrero de 2024 desde https://www.billbrand.net/public-art](./assets/masstransiscope+illustration.jpg)
 
