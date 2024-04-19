@@ -15,10 +15,15 @@ output:
 ---
 # Resumen
 
-La Preservación Involuntaria es un trabajo de tesis que estudia técnicas híbridas de arte y preservación, entendiendo esta hibridez como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. La tesis estudia estos conceptos analizando las problemáticas de la preservación digital y analógica y propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación y el arte por computadora.
+La Preservación Involuntaria es una tesis teórico-práctica que estudia técnicas híbridas de arte y preservación, entendiendo esta hibridez como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. El proyecto está compuesto de dos componentes: el texto de fundamentación teórico-conceptual y la obra, abordados dialécticamente. El texto analiza las problemáticas de la preservación digital y analógica, a través de antecedentes teóricos y artísticos, y la obra propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación y el arte por computadora.
 
 El interés de la investigación se basa en una obsesión personal alrededor de la obsolesencia tecnológica y la memoria. La tesis se trata de una búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales que hoy podrían considerarse "bastardas".
 
+El texto se centra en los conceptos y las teorías más rígidas sobre preservación, revisando hitos históricos en la historia de las imágenes en movimiento y referentes artísticos que ponen en cuestionamiento y evidencia la hibridación tecnológica y la transición de los medios.
+
+La obra, por su parte, es un proyecto de instalación que explora técnicas híbridas de arte por computadora y preservación, y consiste en un sistema de proyección analógica de archivos digitales que son decodificados y reinterpretados en tiempo real por una computadora. El proyecto se basa principalmente en el programa _Arctic Code Vault_ de _Github_, que consistió en almacenar grandes cantidades de datos digitales en película analógica en el ártico.
+
+El objetivo de la investigación es problematizar el papel de la permanencia en obras de arte digital a través de una obra compleja de técnicas híbridas, que incluye conversiones y decodificaciones, y repasar conceptos generales de preservación y obsolescencia estudiando de cerca el caso de los archivos cinematográficos y sus evoluciones y descendencias.
 
 **Palabras clave**
 
@@ -30,11 +35,11 @@ En la introducción al libro _Del grano al pixel: cine y archivos en transición
 
 Las obras propias que se describen en este primer apartado –_Henrietta_ (2014) y _Cuanto más se conecta, menos se conecta_ (2019)– tienen en común la utilización de material de archivo como materia prima, más específicamente material de origen familiar, y el tratamiento de este material en forma digital. _Henrietta_ es una videoinstalación monocanal que fue realizada con material fílmico de 16 mm en descomposición, digitalizando las imágenes cuadro a cuadro a través de un sistema de escaneo hogareño, reconstruyendo manualmente el movimiento en Photoshop y editando la película en After Effects. _Cuanto más se conecta_, por otro lado, es una videoinstalación interactiva de dos canales que fue realizada con material en cinta magnética digitalizado y posteriormente procesado con algoritmos automáticos de edición, superposición y reconocimiento facial en tiempo real.
 
-_Henrietta_ fue realizado como trabajo de tesis para la carrera de Diseño de Imagen y Sonido en la UBA. La obra es una especie de viaje audiovisual construido de película degradada que muestra las aventuras de mi abueloa bordo de un barco por el extremo sur de Sudamérica en 1938 en compañía de unos jóvenes navegantes, entre glaciares y nativos kawéscar. La obra, digitalizada manualmente en su totalidad, explora el pasado, la memoria y el alma del acetato en descomposición, e invita al espectador a sumergirse en la oscura e hipnótica latencia del material. Por su fragilidad y rigidez, el material original, que alguna vez había sido flexible y resistente, ahora era imposible de digitalizar por medios mecánicos en un escáner profesional o de reproducir en un proyector. Por este motivo la primera parte del trabajo consistió en diseñar una forma de digitalizar las imágenes, aunque esto conllevara la destrucción del material. Luego hubo que realizar una reconstrucción de ese movimiento pero de forma digital. Y una vez recuperado el movimiento del material como video, se realizó una edición de las imágenes, entre repeticiones, desplazamientos y diseño sonoro, y la producción de una videoinstalación basada en una pantalla de tela de diseño propio con ventiladores laterales que generaban turbulencias en la superficie a proyectar[^1].
+_Henrietta_ fue realizado como trabajo de tesis para la carrera de Diseño de Imagen y Sonido en la UBA. La obra es una especie de viaje audiovisual construido de película degradada que muestra las aventuras de mi abueloa bordo de un barco por el extremo sur de Sudamérica en 1938 en compañía de unos jóvenes navegantes, entre glaciares y nativos Kawéscar. La obra, digitalizada manualmente en su totalidad, explora el pasado, la memoria y el alma del acetato en descomposición, e invita al espectador a sumergirse en la oscura e hipnótica latencia del material. Por su fragilidad y rigidez, el material original, que alguna vez había sido flexible y resistente, ahora era imposible de digitalizar por medios mecánicos en un escáner profesional o de reproducir en un proyector. Por este motivo la primera parte del trabajo consistió en diseñar una forma de digitalizar las imágenes, aunque esto conllevara la destrucción del material. Luego hubo que realizar una reconstrucción de ese movimiento pero de forma digital. Y una vez recuperado el movimiento del material como video, se realizó una edición de las imágenes, entre repeticiones, desplazamientos y diseño sonoro, y la producción de una videoinstalación basada en una pantalla de tela de diseño propio con ventiladores laterales que generaban turbulencias en la superficie a proyectar[^1].
 
 _Cuanto más se conecta, menos se conecta_ fue realizada en contexto de una residencia de tres meses en la _School for Poetic Computation_ en Nueva York (que se traduce como _Escuela de Computación Poética_), gracias a una beca de la Fundación Fulbright de Estados Unidos y el Fondo Nacional de las Artes de Argentina. La videoinstalación interactiva utiliza imágenes de mi infancia de 1992, y consistió en dos monitores de PC modificados, con unos paneles de aluminio adaptados a sus lados que conectaban un monitor con otro a través de cables monopolares. Las distintas combinaciones de cables eran traducidas a digital e interpretadas en una computadora. Desde el punto de vista del espectador, en el monitor izquierdo se podía ver el material sin editar en crudo: mi casa, la nieve, mi abuela, mis padres, mi perra, el auto. En el monitor derecho se generaban distintos resultados, que consistían en combinaciones de caras aisladas de personajes de la familia recortadas por un algoritmo de reconocimiento facial, y algoritmos de edición que desordenaban los fotogramas del video original. El resultado a la derecha era un collage desordenado y caótico de caras, escenarios y sonidos. La pantalla de la izquierda representaba el pasado inalterado, y la pantalla de la derecha representaba la forma en que tendemos a recordarlo. La pieza contrasta tecnologías analógicas con digitales, confrontando el video de baja resolución con la detección de rostros, los filtros, la inteligencia artificial y los algoritmos automáticos[^2].
 
-Trabajar con este tipo de materiales nostálgicos genera muchas inquietudes. _Henrietta_ y _Cuando más se conecta_ son trabajos que nos ayudan a pensar en el universo transicional que describe Fosatti porque por su hibridez técnica viven en una intersección entre cine digital y cine analógico. Y desde la recuperación accidental que plantea Sandusky, se podría decir que las dos piezas remiten a una idea de "impureza" estética donde las técnicas no convencionales que se utilizan son de un lenguaje intuitivo y natural y no están teorizadas como sistemas de preservación. Pero, ¿como se preservan las imágenes en movimiento y que tiene que ver el arte digital con todo eso? ¿Qué privilegios tiene un artista digital frente a los medios y los dispositivos que se utilizan como soporte y lenguaje? ¿Y en qué se parece y en qué se diferencia un artista de un archivista y qué responsabilidad tiene este otro en tiempos de transición analógico-digital?
+Trabajar con este tipo de materiales nostálgicos genera muchas inquietudes. _Henrietta_ y _Cuando más se conecta_ son trabajos que nos ayudan a pensar en el universo transicional que describe Fosatti porque por su hibridez técnica viven en una intersección entre cine digital y cine analógico. Y desde la recuperación accidental que plantea Sandusky, se podría decir que las dos piezas remiten a una idea de "impureza" estética donde las técnicas no convencionales que se utilizan son de un lenguaje intuitivo y natural y no están teorizadas como sistemas de preservación, aunque así puedan terminar siendo. Pero, ¿como se preservan las imágenes en movimiento y que tiene que ver el arte digital con todo eso? ¿Qué privilegios tiene un artista digital frente a los medios y los dispositivos que se utilizan como soporte y lenguaje? ¿Y en qué se parece y en qué se diferencia un artista de un archivista y qué responsabilidad tiene este otro en tiempos de transición analógico-digital?
 
 Para dar comienzo a la tesis primero vamos a definir las preguntas de investigación y los objetivos que definen las inquietudes de la investigación y las bases para la experimentación:
 
@@ -46,7 +51,13 @@ El **objetivo general** de la investigación es problematizar el papel de la per
 
 Los **objetivos específicos**, por otro lado, consisten en estudiar momentos puntuales de la historia de la imagen en movimiento, realizando cruces técnicos, históricos y conceptuales con referentes artísticos y producciones propias.
 
-Para abordar las inquietudes y los objetivos de la investigación, el trabajo se estructura en tres partes principales, seguidas de la conclusiones, el glosario y las referencias bibliográficas. La primera parte es introductoria y es un antecedente de dos trabajos previos de producción propia que se centran en las temáticas de la memoria, los archivos y los dispositivos. Estos son _Henrietta_ (2014) y _Cuanto más se conecta, menos se conecta_ (2019). La segunda parte, "A medio camino entre el arte y la preservación", se centra en los conceptos y las teorías más rígidas sobre preservación, revisando hitos históricos en la historia de las imágenes en movimiento y referentes artísticos que ponen en cuestionamiento y evidencia la hibridación tecnológica y la transición de los medios. En la tercera parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de la tesis en su formato "obra": un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como "Los Films Automáticos".
+Para abordar las inquietudes y los objetivos de la investigación, el trabajo se estructura en tres partes principales, seguidas de la conclusiones, el glosario y las referencias bibliográficas. La primera parte es introductoria y es un antecedente de dos trabajos previos de producción propia que se centran en las temáticas de la memoria, los archivos y los dispositivos. Estos son _Henrietta_ (2014) y _Cuanto más se conecta, menos se conecta_ (2019). La segunda parte, "A medio camino entre el arte y la preservación", se centra en los conceptos y las teorías más rígidas sobre preservación, revisando hitos históricos en la historia de las imágenes en movimiento y referentes artísticos que ponen en cuestionamiento y evidencia la hibridación tecnológica y la transición de los medios. En la tercera parte, de índole práctica, se lleva a cabo el desarrollo y la documentación de la tesis en su formato "obra": un conjunto de experimentos audiovisuales analógico-digitales libremente titulados como _Los Films Automáticos_.
+
+Los Films Automáticos son un conjunto de animaciones por computadora y arte generativo transferidos fotográficamente a 35 mm para ser reproducidos en distintos medios y dispositivos. Animaciones 3D digitales, archivos GIF monocromáticos de baja resolución y programas generativos escritos en plataformas de código abierto son transferidos a fílmico en un proceso manual, cuadro por cuadro, para ser digitalizados nuevamente en su forma fotoquímica y reconstruídos en entornos digitales de reproducción y distribución; o son reinterpretados en su nueva forma física, para ser convertidos en diapositivas y adaptados a proyectores hogareños en desuso.
+
+La obra en su iteración final es un proyecto de instalación que explora técnicas híbridas de arte por computadora y preservación, y consta de dos proyectores de diapositivas Kodak Carousel que proyectan 160 fotogramas de una animación codificados en forma de códigos QR. Una cámara captura estos códigos y una computadora los decodifica en tiempo real como fotogramas. Como se mencionó previamente, el proyecto se basa principalmente en el programa _Arctic Code Vault_ de _Github_, que consistió en almacenar grandes cantidades de datos digitales en película analógica en el Ártico. Además está inspirado en la mecánica de las animaciones GIF y sus loops infinitos (los Kodak Carousels son perfectos en este sentido debido a su sistema de bucle). Dado que los proyectores de diapositivas suelen ser lentos, se utiliza un Arduino para controlar los dos proyectores y activarlos de forma alterna y sincronizada. Y debido a que el tamaño máximo de archivo que puede codificar en un código QR es de 3 KB, la animación está hecha de simples dibujos vectoriales en formato SVG.
+
+![](./assets/sketch.jpg)
 
 ## Henrietta (2014)
 
@@ -62,9 +73,7 @@ Mi tío Exequiel Ezcurra fue quien llevó a cabo la mayor parte de la investigac
 
 Mi abuelo Horacio tuvo la oportunidad de documentar el viaje con una filmadora de 16 mm, posiblemente prestada. El material es fascinante, y pueden verse imágenes de Mar del Plata, Mar Argentino, Estrecho de Magallanes, glaciares, barcos petroleros, nativos Kawésqar, Valparaíso y Los Andes. También la relación entre ellos en el viaje, que eran 12 tripulantes: 7 norteamericanos, 2 británicos y 3 argentinos.
 
-_Henrietta_ partió de una obsesión personal con la fotografía analógica y también por una curiosidad natural de estudiante de cine por trabajar con fílmico, cosa que para mi generación y al menos para la Universidad de Buenos Aires era un poco lejana. Para el 2014 estaba muy inspirado por el cine de Werner Herzog, filmado en exteriores, de personajes masculinos aventureros en paisajes inhóspitos. En la cátedra Campos-Trilnick, el último año de diseño es de temática libre, y me parecía un buen punto de partida, porque para obtener una "buena resolución" era este camino o trabajar con cámaras de alta definición en un proyecto totalmente diferente.
-
-Desde un punto de vista técnico estaba interesado en el fílmico por una idealización que tenía de la resolución potencialmente infinita de la película analógica (por no tratarse de valores discretos de píxeles). Ese año había visto en el festival BAFICI una restauración en 4k de _La Épica del Everest_, de John Noel, y me fascinó poder ver esas imágenes del pasado en una resolución tan alta, con los planos del Everest entintados en azul. Fue la primera vez que vi cine de principio de siglo en alta resolución.
+_Henrietta_ partió de una obsesión personal con la fotografía analógica y también por una curiosidad natural de estudiante de cine por trabajar con fílmico, cosa que para mi generación y al menos para la Universidad de Buenos Aires era un poco lejana. Para el 2014 estaba muy inspirado por el cine de Werner Herzog, filmado en exteriores, de personajes masculinos aventureros en paisajes inhóspitos. En la cátedra Campos-Trilnick, el último año de diseño es de temática libre. Desde un punto de vista técnico estaba interesado en el fílmico por una idealización que tenía de la resolución potencialmente infinita de la película analógica (por no tratarse de valores discretos de píxeles). Ese año había visto en el festival BAFICI una restauración en 4k de _La Épica del Everest_, de John Noel, y me fascinó poder ver esas imágenes del pasado en una resolución tan alta, con los planos del Everest entintados en azul. Fue la primera vez que vi cine de principio de siglo en alta resolución.
 
 Me puse en contacto con mi familia para localizar el material original, y se encontró que estaba guardado en la casa en San Luis donde supo vivir mi abuelo en sus últimos años. Cuando dí con el material, me encontré con una gran decepción. La película desprendía un olor muy fuerte a vinagre y el material estaba endurecido y resquebrajado, era muy difícil apreciar las imágenes porque parecía como si la emulsión se hubiera separado del soporte. Descubrí así el famoso "Síndrome del Vinagre", un proceso de deterioro que actúa en películas de acetato de celulosa cuando son expuestas a condiciones adversas de humedad y calor. La película libera ácido acético, el responsable de su particular olor a vinagre y del deterioro de la película. Según las guías de almacenamiento de películas de acetato de la revista _Topics in Photographic Preservation_ del _Image Permanence Institute (IPI)_, todas las películas de acetato son susceptibles a este deterioro. Es un proceso irreversible que se acelera de película a película a través del aire, y que ocurra dentro de unos pocos años o nunca en siglos depende de las condiciones de almacenamiento en las que se mantenga la película. Según los autores una lata típica de 1000 pies de película 35 mm avinagrada puede llegar a contener el equivalente de hasta 250 cucharadas de vinagre de mesa [@reillyIPIStorageGuide1993].
 
@@ -78,7 +87,7 @@ Esta primera etapa tomó varios meses y fueron días de mucha repetición y conc
 
 ![A la izquierda, Henrietta en VHS, a la derecha, Henrietta en su nueva digitalización (2014)](./assets/henrietta.png)
 
-El proyecto aquí se transformó en otra cosa: pasé de la obsesión por la “buena resolución” a una búsqueda estética basada en la degradación, la oscuridad y el efecto óptico del material, del cual podemos encontrar un estilo semejante a las películas del realizador experimental Bill Morrison. Pero además surgió casi accidentalmente una responsabilidad ética de rescatar por última vez este material de la destrucción total.
+El proyecto aquí se transformó en otra cosa: pasé de la obsesión por la “alta resolución” a una búsqueda estética basada en la degradación, la oscuridad y el efecto óptico del material, del cual podemos encontrar un estilo semejante a las películas del realizador experimental Bill Morrison. Pero además surgió casi accidentalmente una responsabilidad ética de rescatar por última vez este material de la destrucción total.
 
 Luego de digitalizar la totalidad del material, en la siguiente fase de creación diseñé con la computadora un espacio virtual y bidimensional parecido a un "dominó", conectando planos por su morfología y continuidad espacial. Cada plano estaba _loopeado_ como si fuera un GIF, lo que me permitía explorar este espacio sin prestar mucha atención al tiempo. Este espacio bidimensional era recorrido por una cámara virtual, que entraba y salía de los distintos escenarios. Por momentos también hacía un montaje convencional, pero esta idea fue la principal a la hora de explorar las imágenes. Esto iba en contra de la dirección natural de una película en fílmico, que es vertical, y me gustaba la idea de evidenciar el dispositivo, el fílmico, las perforaciones y las marcas de la cámara.
 
@@ -100,7 +109,7 @@ Como se mencionó antes, _Cuanto más se conecta, menos se conecta_ fue realizad
 
 ![Clase de Recreating the Past, dictada por Zach Lieberman (2019)](./assets/sfpc.jpg)
 
-Después de aproximadamente 2 meses de cursada había llegado el momento de desarrollar el trabajo para la exposición final. Yo tenía digitalizado el video de mi infancia de mi tío Miguel y se me ocurrió partir de ese material. En primer lugar, en la cursada había desarrollado un programa en Python que con una librería llamada Moviepy desordenaba los fotogramas de un video de una forma determinada: al primero le seguía el último, al segundo el penúltimo, al tercero el antepenúltimo, y así. Si un video era una sucesión de imágenes A-B-C-D-E-F-G, el programa devolvía un video con siguiente orden: A-G-B-F-C-E-D[^7]. Este primer acercamiento demostró ser un muy buen ejemplo de la tecnología del código para editar video, cosa que no había hecho nunca programáticamente. Al aplicar el algoritmo de edición a la película de mi infancia se generó una yuxtaposición de caras y recuerdos muy simbólica e inspiradora, en la que se chocaban generaciones, espacios y sonidos, y la alternancia de imágenes generaba un efecto muy hipnótico en la retina del ojo, al mejor estilo de cine expandido[^8].
+Después de aproximadamente 2 meses de cursada había llegado el momento de desarrollar el trabajo para la exposición final. Yo tenía digitalizado el video de mi infancia de mi tío Miguel y se me ocurrió partir de ese material. En primer lugar, en la cursada había desarrollado un programa en Python que con una librería llamada _Moviepy_ desordenaba los fotogramas de un video de una forma determinada: al primero le seguía el último, al segundo el penúltimo, al tercero el antepenúltimo, y así. Si un video era una sucesión de imágenes A-B-C-D-E-F-G, el programa devolvía un video con siguiente orden: A-G-B-F-C-E-D[^7]. Este primer acercamiento demostró ser un muy buen ejemplo de la tecnología del código para editar video, cosa que no había hecho nunca programáticamente. Al aplicar el algoritmo de edición a la película de mi infancia se generó una yuxtaposición de caras y recuerdos muy simbólica e inspiradora, en la que se chocaban generaciones, espacios y sonidos, y la alternancia de imágenes generaba un efecto muy hipnótico en la retina del ojo, al mejor estilo de cine expandido[^8].
 
 En otra materia habíamos visto librerías de detección de rostros con inteligencia artificial. Con ella uno podía detectar caras en una imagen y reemplazarlas o recortarlas en tiempo real, a través de una cámara o un video. Esto me llevó a experimentar con el material en video y experimentar con las caras de la familia y generar un collage digital-analógico muy particular.
 
@@ -115,8 +124,6 @@ Como se explicó anteriormente, los paneles de aluminio adaptados a sus lados co
 _Cuanto más se conecta, menos se conecta_ vino a concluir y representar un poco lo aprendido en la cursada. La pantalla de la izquierda era una representación del pasado inalterado, y la pantalla de la derecha aludía a la forma en que tendemos a recordar las cosas: fragmentadas, rotas, en detalles, reconstruidas. Fue un ejercicio de nostalgia y memoria, que contrasta tecnologías analógicas con digitales, confrontando el video de baja resolución con la detección de rostros, los filtros, la inteligencia artificial y los algoritmos automáticos.
 
 ![Cuanto más se conecta, menos se conecta (2019)](./assets/cuandomas.jpg)
-
-
 
 # II. A medio camino entre el arte y la preservación
 
@@ -471,7 +478,85 @@ Steyerl hace referencia directa al video digital y a su distribución alternativ
 
 Todas estas tecnologías parecieran estar trazando una genealogía de preservación híbrida, entre lo analógico y lo digital. Pareciera que mientras más pasos de hibridez y mudanza del soporte, mientras más “generaciones”, más posibilidades existen de que se preserve en el tiempo. En este momento "transicional" como describe Fosatti, nos quedan más preguntas que respuestas.
 
-# Referencias Bibliográficas
+# V. Glosario
+
+**4K**: Estándar de resolución de video de casi 4000 píxeles de ancho (3840 × 2160).
+
+**After Effects**: Un software de posproducción de video utilizado para crear efectos visuales y gráficos en movimiento.
+
+**Arduino**: Una plataforma de prototipado electrónico de hardware de código abierto que se utiliza para crear dispositivos interactivos.
+
+**Arte generativo**: Un enfoque artístico en el que se utilizan algoritmos informáticos para generar obras de arte.
+
+**Bitcoin**: La primera criptomoneda descentralizada, concebida en 2008 y lanzada en 2009 por una persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto.
+
+**Blockchain**: Una tecnología de registro distribuido que permite la creación de un libro de contabilidad digital compartido y seguro para registrar transacciones en una red descentralizada.
+
+**Bug**: Un defecto o error en un programa de computadora que causa un comportamiento inesperado o incorrecto.
+
+**Cardano**: Una plataforma blockchain de tercera generación que pretende resolver los problemas de escalabilidad, interoperabilidad y sostenibilidad de las criptomonedas.
+
+**Commodore 64**: Un popular ordenador doméstico lanzado en 1982 conocido por su amplia biblioteca de juegos y su influencia en la industria de la computación personal.
+
+**Crowdsourcing**: El proceso de obtener ideas, servicios o contenido al solicitar contribuciones de un gran grupo de personas, generalmente en línea.
+
+**Datacenters**: Instalaciones físicas que albergan servidores y otros equipos de tecnología de la información, utilizados para almacenar, procesar y distribuir datos.
+
+**Ethereum**: Una plataforma blockchain de código abierto que permite a los desarrolladores construir y desplegar contratos inteligentes y aplicaciones descentralizadas (dApps).
+
+**Flash**: Una plataforma multimedia desarrollada por Macromedia (adquirida por Adobe) utilizada para crear animaciones interactivas, juegos y aplicaciones web.
+
+**Floppy disk**: Un medio de almacenamiento de datos magnéticos que fue ampliamente utilizado en la década de 1980 y 1990 para almacenar y transferir información.
+
+**Fotolog**: Una plataforma de blogging de fotos que fue popular en la década de 2000, permitiendo a los usuarios publicar y compartir fotos con comentarios.
+
+**Geocities**: Un servicio de alojamiento web que permitía a los usuarios crear sus propias páginas web personales, muy popular en los años 90 y principios de los 2000.
+
+**GIF**: Formato de archivo de imagen que admite animaciones y se utiliza ampliamente en la web.
+
+**Github**: Una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+
+**Hash**: Una función matemática que convierte una cantidad de datos en una cadena alfanumérica fija de longitud fija, utilizada en criptografía y blockchain.
+
+**HTML**: Lenguaje de marcado utilizado para crear y estructurar páginas web.
+
+**IPFS**: InterPlanetary File System, un protocolo de red y sistema de archivos descentralizado diseñado para crear un Internet más resistente y distribuido.
+
+**Inteligencia Artificial**: Campo de la informática que se ocupa del desarrollo de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.
+
+**Javascript**: Un lenguaje de programación de alto nivel utilizado principalmente para crear contenido interactivo en páginas web.
+
+**Loop**: Un segmento de audio o video que se repite continuamente sin interrupción.
+
+**Mint (mintear)**: En el contexto de criptomonedas, se refiere al proceso de crear nuevas unidades de una criptomoneda o un token, generalmente a través de la validación de transacciones en una red blockchain.
+
+**Moviepy**: Una biblioteca de Python para editar videos de manera programática.
+
+**Nube**: Se refiere a servicios de almacenamiento y procesamiento de datos en línea que permiten a los usuarios acceder y gestionar información a través de Internet.
+
+**openFrameworks**: Un conjunto de herramientas de desarrollo de software de código abierto para crear proyectos creativos en tiempo real.
+
+**Photoshop**: Un software de edición de imágenes desarrollado por Adobe, utilizado para manipular y retocar fotografías.
+
+**Plotter**: Un dispositivo utilizado para imprimir gráficos vectoriales de gran tamaño, a menudo utilizado en diseño gráfico, ingeniería y arquitectura.
+
+**Processing**: Un entorno de desarrollo integrado y un lenguaje de programación basado en Java utilizado para la creación de imágenes, animaciones e interacciones.
+
+**Python**: Un lenguaje de programación de alto nivel conocido por su sintaxis clara y legible.
+
+**QR**: Código de respuesta rápida, un tipo de código de barras bidimensional que se utiliza para almacenar información, como direcciones URL, para su fácil lectura por dispositivos móviles.
+
+**SVG**: Scalable Vector Graphics, un formato de archivo basado en XML utilizado para describir gráficos vectoriales bidimensionales.
+
+**Tezos**: Una plataforma blockchain de autogobierno que se autoreforma y puede evolucionar su protocolo con el tiempo sin la necesidad de bifurcaciones duras.
+
+**Token**: Un objeto digital que representa un valor, activo o utilidad, a menudo emitido en una blockchain y utilizado en contratos inteligentes y aplicaciones descentralizadas.
+
+**Upscaling**: Proceso de mejorar la resolución o calidad de una imagen o video.
+
+**VHS**: Video Home System, un formato de cinta de video analógica que fue popular en la década de 1980 y 1990 para grabar y reproducir contenido.
+
+# VI. Referencias Bibliográficas
 
 [^1]: Ver más en javierdeazkue.ar/henrietta
 [^2]: Ver más en javierdeazkue.ar/themoreyouconnect
