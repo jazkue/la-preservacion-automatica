@@ -1,5 +1,10 @@
 ---
 title: "La preservación involuntaria: Estrategias híbridas de permanencia en obras de arte digital"
+# title: "La persistencia automática"
+# title: "Las Sombras Eternas"
+# title: "Las Sombras Permanentes"
+# title: "Las Sombras Electrónicas"
+# title: "Las Sombras Digitales"
 author: "Javier de Azkue"
 toc-title: "Indice"
 bibliography: references/bib.bib
@@ -131,7 +136,7 @@ _Cuanto más se conecta, menos se conecta_ vino a concluir y representar un poco
 
 Del latín _praeservare_ ("cuidar/observar con antelación"), preservar podría definirse como proteger anticipadamente alguna cosa frente a accidentes, acciones humanas o el paso del tiempo. Preservar implica pensar estrategias para desafiar el paso del tiempo y desarrollar un juicio de valor para decidir el criterio con el que se preserva. En este primer apartado vamos a contextualizar de forma general la acción de preservar y vincular sus particularidades y contradicciones con el mundo de la preservación de obras cinematográficas.
 
-## Contradicciones e impurezas en preservación
+## Contradicciones e impurezas
 
 ¿Por qué preservamos? La investigadora argentina Mariela Cantú plantea que "una de las más fascinantes e imperecederas fantasías humanas (aún hoy, a pesar de todas nuestras derrotas) radica en la creencia de un mundo que puede ser ordenado, clasificado y así, en última instancia, dominado. (...) Es aquí donde el archivo se hace presente, en la medida en que su concepto (y su labor) proponen un ordenamiento, un discurso y, en última instancia, una forma de contacto con el pasado y con las posibles memorias que pueden generarse a partir de él" [@cantuArchivosVideoNo2015].
 
@@ -191,9 +196,7 @@ Estos dilemas también escapan de los laboratorios de restauración más profesi
 
 La directora e investigadora de cine experimental Sharon Sandusky opina que "la recuperación de una película es frecuentemente un proceso accidental", y que "la creación o la destrucción de imágenes y sonidos está enteramente conducida por intereses económicos" [@sanduskyArchaeologyRedemptionArchival1992]. La tesis de la autora apunta a que para los grandes estudios, elegir qué se guarda y que se tira depende de decisiones estrictamente comerciales y que recae en el "taxpayer" (los que pagan impuestos, el estado) la preservación universal de las imágenes. Y en este escenario, además de mencionar la importancia del material de "stock" y su potencial de preservación por el mero hecho de su rentabilidad, la autora destaca el papel de los artistas experimentales de vanguardia que trabajan con material de archivo, o "metraje encontrado", los "Archival Art Film artists", quienes por el mero uso de material preexistente muchas veces terminan salvando imágenes que en circunstancias normales terminaría perdidas o descartadas.
 
-> _Many Archival Art Filmmakers take a film fragment and reprint it. The message of the culture industry is that as things are, so they should be. The Archival Art Film locates the fissures in this belief and pushes downward through these cracks. It is these tiny yet heroic gestures that demonstrate that there are many ways to find the loose thread and pull it, thereby revealing a poorly-made fabric._
-
-> _[Muchos cineastas del Archival Art Film toman un fragmento de película y lo copian. El mensaje de la industria cultural es que las cosas son como son y así deberían ser. El Archival Art Film localiza las fisuras en esta creencia y empuja hacia abajo a través de estas grietas. Son estos pequeños pero heroicos gestos los que demuestran que hay muchas formas de encontrar el hilo suelto y tirar de él, revelando así un tejido mal hecho]_ [@sanduskyArchaeologyRedemptionArchival1992].
+> _Many Archival Art Filmmakers take a film fragment and reprint it. The message of the culture industry is that as things are, so they should be. The Archival Art Film locates the fissures in this belief and pushes downward through these cracks. It is these tiny yet heroic gestures that demonstrate that there are many ways to find the loose thread and pull it, thereby revealing a poorly-made fabric._ [Muchos cineastas del Archival Art Film toman un fragmento de película y lo copian. El mensaje de la industria cultural es que las cosas son como son y así deberían ser. El Archival Art Film localiza las fisuras en esta creencia y empuja hacia abajo a través de estas grietas. Son estos pequeños pero heroicos gestos los que demuestran que hay muchas formas de encontrar el hilo suelto y tirar de él, revelando así un tejido mal hecho] [@sanduskyArchaeologyRedemptionArchival1992].
 
 Bill Brand es un director de cine experimental de Estados Unidos conocido por sus contribuciones al cine experimental o vanguardista de los años 60 y 70. El cine de vanguardia abarcaba una variedad de estilos que se oponían al cine comercial y documental mainstream, a menudo caracterizado por la falta de narrativa lineal y el uso de técnicas abstractas y de sonido asincrónico para involucrar al espectador de manera más activa y reflexiva. El cine vanguardista se cuestionó el modelo de representación cinematográfica siguiendo los pasos de las Vanguardias pictóricas, escultóricas y musicales que buscaban acabar con todos los modelos establecidos en el arte anterior. El cine estructural, por ejemplo, es una variante de esta rama y hace mucho foco en los aspectos formales y las cualidades físicas del soporte fílmico. En general estos cineastas no buscan invisibilizar el dispositivo, por el contrario, buscan que la audiencia sea consciente de que está viendo una película, con recursos como la repetición, la simetría, las perforaciones, las roturas, el color, lógicas de montaje matemáticas; todo como una experimentación alrededor del aparato físico de las películas (la cámara, la pantalla, el proyector). Como ejemplos de directores vanguardistas podemos incluir a Stan Brakhage, Kenneth Anger, Hollis Frampton, Peter Tscherkassky, etc.
 
@@ -203,9 +206,7 @@ Aún así, según Brand preservar una película no es exactamente una práctica 
 
 Brand menciona un caso interesante: en 1972, siendo asistente y alumno del director de cine estructuralista Paul Sharits, lo ayudó a llevar a cabo su primera instalación, titulada _Sound Strip/ Film Strip_. La obra consistía en 4 proyectores de 16 mm en paralelo, apoyados de costado para proyectar en vertical, modificados para no obturar entre fotograma y fotograma. Las imágenes proyectadas consistían en un parpadeo de diferentes colores, con la película intervenida y rayada a mano a lo largo de varios fotogramas y en diagonal. Como los cuatro rollos tenían distinta duración y los proyectores comenzaban de nuevo en cada vuelta en un loop, la simultaneidad ocasionaba que las imágenes nunca coincidieran de la misma forma. Al mismo tiempo la banda sonora de cada película consistía en la repetición de la palabra _miscelaneous_ fragmentada en 4 partes. La instalación es diferente a los materiales que venimos hablando hasta ahora porque entra en escena el factor del tiempo y la aleatoriedad de los proyectores, una especie de resultado "generativo" con material fílmico. 30 años después, Brand se encontró trabajando en la restauración y montaje de esta obra, con las muchísimas dificultades que esto le ocasionó a pesar de ser la persona indicada para el trabajo. Los rollos originales, custodiados por el centro Anthology Film Archives en Nueva York, se encontraban en cartuchos diseñados para un tipo de proyectores en particular, y veía muy difícil que se los prestaran para desarmar e instalar en proyectores nuevos. Sin embargo un día descubrió que tenía una copia en Super8 que le había regalado el mismo Sharits y que le sirvió para pensar en la reconstrucción. Consiguió por otro lado una copia de la banda sonora, y junto al Super 8 digitalizado logró finalmente una simulación de la proyección de 4 pantallas, en formato DVD. Y aquí Brand comienza a hacerse unas preguntas. Está lejos de parecerse a la obra original del artista, pero después de 30 años es lo más cerca que se pudo estar de _Sound Strip/ Film Strip_. Podía ir más adelante y hacer 4 proyecciones digitales en paralelo para lograr la simultaneidad original de Sharits. Pero ahí surge un nuevo problema: la película está pensada para ser proyectada en fílmico. Podría hacerse una copia del Super 8 a 16 mm, pero ¿qué pasa con las rayas intervenidas del original? ¿Se estaría preservando si se apuesta a recrearlas a mano como el autor?
 
-> _Each 16 mm print has to be scratched and on whose authority is this to occur? Is is right for us as exhibitors or preservationists to create a 16 mm version with fresh scratches? Is this the same as a conservator repairing a damaged painting or is this an interpretation of the piece? Would the meaning of this work be lost if it were migrated to video? Hence, will the piece itself actually be lost? Or is it more that, if video allows the work to be reconstructed and exhibited, this preserves the work by subjecting it to public use? Does my personal involvement in the making of the work enhace its chances for preservation? Or because I know too much, am I unintentionally blocking its preservation by insisting on retaining too much of its original intention?_
-
-> _[Cada copia en 16 mm debe ser rayada, ¿y con qué autoridad se lleva esto a cabo? ¿Es correcto para nosotros como expositores o preservadores crear una versión en 16 mm con rayones nuevos? ¿Es esto similar a un restaurador reparando un cuadro dañado o es una interpretación de la obra? ¿Se perdería el significado de esta obra si se migrara a video? Por lo tanto, ¿la obra en sí se perdería realmente? ¿O es más bien que, si el video permite la reconstrucción y exhibición de la obra, se preserva al someterla al uso público? ¿Mi participación personal en la creación de la obra aumenta sus posibilidades de conservación? ¿O porque sé demasiado, estoy bloqueando involuntariamente su conservación al insistir en retener demasiado de su intención original?]_ [@brandArtistArchivist2006, p. 76].
+> _Each 16 mm print has to be scratched and on whose authority is this to occur? Is is right for us as exhibitors or preservationists to create a 16 mm version with fresh scratches? Is this the same as a conservator repairing a damaged painting or is this an interpretation of the piece? Would the meaning of this work be lost if it were migrated to video? Hence, will the piece itself actually be lost? Or is it more that, if video allows the work to be reconstructed and exhibited, this preserves the work by subjecting it to public use? Does my personal involvement in the making of the work enhace its chances for preservation? Or because I know too much, am I unintentionally blocking its preservation by insisting on retaining too much of its original intention?_ [Cada copia en 16 mm debe ser rayada, ¿y con qué autoridad se lleva esto a cabo? ¿Es correcto para nosotros como expositores o preservadores crear una versión en 16 mm con rayones nuevos? ¿Es esto similar a un restaurador reparando un cuadro dañado o es una interpretación de la obra? ¿Se perdería el significado de esta obra si se migrara a video? Por lo tanto, ¿la obra en sí se perdería realmente? ¿O es más bien que, si el video permite la reconstrucción y exhibición de la obra, se preserva al someterla al uso público? ¿Mi participación personal en la creación de la obra aumenta sus posibilidades de conservación? ¿O porque sé demasiado, estoy bloqueando involuntariamente su conservación al insistir en retener demasiado de su intención original?] [@brandArtistArchivist2006, p. 76].
 
 La obra de Bill Brand es “medium-specific” (si la obra se mueve de su medio o soporte esencial pierde parte sustancial, o total, de su significado). Por la naturaleza de su trabajo, y por trabajar por tantos años con material fílmico, Bill se ha convertido en una eminencia en torno a la preservación audiovisual, por su experiencia de conocer los soportes y las búsquedas de los artistas como él.
 
@@ -219,9 +220,7 @@ Esta obra de Brand por fuera del soporte y las tecnologías originales del medio
 
 Siguiendo el camino de las hibridaciones en la historia de las imágenes en movimiento, nos encontramos con otro punto de contacto en los inicios del _computer art_, o arte por computadora. En los cimientos construídos por los hermanos Whitney, Vera Molnar, Georg Ness, Frieder Nake o Michael Noll, el soporte para visualizar o proyectar las obras era siempre fílmico o papel. Al contrario de lo que sucede hoy en día, por entonces no había forma de visualizar los resultados en tiempo real. Zsofi Valyi-Nagy escribe sobre estos temas en su dossier sobre Vera Molnar:
 
-> _In the early days, computing was a blind process. Artist gave instructions using punch cards but wouldn’t see the results of their program for hours or even days._
-
-> _[En los primeros tiempos, la computación era un proceso a ciegas. Los artistas daban instrucciones con tarjetas perforadas pero no verían los resultados del programa por horas o incluso días]_ [@valyi-nagyHOLODossierVera2022].
+> _In the early days, computing was a blind process. Artist gave instructions using punch cards but wouldn’t see the results of their program for hours or even days._ [En los primeros tiempos, la computación era un proceso a ciegas. Los artistas daban instrucciones con tarjetas perforadas pero no verían los resultados del programa por horas o incluso días] [@valyi-nagyHOLODossierVera2022].
 
 John (1917 - 1995) y James (1921 - 1982) Whitney fueron pioneros del cine abstracto minimalista y la animación "programada" por computadora. Nacidos en Hollywood, California, John tenía estudios como compositor experimental y su hermano menor James se había formado como pintor. Los hermanos Whitney se se destacaban por sus trabajos con luz, aerógrafos, impresiones ópticas y gráficos generados por computadora, las cuales eran en un principio mecánicas y derivadas de armamento militar en desuso.
 
@@ -233,9 +232,7 @@ En este contexto es que los hermanos Whitney se encontraban, habiendo experiment
 
 Las “computadoras mecánicas” que utilizaban los hermanos Whitney en los 50, por ejemplo, se trataban de cañones antiaéreos de la Segunda Guerra Mundial modificados. Aprovechando los cálculos y las ecuaciones polares que realizaban estas máquinas para calcular la trayectoria de un avión, los Whitney realizaban movimientos matemáticos para sus animaciones, que eran luego fotografiadas cuadro por cuadro con cámaras de cine. Tal es el caso con _Catalog_ (1961) y _Lapis_ (1966) [@whitneyDigitalHarmony1980, 184-186].
 
-> _I acquired, (not exactly overnight) a highly specialized skill in adapting the almost worth- less mechanical junk excreted from army depots across the country as the Army, Navy, Air Force and Marines unloaded material on the surplus market. Junk such as brand new thirty-thousand-dollar antiaircraft specialized analog ballistic problem-solver computers dating back to World War II._
-
-> _[Adquirí (no exactamente de la noche a la mañana) una habilidad altamente especializada en adaptar chatarra mecánica casi sin valor que salía de depósitos de todo el país, cuando el Ejército, la Armada, la Fuerza Aérea y los Marines descargaban material en el mercado de excedentes. Chatarra como computadoras analógicas especializadas en resolver problemas balísticos, completamente nuevas y valuadas en treinta mil dólares, que databan de la Segunda Guerra Mundial]_ [@whitneyDigitalHarmony1980, p. 184].
+> _I acquired, (not exactly overnight) a highly specialized skill in adapting the almost worth- less mechanical junk excreted from army depots across the country as the Army, Navy, Air Force and Marines unloaded material on the surplus market. Junk such as brand new thirty-thousand-dollar antiaircraft specialized analog ballistic problem-solver computers dating back to World War II._ [Adquirí (no exactamente de la noche a la mañana) una habilidad altamente especializada en adaptar chatarra mecánica casi sin valor que salía de depósitos de todo el país, cuando el Ejército, la Armada, la Fuerza Aérea y los Marines descargaban material en el mercado de excedentes. Chatarra como computadoras analógicas especializadas en resolver problemas balísticos, completamente nuevas y valuadas en treinta mil dólares, que databan de la Segunda Guerra Mundial] [@whitneyDigitalHarmony1980, p. 184].
 
 ![John Whitney & James Whitney, "Pacoima Court studio, Studio City, CA", Whitney Editions™ (1947). Accedido 15 de Febrero de 2024 desde https://canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney](./assets/Whitneys_1.jpg)
 
@@ -273,9 +270,7 @@ En un entorno artístico de mucha riqueza, su vínculo con las computadoras se d
 
 El trabajo de Molnar implicaba una vuelta constante entre papel y computadora, relación que mejoró mucho con la existencia del monitor. Esta nueva herramienta le permitió incorporar al proceso tan sistematizado y predeterminado un elemento de improvisación e interactividad directa desde su subjetividad a la obra, contrario a la limitación que implicaba esperar que el resultado terminara impreso en papel.
 
-> _I belong to that generation where the first things I made with computers … there was no screen. If you can imagine that. You couldn’t see what you were doing. You would see \[the results] the next day, or three days later, and then you’d say … that’s not what I wanted! When the screen appeared, it completely changed my life. It was like moving to Paris all over again, that’s how exciting it was…. I had this feeling that this was invented for me. This was an academic research institute, so people didn’t really care how the graphics looked, or what graphics even were, really. But that is all I cared about. I realized very quickly that the computer screen was the thing for me._
- 
-> _[Pertenezco a una generación en la que las primeras cosas que hice con computadoras... no había pantalla. Si pudieras imaginar eso. No podías ver lo que estabas haciendo. Verías los resultados al día siguiente, o tres días después, y luego dirías... ¡eso no es lo que quería! Cuando apareció la pantalla, mi vida cambió por completo. Fue como mudarme a París de nuevo, así de emocionante fue... Tenía la sensación de que esto fue inventado para mí]_ [@valyi-nagyHOLODossierVera2022].
+> _I belong to that generation where the first things I made with computers … there was no screen. If you can imagine that. You couldn’t see what you were doing. You would see \[the results] the next day, or three days later, and then you’d say … that’s not what I wanted! When the screen appeared, it completely changed my life. It was like moving to Paris all over again, that’s how exciting it was…. I had this feeling that this was invented for me. This was an academic research institute, so people didn’t really care how the graphics looked, or what graphics even were, really. But that is all I cared about. I realized very quickly that the computer screen was the thing for me._ [Pertenezco a una generación en la que las primeras cosas que hice con computadoras... no había pantalla. Si pudieras imaginar eso. No podías ver lo que estabas haciendo. Verías los resultados al día siguiente, o tres días después, y luego dirías... ¡eso no es lo que quería! Cuando apareció la pantalla, mi vida cambió por completo. Fue como mudarme a París de nuevo, así de emocionante fue... Tenía la sensación de que esto fue inventado para mí] [@valyi-nagyHOLODossierVera2022].
  
 ![A la izquierda: Vera Molnar, estudio para "Inclinaisons" (1971). A la derecha: Vera Molnar, dibujo hecho en plotter "Inclinaison" (1971). Accedido desde https://www.holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/](./assets/vera_molnar.jpg)
 
@@ -394,7 +389,7 @@ En la primera iteración se describe cómo surgió la técnica de "transfer" y s
 
 ¿Por qué utilizar película 35 mm y proyectores Kodak Carousel intervenidos por automatizaciones digitales? Para responder estas preguntas es importante recuperar algunas ideas vistas anteriormente como los tiempos transicionales de Fos	sati y la conservación accidental de Sandusky, pero también es importante resaltar el papel de la nostalgia mediática en el uso de estas tecnologías, como así el privilegio y la responsabilidad de los artistas en el diseño y creación de sus propios dispositivos. 
 
-Los Films Automáticos nacen en una primera instancia por accidente, por un gesto creativo intuitivo no premeditado. Quedaba una sola foto en un rollo de 35 mm color. En la pantalla de la computadora se sucedían imágenes de un programa generativo de dibujos en desarrollo: una serie de píxeles blancos que se acercan y alejan entre sí en un fondo negro, de acuerdo a diferentes parámetros. Se saca la última foto del rollo en la pantalla.
+Los Films Automáticos nacen en una primera instancia por accidente, por un gesto creativo intuitivo no premeditado. Quedaba una última foto en un rollo de 35 mm a color. En la pantalla de la computadora se sucedían imágenes de un programa generativo de dibujos en desarrollo: una serie de píxeles blancos que se acercan y alejan entre sí en un fondo negro, de acuerdo a diferentes parámetros. Se saca la última foto del rollo en la pantalla y se manda a laboratorio a revelar.
 
 ![Primer acercamiento al "digital to film", o "film out"](./assets/films_1.jpg)
 
@@ -432,9 +427,7 @@ Esta segunda iteración consistió en aprovechar el formato 35 mm en su dimensi�
 
 Así como los hermanos Whitney se aprovechaban de chatarra militar de descarte para desarrollar sus computadoras mecánicas, Los Films Automáticos también utilizan equipos de descarte: cámaras reflex heredadas y proyectores de diapositivas olvidados. Aprovechando el formato en 35 mm y un poco inspirado en la forma de reproducción cíclica de los GIF, se recurrió a un famoso modelo de proyector de Kodak, el _Kodak Carousel,_ que lleva cartuchos de diapositivas circulares que giran indefinidamente. El _Carousel_ es muy recordado por su aparición en la serie norteamericana Mad Men, cuando el publicista Don Draper le vende el nuevo nombre del producto a Kodak, quienes estaban muy aferrados a la idea de "rueda" del proyector y querían incorporarlo de algún modo a la campaña publicitaria:
 
-> _...nostalgia literally means ‘the pain from an old wound’.  It’s a twinge in your heart, far more powerful than memory alone. This device isn’t a space ship. It’s a time machine. It goes backwards, forwards. Takes us to a place where we ache to go again. It’s not called The Wheel. It’s called The Carousel. It lets us travel the way a child travels. Around and around and back home again to a place where we know we are loved._
-
-> _[...nostalgia significa literalmente "el dolor de una vieja herida". Es una punzada en el corazón, mucho más poderosa que el recuerdo por sí solo. Este dispositivo no es una nave espacial. Es una máquina del tiempo. Va hacia atrás, hacia adelante. Nos lleva a un lugar al que anhelamos volver. No se llama La Rueda. Se llama El Carrusel. Nos permite viajar como viaja un niño. Dando vueltas y vueltas y de regreso a casa, a un lugar donde sabemos que somos amados]_ [@weinerWheel2007].
+> _...nostalgia literally means ‘the pain from an old wound’. It’s a twinge in your heart, far more powerful than memory alone. This device isn’t a space ship. It’s a time machine. It goes backwards, forwards. Takes us to a place where we ache to go again. It’s not called "The Wheel". It’s called "The Carousel". It lets us travel the way a child travels. Around and around and back home again to a place where we know we are loved. [...nostalgia significa literalmente "el dolor de una vieja herida". Es una punzada en el corazón, mucho más poderosa que el recuerdo por sí solo. Este dispositivo no es una nave espacial. Es una máquina del tiempo. Va hacia atrás, hacia adelante. Nos lleva a un lugar al que anhelamos volver. No se llama "La Rueda". Se llama "El Carrusel". Nos permite viajar como viaja un niño. Dando vueltas y vueltas y de regreso a casa, a un lugar donde sabemos que somos amados] [@weinerWheel2007].
 
 Es interesante señalar que en esta escena se revela cómo la nostalgia, y especialmente la nostalgia catalizada por imágenes, puede ser parte de una idealización. Las diapositivas que muestra Don durante el pitch muestran imágenes de su familia como la familia nuclear perfecta, una realidad que nunca vemos en el programa. Las imágenes crean nostalgia por un pasado que nunca existió. Hoy en día los académicos definen la nostalgia de una manera mucho más amplia que el anhelo original por un lugar; también comprende el anhelo por un tiempo específico que se pierde y se construye nostalgicamente en contraste con el presente. Ese antes que se ha perdido se considera superior a lo que se ha convertido en el hoy [@menkeSeekingComfortMedia2017].
 
@@ -486,23 +479,21 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 
 **Arduino**: Una plataforma de prototipado electrónico de hardware de código abierto que se utiliza para crear dispositivos interactivos.
 
-**Arte generativo**: Un enfoque artístico en el que se utilizan algoritmos informáticos para generar obras de arte.
-
 **Bitcoin**: La primera criptomoneda descentralizada, concebida en 2008 y lanzada en 2009 por una persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto.
 
-**Blockchain**: Una tecnología de registro distribuido que permite la creación de un libro de contabilidad digital compartido y seguro para registrar transacciones en una red descentralizada.
+**Blockchain**: Una tecnología de registro distribuido que permite la creación de una especie de libro de contabilidad digital compartido y seguro para registrar transacciones en una red descentralizada.
 
 **Bug**: Un defecto o error en un programa de computadora que causa un comportamiento inesperado o incorrecto.
 
-**Cardano**: Una plataforma blockchain de tercera generación que pretende resolver los problemas de escalabilidad, interoperabilidad y sostenibilidad de las criptomonedas.
+**Cardano**: Una plataforma blockchain de código abierto basada en _Proof of Stake_ (PoS), un protocolo de consenso utilizado en blockchain para validar y procesar transacciones. A diferencia del _Proof of Work_ (PoW), que se utiliza en redes como Bitcoin, donde los nodos de la red compiten entre sí para resolver problemas matemáticos complejos y así validar bloques y recibir recompensas, en PoS los nodos son seleccionados para validar bloques basándose en la cantidad de criptomonedas que poseen y están dispuestos a "apostar" como garantía.
 
-**Commodore 64**: Un popular ordenador doméstico lanzado en 1982 conocido por su amplia biblioteca de juegos y su influencia en la industria de la computación personal.
+**Commodore 64**: Una popular computadora doméstica lanzada en 1982 conocida por su amplia biblioteca de juegos y su influencia en la industria de la computación personal.
 
 **Crowdsourcing**: El proceso de obtener ideas, servicios o contenido al solicitar contribuciones de un gran grupo de personas, generalmente en línea.
 
 **Datacenters**: Instalaciones físicas que albergan servidores y otros equipos de tecnología de la información, utilizados para almacenar, procesar y distribuir datos.
 
-**Ethereum**: Una plataforma blockchain de código abierto que permite a los desarrolladores construir y desplegar contratos inteligentes y aplicaciones descentralizadas (dApps).
+**Ethereum**: Una plataforma blockchain de código abierto que permite a los desarrolladores construir y desplegar contratos inteligentes y aplicaciones descentralizadas. Su criptomoneda nativa es el Ether.
 
 **Flash**: Una plataforma multimedia desarrollada por Macromedia (adquirida por Adobe) utilizada para crear animaciones interactivas, juegos y aplicaciones web.
 
@@ -518,7 +509,7 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 
 **Hash**: Una función matemática que convierte una cantidad de datos en una cadena alfanumérica fija de longitud fija, utilizada en criptografía y blockchain.
 
-**HTML**: Lenguaje de marcado utilizado para crear y estructurar páginas web.
+**HTML**: Lenguaje utilizado para crear y estructurar páginas web.
 
 **IPFS**: InterPlanetary File System, un protocolo de red y sistema de archivos descentralizado diseñado para crear un Internet más resistente y distribuido.
 
@@ -531,6 +522,8 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 **Mint (mintear)**: En el contexto de criptomonedas, se refiere al proceso de crear nuevas unidades de una criptomoneda o un token, generalmente a través de la validación de transacciones en una red blockchain.
 
 **Moviepy**: Una biblioteca de Python para editar videos de manera programática.
+
+**NFT**: "Non-Fungible Token" (Token No Fungible). En términos simples, un NFT es un tipo de criptoactivo que representa la propiedad única o la autenticidad de un activo digital o físico utilizando tecnología blockchain. A diferencia de las criptomonedas como Bitcoin o Ethereum, que son intercambiables entre sí en términos de valor, los NFTs son únicos y no se pueden intercambiar de la misma manera.
 
 **Nube**: Se refiere a servicios de almacenamiento y procesamiento de datos en línea que permiten a los usuarios acceder y gestionar información a través de Internet.
 
@@ -548,11 +541,11 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 
 **SVG**: Scalable Vector Graphics, un formato de archivo basado en XML utilizado para describir gráficos vectoriales bidimensionales.
 
-**Tezos**: Una plataforma blockchain de autogobierno que se autoreforma y puede evolucionar su protocolo con el tiempo sin la necesidad de bifurcaciones duras.
+**Tezos**: Una plataforma blockchain de autogobierno que se autoreforma y puede evolucionar su protocolo con el tiempo sin la necesidad de bifurcaciones duras. La blockchain de Tezos se ha utilizado para NFTs como alternativa a proyectos que consumen más energía, como Ethereum.
 
 **Token**: Un objeto digital que representa un valor, activo o utilidad, a menudo emitido en una blockchain y utilizado en contratos inteligentes y aplicaciones descentralizadas.
 
-**Upscaling**: Proceso de mejorar la resolución o calidad de una imagen o video.
+**Upscaling**: escalar una imagen o video por encima de su resolución original.
 
 **VHS**: Video Home System, un formato de cinta de video analógica que fue popular en la década de 1980 y 1990 para grabar y reproducir contenido.
 
@@ -567,7 +560,7 @@ Todas estas tecnologías parecieran estar trazando una genealogía de preservaci
 [^7]: Ver ejemplo vimeo.com/376739351
 [^8]: Ver apartado de Bill Brand
 [^9]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
-[^10]: El término en inglés "upscaling" refiere a escalar una imagen por encima de su resolución original.
+[^10]: El término en inglés "upscaling" refiere a escalar una imagen o video por encima de su resolución original.
 [^11]: Ver restauración: youtu.be/c-_eHFXqxpQ
 [^12]: Ver el ejemplo de niagaracustomlab.com
 [^13]: Ver vimeo.com/516428662
