@@ -11,8 +11,8 @@ toc-title: "Indice"
 bibliography: references/bib.bib
 output:
   custom_document:
-    # path: "/Exports/la-preservacion-involuntaria.pdf"
-    path: "/Exports/la-preservacion-involuntaria.docx"
+    # path: "/Exports/la-preservacion-automatica.pdf"
+    path: "/Exports/la-preservacion-automatica.docx"
     toc: true
     reference_doc: styles/style.docx
     pandoc_args: ["--csl", "references/apa.csl"]
