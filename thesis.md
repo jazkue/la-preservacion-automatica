@@ -533,7 +533,7 @@ Había un problema. Los programas como Ilustrator o Processing exportan ilustrac
 
 Una vez solucionado el tema del peso, se comenzó a diseñar la información oculta a incrustar en cada fotograma. Por fortuna, un archivo SVG puede contener "comentarios", es decir, grupos de texto que no forman parte del código ejecutable y que en general son utilizados para comunicar mensajes humanamente legibles. Este recurso se aprovechó para estructurar cada fotograma SVG de la siguiente manera: primero la metadata, en forma de comentario, y finalmente el contenido del archivo SVG propiamente dicho (lo interesante es que este contenido puede leerse como una URL convencional en cualquier explorador como Google Chrome o Firefox si se le agrega "data:image/svg=xml" antes de "<svg..."). Cada fotograma SVG fue codificado a QR a través de la librería _qrencode_, y puede ser decodificado a través de la librería _zbarimg_.
 
-Y así surgió la idea de inventar el _Archivo del Film Automático_ (con siglas _AFA_), un archivo ficticio e imaginario, que forma parte de una suerte de ficción especulativa donde nos planteamos formas alternativas de salvar obras digitales. A través de _Los Films Automáticos_, esta serie de experimentaciones diversas de almacenado digital en soportes analógicos, nos dedicamos insistentemente a la búsqueda de la permanencia en obras de arte digital.
+Y así surgió la idea del _Archivo del Film Automático_ (con siglas _AFA_), un archivo ficticio e imaginario, que forma parte de una suerte de ficción donde nos planteamos formas alternativas de salvar obras digitales. A través de _Los Films Automáticos_, esta serie de experimentaciones diversas de almacenado digital en soportes analógicos, nos dedicamos insistentemente a la búsqueda de la permanencia en obras de arte digital.
 
 ```html
 <!--
@@ -553,7 +553,9 @@ data:image/svg+xml,<svg...
 
 ![Captura del conjunto de archivos SVG codificados en forma de QR](./assets/4f75721f3669e4a12eea50f635d57365.jpg)
 
-La comunicación entre el par de proyectores sincronizados y la computadora es relativamente sencilla. Se escribió un programa en Python que captura imágenes a través de una cámara mirrorless y decodifica los QR proyectados, que son "ingestados" en Google Chrome como SVG[^22] en tiempo real.
+A diferencia de las versiones anteriores donde se "analogizaban" obras digitales a través de la fotografía y el soporte fílmico, en el _Archivo del Film Automático_ la búsqueda se centraba en conservar la cualidad digital de cada fotograma de una forma física y material. La codificación visual que se obtiene de este proceso no es legible por los humanos pero sí decodificable por las máquinas. La obra es un diálogo contradictorio de preservación y rescate, que busca ilustrar la fragilidad de los medios digitales, así como también la robustez de las máquinas mecánicas y el soporte fílmico.
+
+La comunicación entre el par de proyectores sincronizados y la computadora es relativamente sencilla. Se escribió un programa en Python que captura imágenes a través de una cámara mirrorless y decodifica los QR proyectados, que son "ingestados" en Google Chrome en formato SVG[^22] en tiempo real. Esto es posible gracias a que a travées de una URL uno puede escribir el código del SVG y Google Chrome lo carga como una página web. El programa en Python captura las imágenes con la librería _OpenCV_ pero decodifica los QR a través de _pyboof_, que funciona "encapsulando" ("wrapping" en inglés) la librería _BoofCV_, basada en el lenguaje de programación Java. Este paralelismo de lenguajes facilita mucho la velocidad de interpretación de los QR ya que las labores de captura e interpretación se reparten entre procesos independientes.
 
 
 
