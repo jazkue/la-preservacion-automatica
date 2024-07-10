@@ -391,7 +391,7 @@ Como ejemplo de las posibilidades del medio cabe mencionar la obra del artista f
 
 ![Juha van Ingen, AS Long As Possible (2017), accedido desde aslongaspossible.com/images/As_long_as_possible_publication_2018.pdf](./assets/aslap.jpeg)
 
-# III. Los Films Automáticos
+# III. Films Automáticos: primeras iteraciones
 
 En este último capítulo se lleva a cabo el desarrollo y la documentación de la serie "Los Films Automáticos" en primera persona. La serie es un conjunto de experimentos que oscila entre animaciones digitales y arte generativo, transferidos fotográficamente a 35 mm para ser reproducidos en distintos medios y dispositivos. Al tratarse de un proceso híbrido de múltiples generaciones, se busca problematizar y relacionar con los conceptos vistos hasta ahora, como la preservación accidental y el tiempo transicional. Animaciones 3D digitales, archivos GIF monocromáticos de baja resolución y programas generativos escritos en plataformas de código abierto son transferidos a fílmico en un proceso manual, cuadro por cuadro, para ser digitalizados nuevamente en su forma fotoquímica y reconstruídos en entornos digitales de reproducción y distribución; o son reinterpretados en su nueva forma física, para ser convertidos en diapositivas y adaptados a proyectores hogareños en desuso.
 
@@ -459,13 +459,15 @@ El dispositivo llegó a montarse y registrarse en cheLA en 2023, y sirvió como 
 
 ![Rodaje y montaje en cheLA de proyector Carousel modificado (2023)](./assets/d187c33616d32b6abf8b897528709638.jpg)
 
-## Archivo del Film Automático
+# IV. Archivo del Film Automático
 
-Para esta nueva etapa en un primer momento se decidió enfrentar el problema de la velocidad de obturación del dispositivo proyector. Una nueva idea consistía en conseguir al menos 4 proyectores y controlar las obturaciones a través de un Arduino, que sincronizaría cada Carrusel de manera tal de conseguir al menos 4 fotogramas de visualización por segundo, siendo que la velocidad máxima de cada proyector es de más o menos una foto por segundo. La primer prueba se hizo con 2 proyectores y fue bastante exitosa.
+Para esta nueva etapa de la obra, en un primer momento se decidió enfrentar el problema de la velocidad de obturación del dispositivo proyector. Una nueva idea consistía en conseguir al menos 4 proyectores y controlar las obturaciones a través de un Arduino, que sincronizaría cada Carrusel de manera tal de conseguir al menos 4 fotogramas de visualización por segundo, siendo que la velocidad máxima de cada proyector es de más o menos una foto por segundo. La primer prueba se hizo con 2 proyectores y fue bastante exitosa.
 
 ![Primeras pruebas de sincronía entre dos proyectores utilizando diapositivas de la iteración anterior](./assets/bfa73fd91ec2c2e26bcda8d0f37a29ec.png)
 
 Pero más allá de la metáfora simbólica o de los tecnicismos que se venían investigando en iteraciones anteriores, en este momento de la investigación surgieron nuevas preguntas: ¿Qué mostrar? ¿Por qué proyectarlo? A partir de todo lo investigado, convertir una obra de arte digital a fílmico y que esta pierda justamente su carácter "digital" no parecía la mejor manera de preservar en el tiempo una obra de este tipo. ¿Cómo hablar entonces de la hibridez, de la transición y de las impurezas que se estudian en la tesis?
+
+## La búsqueda de una permanencia digital
 
 En el apartado de _Computadoras y Celuloide_ se menciona brevemente el proyecto del _Arctic Code Vault_ de _Github_, una odisea de preservación digital que consistió en hacer un _backup_ de todos los repositorios y programas de código abierto almacenados en esa plataforma hasta el 2 de febrero de 2020 y transferirlos ópticamente a material fílmico en forma de píxeles blancos y negros, para almacenarlos en el _Arctic World Archive_ (Archivo Mundial del Ártico), un archivo emplazado en una vieja mina de carbón del Polo Norte en el permafrost del archipiélago de Svalbald, en Noruega. El AWA, además del código abierto de GitHub, contiene información histórica y cultural de varios países, con una expectativa de vida de 500 a 2000 años, almacenado en las condiciones adecuadas.
 
@@ -479,11 +481,17 @@ Pero lo interesante de esta tecnología es entender que existen conversiones y p
 
 En toda esta serie de reflexiones e idas y vueltas se propuso emplear esta tecnología limitada de codificación como materia prima para la iteración final de la tesis. Con la preservación a futuro en mente y un poco inspirado por el desafío, se buscó trabajar con las siguientes condiciones y limitaciones: 
 
-Inspirado en los referentes de la tesis, la obra debía ser una animación digital. Para mayor transparencia y "conservación evolutiva", la obra debía estar generada en código. Para mayor permanencia, el código debía estar generado en software de código abierto. Con los 2 proyectores Kodak en mente, la animación tenía que estar formada por 160 fotogramas. Con los códigos QR en mente, cada fotograma tenía que ocupar menos de 3 kb. Cada QR tenía que poder contener el código fuente y el fotograma correspondiente. Y finalmente, con el espectador en mente, una computadora tendría que decodificar en tiempo real los QR que se proyectan.
+- Inspirado en los referentes de la tesis, la obra debía ser una animación digital. Para mayor transparencia y "conservación evolutiva", la obra debía estar generada en código.
+- Para mayor permanencia, el código debía estar generado en software de código abierto.
+- Con los 2 proyectores Kodak en mente, la animación tenía que estar formada por 160 fotogramas.
+- Con los códigos QR en mente, cada fotograma tenía que ocupar menos de 3 kb. Cada QR tenía que poder contener el código fuente y el fotograma correspondiente.
+- Y finalmente, con el espectador en mente, una computadora tendría que decodificar en tiempo real los QR que se proyectan.
  
 La propuesta entonces consistió además en agregarle al sistema una cámara que le permita a una computadora decodificar en tiempo real los QR que se suceden desde los proyectores. 
 
 ![Pequeño dibujo del sistema propuesto](./assets/sketch.jpg)
+
+## Desafíos y limitaciones
 
 Cuando se renderiza una imagen digital, cuando se completan los cálculos y procesos de luz, color y movimiento para terminar en una imagen plana, nos referimos a gráficos rasterizados, también conocidos como imágenes de píxeles. La renderización es el proceso de generar una matriz rectangular o una cuadrícula de colores, a partir de modelos 3D o datos matemáticos, y es visible a través de pantallas de computadora, papel u otros medios de visualización. Los formatos de archivo más comunes para este tipo de imágenes incluyen JPG, PNG, TIFF, GIF, entre otros. Al renderizarse, las imágenes pasan de la placa de video y el procesador para ocupar espacio en la memoria de la computadora. Se habla frecuentemente de "imágenes en tiempo real" cuando el proceso de renderización ocurre instantáneamente y se muestra en una pantalla sin necesidad de ser guardado como gráfico rasterizado. Por otro lado, existe otro tipo de imagen digital, incluso anterior en términos históricos a esta tecnología: el gráfico vectorial. Este tipo de imagen consiste en una serie de coordenadas de puntos unidos por líneas, y es muy utilizada en programas como Illustrator o Autocad. A diferencia de las imágenes rasterizadas, en las imágenes vectoriales no hay una cuadrícula de píxeles uniforme. Como se trata de una serie de instrucciones relativas, las imágenes vectoriales son escalables, lo que significa que pueden ampliarse o reducirse sin perder calidad. Además, las imágenes vectoriales ocupan menos espacio de almacenamiento en comparación con las rasterizadas, lo que las hace ideales para ciertos tipos de gráficos, como logotipos y ilustraciones.
 
@@ -557,7 +565,21 @@ data:image/svg+xml,<svg...
 
 A diferencia de las versiones anteriores donde se "analogizaban" obras digitales a través de la fotografía y el soporte fílmico, en el _Archivo del Film Automático_ la búsqueda se centraba en conservar la cualidad digital de cada fotograma de una forma física y material. La codificación visual que se obtiene de este proceso no es legible por los humanos pero sí decodificable por las máquinas. La obra es un diálogo contradictorio de preservación y rescate, que busca ilustrar la fragilidad de los medios digitales, así como también la robustez de las máquinas mecánicas y el soporte fílmico.
 
-La comunicación entre el par de proyectores sincronizados y la computadora es relativamente sencilla. Se escribió un programa en Python que captura imágenes a través de una cámara mirrorless y decodifica los QR proyectados, que son "ingestados" en Google Chrome en formato SVG[^22] en tiempo real. Esto es posible gracias a que a travées de una URL uno puede escribir el código del SVG y Google Chrome lo carga como una página web. El programa en Python captura las imágenes con la librería _OpenCV_, pero decodifica los QR a través de otra librería llamada _pyboof_, que funciona "encapsulando" ("wrapping" en inglés) la librería _BoofCV_, basada en el lenguaje de programación Java. Este paralelismo de lenguajes facilita mucho la velocidad de interpretación de los QR ya que las labores de captura e interpretación se reparten entre procesos independientes.
+La comunicación entre el par de proyectores sincronizados y la computadora es relativamente sencilla. Se escribió un programa en Python que captura imágenes a través de una cámara mirrorless y decodifica los QR proyectados, que son "ingestados" en Google Chrome en formato SVG[^22] en tiempo real. Esto es posible gracias a que a través de una URL uno puede escribir el código del SVG y Google Chrome lo carga como una página web. El programa en Python captura las imágenes con la librería _OpenCV_, pero decodifica los QR a través de otra librería llamada _pyboof_, que funciona "encapsulando" ("wrapping" en inglés) la librería _BoofCV_, basada en el lenguaje de programación Java. Este paralelismo de lenguajes facilita mucho la velocidad de interpretación de los QR ya que las labores de captura e interpretación se reparten entre procesos independientes.
+
+## La instalación
+
+La obra en su despliegue espacial fue siempre pensada como una instalación, ya que en una forma puramente digital no comprendería toda la profundidad de formatos y soportes que se vienen estudiando. Es por eso que para su etapa instalativa se buscó diseñar este aparato que medita sobre la caducidad, el ritmo, el tiempo, la permanencia, la automatización y, en la misma medida, en la preservación digital. Para enriquecer esta reflexión se optó por sumar una proyección digital a un costado del dispositivo para mostrar en loop las otras iteraciones de la investigación.
+
+El registro y estreno de la obra se realizó en la ciudad de Montreal, Canadá, en el marco de la muestra colectiva _Composant Machinal,_ curada por Riad El Mahmoudy, donde formó parte junto a otras 5 obras de distintos artistas de la región[^23]. Esta muestra se dio en contexto de la escritura de la tesis, lo que impulsó ampliamente el desarrollo de la obra[^24]
+
+![Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin](./assets/7ef740636e9ef0f68889eadc42ed6156.jpg "Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin")
+
+![Comparación entre el producto final y el bosquejo inicial](./assets/7c6d0dfbdbe006f41cc1e64b62072902.jpg)
+
+Como se explicaba anteriormente, la obra fue concebida como un videoinstalación, donde las diapositivas disparadas rítmica y secuencialmente serían interpretadas en tiempo real por una cámara y decodificadas por una computadora. Al mismo tiempo, se proyectaría un video digital en loop de las experimentaciones anteriores, donde podría ver el contraste entre las pruebas de _digital-to-film-to-digital_ y las diapositivas contenedoras de archivos digitales. En las primeras, los obras digitales son transformadas a material analógico, perdiendo su cualidad digital; mientras que en la obra final, a través de codificación y un sistema de recuperación, el carácter digital de la obra se mantiene a pesar de su nueva forma material.
+
+![Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra](./assets/1bcd19aa4d839156566912dadb1271ba.png)
 
 # IV. Sin pedir permiso: un momento transicional
 
@@ -662,7 +684,7 @@ Sin embargo, para terminar, y quizás a modo de advertencia, si bien venimos des
 [^3]: Ver tequebellota.wordpress.com/ruta-del-henrietta
 [^4]: Ver vimeo.com/22015773
 [^5]: Un Paisaje de Acontecimientos, CC San Martín, Buenos Aires (2016); Mención especial en Festival FAB, Bariloche (2015); Mención especial en Festival de Cine Latinoamericano Rosario (2015); FASE7, Centro Cultural Recoleta, Buenos Aires (2015); Orphan Films, MALBA, Buenos Aires (2015); Premio mejor cortometraje experimental Festival REC, La Plata(2015); Let it VJ Club Cultural Matienzo (2015); Muestra Satélite XI en el Centro Hipermediático Experimental Latinoamericano (2014). 
-[^6]: Ver westbeth.org//about/history
+[^6]: Ver westbeth.org/about/history
 [^7]: Ver ejemplo vimeo.com/376739351
 [^8]: Ver apartado de Bill Brand
 [^9]: El caso más conocido de esta historia es la de Metrópolis, de Fritz Lang: entre la colección de Peña Rodriguez salió a la luz en 2008 una copia 25 minutos más extensa que la versión que se creía más completa en Alemania.
@@ -679,3 +701,5 @@ Sin embargo, para terminar, y quizás a modo de advertencia, si bien venimos des
 [^20]: github.com/jazkue/qr2svg
 [^21]: github.com/svg/svgo
 [^22]: ver código en anexo
+[^23]: Alex Cho, Marie-Ann LaRoche, Connor MacKinon, Maxime Perreault and Illiez
+[^24]: ver vimeo.com/981974842
