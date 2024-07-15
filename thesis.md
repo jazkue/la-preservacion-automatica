@@ -19,6 +19,38 @@ output:
     lang: "es"
     locale: "es-ES"
 ---
+# Agradecimientos
+
+A mis padres, por enseñarme a ser curioso, por transmitirme el amor por el cine, y por su apoyo incondicional.
+
+A mi hermano, por su escucha sincera y por moldearme en lo que soy ahora.
+
+A Clari Chervin, por su apoyo y amor eternos.
+
+A la UNTREF por enseñarme tantas cosas nuevas y abrirme tantas puertas.
+
+A la UBA por prepararme para la vida y abrirme tantas otras puertas también.
+
+A mis compañeros de cursada por enriquecer mi camino.
+
+Al Museo del Cine de Buenos Aires y los amigos valiosos que allí hice.
+
+A Ricardo Dal Farra por su apoyo, asesoramiento y supervisión en Montreal.
+
+Al gobierno de Canadá por la beca _Emerging Leaders in the Americas Program_ (ELAP).
+
+A David Clark y Teagan Lance de la Universidad de Concordia de Montreal por su apoyo y asistencia técnica.
+
+A Riad El Mahmoudy de _Composant Machinal_ por confiar en el proyecto y difundirlo en su muestra en Montreal.
+
+A mi familia y amigos, nuevos y antiguos, por tanto disfrute y conocimiento compartidos.
+
+A Mario Guzmán por su soporte, apoyo y consejos iniciales en la investigación.
+
+A Mariano Ramis por la inspiración, el acompañamiento y la generosidad.
+
+Y a Carolina Cappa por tantos años de lecciones, amistad y aprendizaje, que de no haberla conocido no existiría esta tesis.
+
 # Resumen
 
 _La Preservación Automática_ es una tesis teórico-práctica que estudia técnicas híbridas de arte y preservación, entendiendo esta hibridez como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. El proyecto está compuesto de dos componentes: el texto de fundamentación teórico-conceptual y la obra, abordados dialécticamente. El texto analiza las problemáticas de la preservación digital y analógica, a través de antecedentes teóricos y artísticos, y la obra propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación, la criptografía y el arte por computadora.
