@@ -1,5 +1,5 @@
 ---
-title: "La preservación automática: Estrategias híbridas de permanencia en obras de arte digital"
+title: "La preservación automática: Estrategias híbridas de permanencia para obras de arte digital"
 # title: "La persistencia automática"
 # title: "Las Sombras Eternas"
 # title: "Las Sombras Permanentes"
@@ -21,17 +21,13 @@ output:
 ---
 # Agradecimientos
 
-A mis padres, por enseñarme a ser curioso, por transmitirme el amor por el cine, y por su apoyo incondicional.
+A mis padres y mi hermano, por enseñarme a ser curioso, por transmitirme el amor por el cine, y por su apoyo incondicional.
 
-A mi hermano, por su escucha sincera y por moldearme en lo que soy ahora.
+A Clari Chervin, por el acompañamiento desde el día uno, sus sugerencias, el apoyo y el cariño.
 
-A Clari Chervin, por su apoyo y amor eternos.
+A la UNTREF y a la UBA, por enseñarme tantas cosas y abrirme tantas puertas.
 
-A la UNTREF por enseñarme tantas cosas nuevas y abrirme tantas puertas.
-
-A la UBA por prepararme para la vida y abrirme tantas otras puertas también.
-
-A mis compañeros de cursada por enriquecer mi camino.
+A mis compañeros de cursada por compartir el camino.
 
 Al Museo del Cine de Buenos Aires y los amigos valiosos que allí hice.
 
@@ -65,7 +61,7 @@ El objetivo de la investigación es problematizar el papel de la permanencia en 
 
 **Palabras clave**
 
-Preservación, hibridez, transición, impureza, automatismo, formatos, películas, criptografía, loop.
+Preservación, hibridez, transición, impureza, automatismo, formatos, medios, traducciones.
 
 # I. Introducción
 
@@ -513,13 +509,11 @@ Pero lo interesante de esta tecnología es entender que existen conversiones y p
 
 En toda esta serie de reflexiones e idas y vueltas se propuso emplear esta tecnología limitada de codificación como materia prima para la iteración final de la tesis. Con la preservación a futuro en mente y un poco inspirado por el desafío, se buscó trabajar con las siguientes condiciones y limitaciones: 
 
-- Inspirado en los referentes de la tesis, la obra debía ser una animación digital. Para mayor transparencia y "conservación evolutiva", la obra debía estar generada en código.
+- Inspirado en los referentes de la tesis, la obra debía ser una animación digital. Para mayor transparencia la obra debía estar generada en código.
 - Para mayor permanencia, el código debía estar generado en software de código abierto.
 - Con los 2 proyectores Kodak en mente, la animación tenía que estar formada por 160 fotogramas.
 - Con los códigos QR en mente, cada fotograma tenía que ocupar menos de 3 kb. Cada QR tenía que poder contener el código fuente y el fotograma correspondiente.
 - Y finalmente, con el espectador en mente, una computadora tendría que decodificar en tiempo real los QR que se proyectan.
- 
-La propuesta entonces consistió además en agregarle al sistema una cámara que le permita a una computadora decodificar en tiempo real los QR que se suceden desde los proyectores. 
 
 ![Pequeño dibujo del sistema propuesto](./assets/sketch.jpg)
 
@@ -577,9 +571,10 @@ Una vez solucionado el tema del peso, se comenzó a diseñar la información ocu
 
 Y así surgió la idea del _Archivo del Film Automático_ (con siglas _AFA_), un archivo ficticio e imaginario, que forma parte de una suerte de ficción donde nos planteamos formas alternativas de salvar obras digitales. A través de _Los Films Automáticos_, esta serie de experimentaciones diversas de almacenado digital en soportes analógicos, nos dedicamos insistentemente a la búsqueda de la permanencia en obras de arte digital.
 
+A continuación se detalla el contenido de cada QR (las coordenadas SVG están reducidas con fines prácticos):
+
 ```html
-<!--
-AFA_0001.svg
+<!-- AFA_0001.svg
 Archivo del Film Automatico
 editor.p5js.org/AFA/full/gMMd7vZn9
 Javier de Azkue 2024
@@ -587,15 +582,13 @@ Javier de Azkue 2024
 SOURCE CODE
 function setup(){createCanvas(384,240);}function draw(){background(0);translate(0,35);stroke(255);noFill();let w=width,t=millis(),min=0.1,max=3,offset=-11;t=t/430.0;for(let i=30;i<=height-110;i+=10){beginShape();for(let x=0;x<=w+6;x+=2){let frq=map(x,0,w,min,max),y=sin((x/frq)+t)*15,frac=6;if(x>w/2)frac=12;if((i<50||i>110)&&x%frac==0){vertex(x,y+i);}if(x>0&&i>30&&i<50){if(x%140==0){let x2=x+offset,frq2=map(x2,0,w,min,max),y2=sin((x2/frq2)+t)*15;line(x2,y2+i,x2,(y2+i)+80);}}if((i==130||i==40)&&int(x/10)%2==0){{if(x>w/2-x/2&&x<w+5){if(x%5==0){let x2=x-3+offset,frq2=map(x2,0,w,min,max),y2=sin((x2/frq2)+t)*15;line(x2,y2+i,x2,(y2+i)-10);x2=x+3+offset;frq2=map(x2,0,w,min,max);y2=sin((x2/frq2)+t)*15;line(x2,y2+i,x2,(y2+i)-10);}}}}}endShape();}}
 
-URL
-data:image/svg+xml,<svg...
--->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 240"><path d="M0 0h384v240H0z"/><g fill="none" stroke="white"><path d="m0 64 6 8.4 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8 6 20.6 6 8.1 6-16.3 6-12.2 6 4.4 6 13 6 10 6 1.9 6-5.2 6-8.6 6-8.1 6-5.6 6-2.2 6 1 6 3.4 6 4.7 6 5.1 6 5 6 4.2 6 3.2 6 2.1 6 1.1 12-.5 12-3.2 12-4.5 12-5 12-4.6 12-4 12-3.2 12-2.4 12-1.5 12-.7 12-.2 12 .4 12 .7 12 1 12 1.3 12 1.5m-255 9.7v80m-3-76.8v-10m6 4.4v-10m14 9.7v-10m6 14v-10m14 21.7v-10m6 14.5v-10m14 16.6v-10m6 11.1v-10m14 9.1v-10m6 8.5v-10m14 5v-10m6 7.6V70m14 4.3v-10m6 7.7V62m17 4.5v80m-3-79.1v-10m6 8.3v-10m14 7.1v-10m6 9v-10m14 8.7v-10m6 9.7v-10m14 9.8V50m6 10.2v-10M346 61V51m6 10.4v-10m14 11.4v-10m6 10.6v-10"/><path d="m0 74 6 8.4 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8 6 20.6 6 8.1 6-16.3 6-12.2 6 4.4 6 13 6 10 6 1.9 6-5.2 6-8.6 6-8.1 6-5.6 6-2.2 6 1 6 3.4 6 4.7 6 5.1 6 5 6 4.2 6 3.2 6 2.1 6 1.1 12-.5 12-3.2 12-4.5 12-5 12-4.6 12-4 12-3.2 12-2.4 12-1.5 12-.7 12-.2 12 .4 12 .7 12 1 12 1.3 12 1.5M0 154l6 8.3 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8 6 20.6 6 8.1 6-16.3 6-12.2 6 4.4 6 13 6 10 6 1.9 6-5.2 6-8.6 6-8.1 6-5.6 6-2.2 6 1 6 3.4 6 4.7 6 5.1 6 5 6 4.2 6 3.2 6 2.1 6 1.1 12-.5 12-3.2 12-4.5 12-5 12-4.6 12-4 12-3.2 12-2.4 12-1.5 12-.7 12-.2 12 .4 12 .7 12 1 12 1.3 12 1.5m-258 13v-10m6 4.4v-10m14 9.7v-10m6 14v-10m14 21.7v-10m6 14.5v-10m14 16.6v-10m6 11.1v-10m14 9.1v-10m6 8.5v-10m14 5v-10m6 7.5V160m14 4.3v-10m6 7.7v-10m14 5.4v-10m6 8.3v-10m14 7.1v-10m6 9v-10m14 8.7v-10m6 9.7v-10m14 9.8v-10m6 10.2v-10m14 10.8v-10m6 10.4v-10m14 11.4v-10m6 10.6v-10"/><path d="m0 164 6 8.4 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8 6 20.6 6 8.1 6-16.3 6-12.2 6 4.4 6 13 6 10 6 1.9 6-5.2 6-8.6 6-8.1 6-5.6 6-2.2 6 1 6 3.4 6 4.7 6 5.1 6 5 6 4.2 6 3.2 6 2.1 6 1.1 12-.5 12-3.2 12-4.5 12-5 12-4.6 12-4 12-3.2 12-2.4 12-1.5 12-.7 12-.2 12 .4 12 .7 12 1 12 1.3 12 1.5"/></g></svg>
+URL+SVG
+data:image/svg+xml,<svg... --> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 240"><path d="M0 0h384v240H0z"/><g fill="none" stroke="white"><path d="m0 64 6 8.4 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8"/></g></svg>
 ```
 
 ![Captura del conjunto de archivos SVG codificados en forma de QR](./assets/4f75721f3669e4a12eea50f635d57365.jpg)
 
-A diferencia de las versiones anteriores donde se "analogizaban" obras digitales a través de la fotografía y el soporte fílmico, en el _Archivo del Film Automático_ la búsqueda se centraba en conservar la cualidad digital de cada fotograma de una forma física y material. La codificación visual que se obtiene de este proceso no es legible por los humanos pero sí decodificable por las máquinas. La obra es un diálogo contradictorio de preservación y rescate, que busca ilustrar la fragilidad de los medios digitales, así como también la robustez de las máquinas mecánicas y el soporte fílmico.
+A diferencia de las versiones anteriores donde se convertían a analógico obras digitales a través de la fotografía y el soporte fílmico, en el _Archivo del Film Automático_ la búsqueda se centraba en conservar la cualidad digital de cada fotograma de una forma física y material. La codificación visual que se obtiene de este proceso no es legible por los humanos pero sí decodificable por las máquinas. La obra es un diálogo contradictorio de preservación y rescate, que busca ilustrar la fragilidad de los medios digitales, así como también la robustez de las máquinas mecánicas y el soporte fílmico.
 
 La comunicación entre el par de proyectores sincronizados y la computadora es relativamente sencilla. Se escribió un programa en Python que captura imágenes a través de una cámara mirrorless y decodifica los QR proyectados, que son "ingestados" en Google Chrome en formato SVG[^22] en tiempo real. Esto es posible gracias a que a través de una URL uno puede escribir el código del SVG y Google Chrome lo carga como una página web. El programa en Python captura las imágenes con la librería _OpenCV_, pero decodifica los QR a través de otra librería llamada _pyboof_, que funciona "encapsulando" ("wrapping" en inglés) la librería _BoofCV_, basada en el lenguaje de programación Java. Este paralelismo de lenguajes facilita mucho la velocidad de interpretación de los QR ya que las labores de captura e interpretación se reparten entre procesos independientes.
 
@@ -615,11 +608,13 @@ Como se explicaba anteriormente, la obra fue concebida como un videoinstalación
 
 ![Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra](./assets/1bcd19aa4d839156566912dadb1271ba.png)
 
-El _Archivo del Film Automático_ es un ensayo de preservación digital inspirado en varios de los referentes artísticos y tecnológicos tratados en la tesis. La idea de perdurabilidad del trabajo se basa principalmente en los conceptos de documentación y transformación planteadas por Vanina Hofman en el apartado de _Los medios variables_. La animación digital preservada fotograma por fotograma en las diapositivas está inspirada en la conservación evolutiva de la que habla Lino García Morales, partiendo de la apropiación, transformación y reinterpretación de arte digital. Cada fotograma conserva de forma digital, pero representado de forma física, el código fuente, el número de fotograma, un link al código fuente en funcionamiento, y los nombres del proyecto y el autor. Pero también describe en lenguaje natural el nombre del proyecto y el nombre del archivo digital que representa. Luego, el traspaso a fílmico se basa en la experiencia heredada de los archivos cinematográficos, donde se comprueba la eficacia del material en la permanencia y la importancia simbólica de utilizar el formato 35 mm de más de 100 años de historia, aún hoy al a venta tanto en el campo amateur como profesional. El material fílmico, como el cine estructural, tiene además esa cualidad física que hace evidente su materialidad y transparente su funcionamiento. Al mismo tiempo, la obra viene acompañada de la tesina escrita, por lo que la documentación para la perdurabilidad es grande en este sentido, ya que no solo guarda instrucciones, códigos y funcionamiento, sino también contexto e investigación. En este sentido, representa una ventaja muy importante que sea el mismo artista quien documenta y conceptualiza estrategias de perdurabilidad en su propia obra. Finalmente, la serie por momentos también roza estrategias más contemporáneas y tecnológicas de preservación, con el uso de la _Blockchain_ y los _NFT_. Todos estas ideas acompañan conceptualmente a la instalación, pero la obra en su forma instalada también ofrece una experiencia abstracta de luz, sonido y tecnología nostálgica que la abre a múltiples interpretaciones posibles.
+El _Archivo del Film Automático_ es un ensayo de preservación digital inspirado en varios de los referentes artísticos y tecnológicos tratados en la tesis. La idea de perdurabilidad del trabajo se basa principalmente en los conceptos de documentación y transformación planteadas por Vanina Hofman en el apartado de _Los medios variables_. La animación digital preservada fotograma por fotograma en las diapositivas está inspirada en la conservación evolutiva de la que habla Lino García Morales, partiendo de la apropiación, transformación y reinterpretación de arte digital. Cada fotograma conserva de forma digital, pero representado de forma física, el código fuente, el número de fotograma, un link al código fuente en funcionamiento, y los nombres del proyecto y el autor. Pero también describe en lenguaje natural el nombre del proyecto y el nombre del archivo digital que representa. Luego, el traspaso a fílmico se basa en la experiencia heredada de los archivos cinematográficos, donde se comprueba la eficacia del material en la permanencia y la importancia simbólica de utilizar el formato 35 mm de más de 100 años de historia, aún hoy al a venta tanto en el campo amateur como profesional. El material fílmico, como el cine estructural, tiene además esa cualidad física que hace evidente su materialidad y transparente su funcionamiento. Al mismo tiempo, la obra viene acompañada de la tesina escrita, por lo que la documentación para la perdurabilidad es grande en este sentido, ya que no solo guarda instrucciones, códigos y funcionamiento, sino también contexto e investigación. En este sentido, representa una ventaja muy importante que sea el mismo artista quien documenta y conceptualiza estrategias de perdurabilidad en su propia obra. Finalmente, la serie por momentos también roza estrategias más contemporáneas y tecnológicas de preservación, con el uso de la _Blockchain_ y los _NFT_. Todos estas ideas acompañan conceptualmente la instalación, pero la obra en su forma instalada también ofrece una experiencia abstracta de luz, sonido y tecnología nostálgica que la abre a múltiples interpretaciones posibles.
 
 ![La estructura de la obra con sus distintos estantes y dispositivos](./assets/eafc18c1daaf5777cbe4b189faf5838d.jpg)
 
 ![Microcontrolador Arduino con el shield de relés funcionando como control remoto de los proyectores. El sensor PIR de movimiento que se aprecia en el fotograma se agregó para disminuir la frecuencia con la que ocurría el loop si no se encontraba nadie mirando la instalación.](./assets/2f7cec6a9ac832843bdf2933071ee679.jpg)
+
+![A la izquierda, el rack del Film Automático. A la derecha, el QR proyectado. Fotos de William Bobby Sabourin.](./assets/d03840925db51095b10c0d81f3a60cbe.jpg)
 
 # IV. Sin pedir permiso: un momento transicional
 
@@ -725,7 +720,291 @@ Sin embargo, para terminar, y quizás a modo de advertencia, si bien venimos des
 
 **VHS**: Video Home System, un formato de cinta de video analógica que fue popular en la década de 1980 y 1990 para grabar y reproducir contenido.
 
-# VI. Referencias Bibliográficas
+# VI. Anexo
+
+Con fines archivísticos y en relación a la instalación del Archivo del Film Automático, a continuación se adjuntan los scripts utilizados en la instalación, para sincronizar los proyectores y para decodificar los QR en tiempo real.
+
+El repositorio completo de los programas desarrollados se puede consultar en Github (en inglés): github.com/jazkue/qr2svg
+
+## Arduino
+```java
+// serial commands:
+// "go"
+// "stop"
+// "sense" (turn on sensor)
+// "nonsense" (turn off sensor)
+// "delay ###" (# = tiempo de delay)
+
+int number_of_relays = 2;
+int relays[] = { 7, 6, 5, 4 };
+int r_delay = 250;
+
+String inputString = "";
+bool stringComplete = false;
+bool go_is_on = false;
+
+// PIR sensor
+bool sensor = true;
+int slideCount = 1;
+int sensorPin = A0;
+int sensorValue;
+int sensorRelayPin = 5;
+int cycle = 81;
+
+void setup() {
+  for (int i = 0; i < number_of_relays; i++) {
+    pinMode(relays[i], OUTPUT);
+  }
+  if (sensor) pinMode(sensorRelayPin, OUTPUT);
+  Serial.begin(9600);
+  inputString.reserve(200);
+}
+
+void loop() {
+  if (sensor) {
+    sensorValue = analogRead(sensorPin);
+    if (go_is_on == false && sensorValue > 0) {
+      go_is_on = true;
+      slideCount = 1;
+    }
+    if (slideCount > cycle) {
+      go_is_on = false;
+    }
+  }
+
+  if (go_is_on) {
+    if (sensor) turnOn();
+    go();
+  } else {
+    stop();
+    if (sensor) turnOff();
+  }
+
+  if (stringComplete) {
+    Serial.println(inputString);
+    if (inputString == "go\n") {
+      go_is_on = true;
+      slideCount = 1;
+    }
+    if (inputString == "stop\n") {
+      go_is_on = false;
+    }
+    if (inputString == "nonsense\n") {
+      sensor = false;
+    }
+    if (inputString == "sense\n") {
+      sensor = true;
+    }
+    if (inputString.indexOf("delay ") >= 0) {
+      int delayIndex = inputString.indexOf("delay ") + 6;
+      int new_delay = inputString.substring(delayIndex).toInt();
+      r_delay = new_delay;
+      Serial.println("new delay is " + String(new_delay));
+    }
+    inputString = "";
+    stringComplete = false;
+  }
+}
+
+void serialEvent() {
+  while (Serial.available()) {
+    char inChar = (char)Serial.read();
+    inputString += inChar;
+    if (inChar == '\n') {
+      stringComplete = true;
+    }
+  }
+}
+
+void go() {
+  for (int i = 0; i < number_of_relays; i++) {
+    digitalWrite(relays[i], HIGH);
+    delay(r_delay);
+    digitalWrite(relays[i], LOW);
+    delay(r_delay);
+  }
+  slideCount++;
+}
+
+
+void stop() {
+  for (int i = 0; i < number_of_relays; i++) {
+    digitalWrite(relays[i], LOW);
+  }
+}
+
+void turnOn() {
+  digitalWrite(sensorRelayPin, HIGH);
+  if (slideCount == 1) Serial.println("PROJECTORS ON");
+  Serial.println("Slide " + String(slideCount));
+}
+
+void turnOff() {
+  digitalWrite(sensorRelayPin, LOW);
+  if (slideCount == cycle) Serial.println("PROJECTORS OFF");
+}
+
+```
+## Python
+
+```python
+import os
+import re
+import sys
+import urllib.parse
+import numpy as np
+import pyboof as pb
+
+import cv2
+from selenium import webdriver
+
+current_dir = os.getcwd()
+try:
+    video_path = sys.argv[1]
+except IndexError:
+    video_path = None
+
+class QR_Extractor:
+    def __init__(self):
+        self.detector = pb.FactoryFiducial(np.uint8).qrcode()
+    
+    def extract(self, img):
+        image = pb.ndarray_to_boof(img)
+
+        self.detector.detect(image)
+        qr_codes = []
+        for qr in self.detector.detections:
+            qr_codes.append({
+                'text': qr.message,
+                'points': qr.bounds.convert_tuple()
+            })
+        return qr_codes
+
+class Capture:
+    def __init__(self, skip_interval=0):
+        self.frame_count = 0
+        self.skip_interval = skip_interval
+        if video_path:
+            self.cap = cv2.VideoCapture(video_path)
+        else:
+            self.cap = cv2.VideoCapture(0)
+
+    def read(self):
+        ret, frame = self.cap.read()
+        if ret:
+            return frame
+
+    def loop(self):
+        print("LOOP")
+        self.cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
+
+    def skip(self):
+        if self.skip_interval:
+            self.frame_count += 1
+            if self.frame_count % self.skip_interval != 0:
+                return True
+
+    def contrast(self, frame, brightness=0, contrast=1):
+        return cv2.addWeighted(frame, contrast, np.zeros(frame.shape, frame.dtype), 0, brightness)
+
+    def desaturate(self, frame):
+        return cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+    def show_preview(self, frame):
+        try:
+            cv2.imshow('Preview', frame)
+            cv2.waitKey(1)
+        except Exception as e:
+            print("Error in displaying preview:", e)
+
+    def release_cap(self):
+        self.cap.release()
+        cv2.destroyAllWindows()
+
+class Qrbot:
+    def __init__(self, show_text=False):
+        self.qr_scanner = QR_Extractor()
+        self.options = webdriver.ChromeOptions()
+        self.options.add_argument("--kiosk")
+        self.options.add_experimental_option("excludeSwitches", ['enable-automation'])
+        self.driver = webdriver.Chrome(self.options)
+        self.buffer = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 240'><path d='M0 0h384v240H0z'/></svg>"
+        self.new_opacity = 0
+
+        self.show_text = show_text
+        if self.show_text:
+            self.svg_name = ''
+            self.svg_text = ''
+            self.text_format = '<text x="6" y="10" fill="rgb(255,255,255)" font-size="5" font-family="Arial">'
+            self.svg_no_qr = self.text_format + "QR Code: False" + '</text>'
+        
+    def read_qr(self, frame):
+        decoded_objs = self.qr_scanner.extract(frame)
+        if decoded_objs:
+            self.new_opacity = 255
+            decoded, = decoded_objs
+            qr_data = decoded["text"]
+            self.buffer = qr_data
+
+            if self.show_text:
+                pattern = r'<!--\s*(\w+\.svg)'
+                match = re.search(pattern, qr_data)
+                if match:
+                    self.svg_name = match.group(1)
+                    self.svg_text = '{}{}</text>'.format(self.text_format, self.svg_name)
+                    qr_data = qr_data.replace('</svg>', '{}</svg>'.format(self.svg_text))
+
+            svg_data_url = "data:image/svg+xml," + urllib.parse.quote(qr_data)
+            self.driver.get(svg_data_url)
+            return True
+        else:
+            if self.show_text:
+                if self.new_opacity > 0:
+                    svg_replace = '{}</svg>'.format(self.svg_text)
+                else:
+                    svg_replace = '{}</svg>'.format(self.svg_no_qr)
+                svg_data_url = "data:image/svg+xml," + urllib.parse.quote(self.buffer.replace('</svg>', svg_replace))
+            
+            self.driver.get(svg_data_url.replace("white", "rgb({0},{0},{0})".format(self.new_opacity)))
+            self.new_opacity = self.new_opacity - 10
+
+            return False
+        
+    def quit(self):
+        self.driver.quit()
+
+qrbot = Qrbot(show_text=False)
+cap = Capture(skip_interval=0)
+
+try:
+    while True:
+        frame = cap.read()
+        if frame is None:
+            if video_path:
+                cap.loop()
+                continue
+            else:
+                print("Error: Failed to capture frame")
+                break
+
+        if cap.skip():
+            continue
+
+        frame = cap.contrast(frame)
+        frame = cap.desaturate(frame)
+        # cap.show_preview(frame)
+
+        qr_data = qrbot.read_qr(frame)
+        print("QR code data:", qr_data)
+
+except KeyboardInterrupt:
+    print("Stopping the capture")
+    cap.release_cap()
+    qrbot.quit()
+    sys.exit()
+```
+
+# VII. Referencias Bibliográficas
 
 [^1]: Ver más en javierdeazkue.ar/henrietta
 [^2]: Ver más en javierdeazkue.ar/themoreyouconnect
