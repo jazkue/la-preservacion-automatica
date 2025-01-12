@@ -3,6 +3,7 @@ title: "La preservación automática: Estrategias híbridas de permanencia para 
 author: "Javier de Azkue"
 toc-title: "Indice"
 bibliography: references/bib.bib
+lang: es
 output:
   custom_document:
     # path: "/Exports/la-preservacion-automatica.pdf"
@@ -10,8 +11,6 @@ output:
     toc: true
     reference_doc: styles/style.docx
     pandoc_args: ["--csl", "references/apa.csl"]
-    lang: "es"
-    locale: "es-ES"
 ---
 # Agradecimientos
 
@@ -289,7 +288,7 @@ El trabajo de Molnar implicaba una vuelta constante entre papel y computadora, r
  
 ![A la izquierda: Vera Molnar, estudio para "Inclinaisons" (1971). A la derecha: Vera Molnar, dibujo hecho en plotter "Inclinaison" (1971). Accedidos desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/](./assets/vera_molnar.jpg)
 
-En esta misma línea es interesante encontrar una continuidad histórica con los llamados _Paper Prints_, un sistema de guardado de películas para el registro de propiedad intelectual hacia finales del siglo XIX y principios del siglo XX en los que se archivaban los fotogramas de las películas. Dado que legalmente no existían antecedentes en el Registro Nacional de la Propiedad Intelectual de Estados Unidos, las películas se transferían a papel y se las registraba como obras gráficas. Casualmente, fue el gran inventor de tecnologías, Thomas Alva Edison, el primero en registrar una película con este sistema en 1893, y la Biblioteca del Congreso de EEUU procesó y catalogó desde entonces cada una de las películas como una sola fotografía, aceptando miles de impresiones en papel durante un período de veinte años [@PaperPrint2023].
+En esta misma línea es interesante encontrar una continuidad histórica con los llamados _Paper Prints_, un sistema de guardado de películas para el registro de propiedad intelectual hacia finales del siglo XIX y principios del siglo XX en los que se archivaban los fotogramas de las películas. Dado que legalmente no existían antecedentes en el Registro Nacional de la Propiedad Intelectual de Estados Unidos, las películas se transferían a papel y se las registraba como obras gráficas. Casualmente, fue el gran inventor de tecnologías, Thomas Alva Edison, el primero en registrar una película con este sistema en 1893, y la Biblioteca del Congreso de EEUU procesó y catalogó desde entonces cada una de las películas como una sola fotografía, aceptando miles de impresiones en papel durante un período de veinte años.
 
 ![A la izquierda: William Kennedy Dickson, Edison Kinetoscopic Record of a Sneeze (1889). A la derecha: Georges Méliès, paper print de Le roi du maquillage (1904). Accedidos desde en.wikipedia.org/wiki/Paper_print](./assets/Edison.jpg)
 
@@ -1024,7 +1023,6 @@ except KeyboardInterrupt:
 [^12]: Ver el ejemplo de niagaracustomlab.com
 [^13]: Ver vimeo.com/516428662
 [^14]: Ver variablemediaquestionnaire.net
-[^15]: Ver moma.org/research/conservation/matters-in-media-art
 [^16]: Ver aslongaspossible.com
 [^17]: Ver registro: youtu.be/Ymcq9Ykm_YE
 [^18]: ver apartado _Computadoras y Celuloide_
