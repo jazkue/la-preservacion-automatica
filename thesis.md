@@ -10,7 +10,7 @@ output:
     path: "/Exports/la-preservacion-automatica.docx"
     toc: true
     reference_doc: styles/style.docx
-    pandoc_args: ["--csl", "references/apa_modified.csl"]
+    pandoc_args: ["--csl", "references/apa.csl"]
 ---
 # Agradecimientos
 
