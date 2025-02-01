@@ -10,7 +10,7 @@ output:
     path: "/Exports/la-preservacion-automatica.docx"
     toc: true
     reference_doc: styles/style.docx
-    pandoc_args: ["--csl", "references/apa.csl"]
+    pandoc_args: ["--csl", "references/apa-7th-edition.csl"]
 ---
 # Agradecimientos
 
@@ -390,7 +390,7 @@ Cuando hablamos de que un bloque de la Blockchain no almacena imágenes sino ref
 
 En esta línea, volvamos a los sistemas de almacenamiento más tradicionales a través de un referente artístico. _Cameron’s World_ es un proyecto del artista neozelandés Cameron Askin, basado en las capacidades de archivo de Wayback Machine. Se trata de una compilación de páginas de Geocities, un servicio gratuito de alojamiento web de finales de los 90. En este período Geocities le permitió a usuarios de todo el mundo crear sus propios sitios web, llegando hasta 38 millones de páginas en su cierre en 2008. El proyecto es un tributo a esa era inocente y prolífica de internet, a través de un collage temático y estético en un largo scroll repleto de archivos gif, con una suerte de “emulador” del explorador por excelencia de esas épocas, el Netscape Navigator (disfrazado para el proyecto como “Catscape Navigator”), que nos permite ingresar a los hipervínculos y conocer más.
 
-Esta “carta de amor al viejo internet” [@askinCameronWorld2015] , como la plantea su autor, además de una obra en sí misma, es un pequeño trabajo de preservación independiente que podríamos sumar a esta lista de esfuerzos destacados y por fuera de la maquinaria y el circuito tradicional de preservación.
+Esta “carta de amor al viejo internet” [@askinCameronsWorld2015] , como la plantea su autor, además de una obra en sí misma, es un pequeño trabajo de preservación independiente que podríamos sumar a esta lista de esfuerzos destacados y por fuera de la maquinaria y el circuito tradicional de preservación.
 
 ![Cameron Askin, captura de "Cameron’s World" (2015), accedido desde cameronsworld.net](./assets/camerons-world.jpg)
 
