@@ -42,15 +42,15 @@ Y a Carolina Cappa por tantos años de lecciones, amistad y aprendizaje, que de 
 
 # Resumen
 
-_La Preservación Automática_ es una tesis teórico-práctica que estudia técnicas híbridas de arte y preservación, entendiendo esto como una combinación de técnicas digitales con procesos, formatos y soportes analógicos no-digitales. El proyecto está compuesto de dos componentes: el texto de fundamentación teórico-conceptual y la obra, abordados dialécticamente. El texto analiza las problemáticas de la preservación digital y analógica, a través de antecedentes teóricos y artísticos, y la obra propone un camino híbrido de experimentación y reflexión, con técnicas ligadas a la fotografía, la animación, la criptografía y el arte por computadora.
+_La Preservación Automática_ es una tesis teórico-práctica que estudia técnicas híbridas de arte y preservación, entendiendo esto como una combinación de técnicas digitales con procesos y soportes analógicos. El proyecto está compuesto de dos componentes abordados dialécticamente: el texto de fundamentación teórico-conceptual y la obra-instalación.
 
-El interés de la investigación se basa en una obsesión personal alrededor de la memoria y la obsolescencia tecnológica. La tesis trata sobre la búsqueda ecológica y creativa de rescate y reflexión alrededor del pasado, el presente y el futuro de nuestras imágenes y dispositivos, a través de recursos low-tech y reciclaje de máquinas audiovisuales que hoy podrían considerarse "bastardas".
+El texto se centra en conceptos y teorías de preservación, revisando hitos históricos en la historia de las imágenes en movimiento y referentes artísticos que cuestionan y evidencian la hibridación y la transición tecnológica.
 
-El texto se centra en los conceptos y las teorías sobre preservación, revisando hitos históricos en la historia de las imágenes en movimiento y referentes artísticos que ponen en cuestionamiento y evidencia la hibridación tecnológica y la transición de los medios.
+_La obra_, por su parte, es un proyecto de instalación que explora técnicas de arte por computadora y preservación híbridas, a través de técnicas ligadas a la fotografía, la animación y la programación. Está inspirado libremente en el proyecto de _Arctic Code Vault_ de _Github_, que consistió en almacenar grandes cantidades de datos digitales de forma analógica sobre material fílmico en el Ártico.
 
-_La obra_, por su parte, es un proyecto de instalación que explora técnicas híbridas de arte por computadora y preservación, y consiste en un sistema de proyección analógica de archivos digitales codificados gráficamente que son reinterpretados en tiempo real por una computadora. El proyecto está inspirado en el programa _Arctic Code Vault_ de _Github_, que consistió en almacenar grandes cantidades de datos digitales de forma analógica sobre material fílmico en el ártico.
+La investigación surge de una obsesión personal con la memoria y la obsolescencia tecnológica, proponiendo una búsqueda ecológica y creativa sobre el pasado, presente y futuro de nuestras imágenes y dispositivos.
 
-El objetivo de la investigación es problematizar el papel de la permanencia en obras de arte digital a través de una obra compleja de técnicas híbridas, que incluye traducciones y decodificaciones, así como repasar conceptos generales de preservación y obsolescencia estudiando de cerca el caso de los archivos cinematográficos y sus evoluciones y descendencias.
+El objetivo de la investigación es problematizar la noción de permanencia digital mediante una práctica artística que incluye traducciones y decodificaciones, y reflexionar sobre la evolución de los archivos cinematográficos y sus transformaciones tecnológicas.
 
 **Palabras clave**
 
