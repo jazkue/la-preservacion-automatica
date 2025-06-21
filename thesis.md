@@ -9,7 +9,7 @@ output:
     # path: "/Exports/la-preservacion-automatica.pdf"
     path: "/Exports/la-preservacion-automatica.docx"
     toc: true
-    reference_doc: styles/style.docx
+    reference_doc: styles/style_times_new_roman.docx
     pandoc_args: ["--csl", "references/apa-6th-edition.csl"]
 ---
 # Agradecimientos
@@ -52,9 +52,7 @@ La investigación surge de una obsesión personal con la memoria y la obsolescen
 
 El objetivo de la investigación es problematizar la noción de permanencia digital mediante una práctica artística que incluye traducciones y decodificaciones, y reflexionar sobre la evolución de los archivos cinematográficos y sus transformaciones tecnológicas.
 
-**Palabras clave**
-
-Preservación, hibridez, transición, impureza, automatismo, formatos, medios audiovisuales, traducciones.
+**Palabras clave:** Preservación, hibridez, transición, impureza, automatismo, formatos, medios, soportes, traducciones.
 
 # I. Introducción
 
