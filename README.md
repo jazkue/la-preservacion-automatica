@@ -3,6 +3,39 @@
 **Javier de Azkue**<br> Maestría en Tecnología y Estética de las Artes
 Electrónicas<br> Universidad Nacional de Tres de Febrero · 2024
 
+## Índice
+
+- [Agradecimientos](#agradecimientos)
+- [Resumen](#resumen)
+- [I. Introducción](#i-introducción)
+- [II. Antes de ahora: primeras experiencias](#ii-antes-de-ahora-primeras-experiencias)
+  - [Henrietta (2014)](#henrietta-2014)
+  - [Cuanto más se conecta, menos se conecta (2019)](#cuanto-más-se-conecta-menos-se-conecta-2019)
+- [III. A medio camino entre el arte y la preservación](#iii-a-medio-camino-entre-el-arte-y-la-preservación)
+  - [Contradicciones e impurezas](#contradicciones-e-impurezas)
+  - [Una obligación inestable](#una-obligación-inestable)
+  - [El acceso a los originales](#el-acceso-a-los-originales)
+  - [El artista como preservador accidental](#el-artista-como-preservador-accidental)
+  - [Computadoras y celuloide](#computadoras-y-celuloide)
+  - [Arte con computadoras en papel](#arte-con-computadoras-en-papel)
+  - [Los medios variables](#los-medios-variables)
+  - [Arqueología para el arte digital](#arqueología-para-el-arte-digital)
+  - [Preservación descentralizada](#preservación-descentralizada)
+- [IV. Los Films Automáticos](#iv-los-films-automáticos)
+  - [Digital-to-film-to-digital](#digital-to-film-to-digital)
+  - [Digital-to-film](#digital-to-film)
+  - [El Archivo del Film Automático](#el-archivo-del-film-automático)
+    - [En búsqueda de una permanencia digital](#en-búsqueda-de-una-permanencia-digital)
+    - [Desafíos y limitaciones](#desafíos-y-limitaciones)
+    - [La instalación](#la-instalación)
+    - [Link a registro audiovisual](#link-a-registro-audiovisual)
+- [V. Sin pedir permiso: a modo de conclusión](#v-sin-pedir-permiso-a-modo-de-conclusión)
+- [VI. Glosario](#vi-glosario)
+- [VII. Anexo](#vii-anexo)
+  - [Arduino: sincronizar proyectores](#arduino-sincronizar-proyectores)
+  - [Python: capturar y decodificar QRs](#python-capturar-y-decodificar-qrs)
+- [VII. Referencias Bibliográficas](#vii-referencias-bibliográficas)
+
 ## Agradecimientos
 
 A mis padres y mi hermano, por enseñarme a ser curioso, por transmitirme
