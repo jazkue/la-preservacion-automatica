@@ -256,9 +256,7 @@ terminando sus estudios de arquitectura en la Universidad de Buenos
 Aires. Por su experiencia de navegación se sumó a la tripulación ad
 honorem junto a dos argentinos más, Alberto Quayat y Eduardo Cavanagh.
 
-![Nota sobre los tripulantes de Henrietta (Horacio a la derecha), dibujos de Federico Ribas, posiblemente en El Gráfico (1938)](./assets/a60b509825c936b75fbf807369c99886.png)
-
-<p align="center"><em>Nota sobre los tripulantes de Henrietta (Horacio a la derecha), dibujos de Federico Ribas, posiblemente en El Gráfico (1938)</em></p>
+<p align="center"><img src="./assets/a60b509825c936b75fbf807369c99886.png" alt="Nota sobre los tripulantes de Henrietta (Horacio a la derecha), dibujos de Federico Ribas, posiblemente en El Gráfico (1938)" /><br /><em>Nota sobre los tripulantes de Henrietta (Horacio a la derecha), dibujos de Federico Ribas, posiblemente en El Gráfico (1938)</em></p>
 
 El viaje está muy documentado a través de cartas que le escribía uno de
 los tripulantes, Marvin Collins, a su padre en Estados Unidos, quien las
@@ -277,9 +275,7 @@ Ezcurra –El Yayo– con su fascinante viaje alrededor del continente en la
 goleta Henrietta, me puse a buscar en las hemerotecas de la época a ver
 si encontraba alguna pista periodística del viaje”[^3] (Ezcurra, 2012).
 
-![Foto de la copia en VHS de “Henrietta” (2012)](./assets/henrietta_vhs.png)
-
-<p align="center"><em>Foto de la copia en VHS de "Henrietta" (2012)</em></p>
+<p align="center"><img src="./assets/henrietta_vhs.png" alt="Foto de la copia en VHS de “Henrietta” (2012)" /><br /><em>Foto de la copia en VHS de &quot;Henrietta&quot; (2012)</em></p>
 
 Mi abuelo Horacio tuvo la oportunidad de documentar el viaje con una
 cámara de 16 mm, posiblemente prestada. En el increíble material pueden
@@ -349,9 +345,7 @@ Epson V700 y una serie de motores[^4]. Inspirado en este trabajo compré
 el mismo escáner pero por el estado de la película tuve que hacer el
 arrastre y la digitalización de forma manual, cuadro por cuadro.
 
-![Primer rollo de Henrietta (2014)](./assets/b8d9a12ab1c7dc3be8139f4d1a801055.jpg)
-
-<p align="center"><em>Primer rollo de Henrietta (2014)</em></p>
+<p align="center"><img src="./assets/b8d9a12ab1c7dc3be8139f4d1a801055.jpg" alt="Primer rollo de Henrietta (2014)" /><br /><em>Primer rollo de Henrietta (2014)</em></p>
 
 Esta primera etapa tomó varios meses y fueron días de mucha repetición y
 concentración. Por cada captura se digitalizaban 9 fotogramas a la vez,
@@ -365,9 +359,7 @@ y cosas nuevas (porque ya conocíamos la película en su versión VHS). Por
 la fragilidad, cada tira de película que retiraba del rollo quedaba
 desprendida del resto.
 
-![A la izquierda, Henrietta en VHS, a la derecha, Henrietta en su nueva digitalización (2014)](./assets/henrietta.png)
-
-<p align="center"><em>A la izquierda, Henrietta en VHS, a la derecha, Henrietta en su nueva digitalización (2014)</em></p>
+<p align="center"><img src="./assets/henrietta.png" alt="A la izquierda, Henrietta en VHS, a la derecha, Henrietta en su nueva digitalización (2014)" /><br /><em>A la izquierda, Henrietta en VHS, a la derecha, Henrietta en su nueva digitalización (2014)</em></p>
 
 El proyecto aquí se transformó en otra cosa: pasé de la obsesión por la
 “alta resolución” a una búsqueda estética basada en la degradación, la
@@ -389,9 +381,7 @@ una película en fílmico, que es vertical, y me gustaba la idea de
 evidenciar el dispositivo, el fílmico, las perforaciones y las marcas de
 la cámara.
 
-![Espacio construído en After Effects, que era recorrido por una cámara virtual](./assets/vista.png)
-
-<p align="center"><em>Espacio construído en After Effects, que era recorrido por una cámara virtual</em></p>
+<p align="center"><img src="./assets/vista.png" alt="Espacio construído en After Effects, que era recorrido por una cámara virtual" /><br /><em>Espacio construído en After Effects, que era recorrido por una cámara virtual</em></p>
 
 Los textos de *El Gráfico* y el *Spirit Lake Beacon* fueron incorporados
 al trabajo de forma gráfica y sirvieron como separadores entre escenas.
@@ -430,9 +420,7 @@ de digitalización y conservación del 2014 me acompañó hasta el día de
 hoy y es, en una versión más nueva, una de las herramientas de
 experimentación que se usan en la tesis.
 
-![Fotograma de Henrietta (2014)](./assets/henrietta_b.jpg)
-
-<p align="center"><em>Fotograma de Henrietta (2014)</em></p>
+<p align="center"><img src="./assets/henrietta_b.jpg" alt="Fotograma de Henrietta (2014)" /><br /><em>Fotograma de Henrietta (2014)</em></p>
 
 ### Cuanto más se conecta, menos se conecta (2019)
 
@@ -469,9 +457,7 @@ trabajo para la exposición final. Interesado en trabajar con material de
 archivo, yo tenía digitalizado el video de mi infancia antes mencionado
 y se me ocurrió partir de ese material.
 
-![Clase de Recreating the Past, dictada por Zach Lieberman (2019)](./assets/sfpc.jpg)
-
-<p align="center"><em>Clase de Recreating the Past, dictada por Zach Lieberman (2019)</em></p>
+<p align="center"><img src="./assets/sfpc.jpg" alt="Clase de Recreating the Past, dictada por Zach Lieberman (2019)" /><br /><em>Clase de Recreating the Past, dictada por Zach Lieberman (2019)</em></p>
 
 En primer lugar, durante la cursada había desarrollado un programa en
 Python que con una librería llamada *Moviepy* desordenaba los fotogramas
@@ -499,9 +485,7 @@ viendo los recursos disponibles en la escuela conseguí dos monitores de
 PC sin carcaza, con el marco de aluminio expuesto, a los que les
 incorporé un panel de aluminio con conectores banana hembra.
 
-![Construcción de paneles laterales](./assets/monitores.jpg)
-
-<p align="center"><em>Construcción de paneles laterales</em></p>
+<p align="center"><img src="./assets/monitores.jpg" alt="Construcción de paneles laterales" /><br /><em>Construcción de paneles laterales</em></p>
 
 Como se explicó anteriormente, los paneles de aluminio adaptados a sus
 lados conectaban un monitor con el otro a través de cables banana
@@ -519,9 +503,7 @@ algoritmos de edición que desordenaban los fotogramas del video
 original. El resultado a la derecha era un collage desordenado y caótico
 de caras, escenarios y sonidos.
 
-![A la izquierda: módulo Arduino. A la derecha: monitores terminados.](./assets/arduino.jpg)
-
-<p align="center"><em>A la izquierda: módulo Arduino. A la derecha: monitores terminados.</em></p>
+<p align="center"><img src="./assets/arduino.jpg" alt="A la izquierda: módulo Arduino. A la derecha: monitores terminados." /><br /><em>A la izquierda: módulo Arduino. A la derecha: monitores terminados.</em></p>
 
 *Cuanto más se conecta, menos se conecta* vino a concluir y representar
 un poco lo aprendido en la cursada. La pantalla de la izquierda era una
@@ -532,9 +514,7 @@ contrasta tecnologías analógicas con digitales, confrontando el video de
 baja resolución con la detección de rostros, los filtros, la
 inteligencia artificial y los algoritmos automáticos.
 
-![Cuanto más se conecta, menos se conecta (2019)](./assets/cuandomas.jpg)
-
-<p align="center"><em>Cuanto más se conecta, menos se conecta (2019)</em></p>
+<p align="center"><img src="./assets/cuandomas.jpg" alt="Cuanto más se conecta, menos se conecta (2019)" /><br /><em>Cuanto más se conecta, menos se conecta (2019)</em></p>
 
 ## III. A medio camino entre el arte y la preservación
 
@@ -1066,9 +1046,7 @@ Brooklyn, New York, siguiendo el concepto del Zootropo, un juguete
 como obturador de una serie de fotogramas emplazados sobre las paredes
 de la estación. La obra fue restaurada en 2013[^12].
 
-![Bill Brand, “Masstransiscope Illustration” (1980). Accedido 15 de Febrero de 2024 desde billbrand.net/public-art](./assets/masstransiscope+illustration.jpg)
-
-<p align="center"><em>Bill Brand, "Masstransiscope Illustration" (1980). Accedido 15 de Febrero de 2024 desde billbrand.net/public-art</em></p>
+<p align="center"><img src="./assets/masstransiscope+illustration.jpg" alt="Bill Brand, “Masstransiscope Illustration” (1980). Accedido 15 de Febrero de 2024 desde billbrand.net/public-art" /><br /><em>Bill Brand, &quot;Masstransiscope Illustration&quot; (1980). Accedido 15 de Febrero de 2024 desde billbrand.net/public-art</em></p>
 
 Esta obra de Brand por fuera del soporte y las tecnologías originales
 del medio, desde un tren y directo a la pared, nos abre el camino a la
@@ -1154,9 +1132,7 @@ mecánicas especializadas en resolver problemas balísticos, completamente
 nuevas y valuadas en treinta mil dólares, que databan de la Segunda
 Guerra Mundial (Whitney, 1980, p. 184).
 
-![John Whitney & James Whitney, “Pacoima Court studio, Studio City, CA”, Whitney Editions™ (1947). Accedido 15 de Febrero de 2024 desde canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney](./assets/Whitneys_1.jpg)
-
-<p align="center"><em>John Whitney & James Whitney, "Pacoima Court studio, Studio City, CA", Whitney Editions™ (1947). Accedido 15 de Febrero de 2024 desde canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney</em></p>
+<p align="center"><img src="./assets/Whitneys_1.jpg" alt="John Whitney &amp; James Whitney, “Pacoima Court studio, Studio City, CA”, Whitney Editions™ (1947). Accedido 15 de Febrero de 2024 desde canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney" /><br /><em>John Whitney &amp; James Whitney, &quot;Pacoima Court studio, Studio City, CA&quot;, Whitney Editions™ (1947). Accedido 15 de Febrero de 2024 desde canyoncinema.com/2023/03/14/new-artist-members-john-and-james-whitney</em></p>
 
 Los fotogramas originales en papel para la truca fueron eventualmente
 reemplazados por haces de luz, aunque eventualmente los Whitney
@@ -1168,9 +1144,7 @@ ventajas de la velocidad y la posibilidad de la interacción en vivo a
 través del teclado (Whitney, 1980, p. 197). Así es el caso de *Matrix
 I*, *II* y *III* (1971-72).
 
-![John Whitney, fotogramas de Matrix I (1971), Digital harmony: on the complementarity of music and visual art (1980), p. 77](./assets/matrix.jpg)
-
-<p align="center"><em>John Whitney, fotogramas de Matrix I (1971), Digital harmony: on the complementarity of music and visual art (1980), p. 77</em></p>
+<p align="center"><img src="./assets/matrix.jpg" alt="John Whitney, fotogramas de Matrix I (1971), Digital harmony: on the complementarity of music and visual art (1980), p. 77" /><br /><em>John Whitney, fotogramas de Matrix I (1971), Digital harmony: on the complementarity of music and visual art (1980), p. 77</em></p>
 
 Whitney solía comparar su trabajo de arte por computadora con la música,
 ya que ambos comparten una experiencia “tensional” y de “armonía
@@ -1224,13 +1198,9 @@ almacenadas y, en todo caso, decodificadas posteriormente con la misma
 máquina. En general también incluyen referencias gráficas o humanamente
 legibles al documento original[^14].
 
-![Piql, fotograma de “Data Regeneration” (2021), accedido desde vimeo.com/516428662](./assets/piql2.jpg)
+<p align="center"><img src="./assets/piql2.jpg" alt="Piql, fotograma de “Data Regeneration” (2021), accedido desde vimeo.com/516428662" /><br /><em>Piql, fotograma de &quot;Data Regeneration&quot; (2021), accedido desde vimeo.com/516428662</em></p>
 
-<p align="center"><em>Piql, fotograma de "Data Regeneration" (2021), accedido desde vimeo.com/516428662</em></p>
-
-![Piql, fotograma de “Data Regeneration” (2021), accedido desde vimeo.com/516428662](./assets/piql.jpg)
-
-<p align="center"><em>Piql, fotograma de "Data Regeneration" (2021), accedido desde vimeo.com/516428662</em></p>
+<p align="center"><img src="./assets/piql.jpg" alt="Piql, fotograma de “Data Regeneration” (2021), accedido desde vimeo.com/516428662" /><br /><em>Piql, fotograma de &quot;Data Regeneration&quot; (2021), accedido desde vimeo.com/516428662</em></p>
 
 El uso de esta tecnología fue muy difundido en el proyecto Arctic World
 Archive, un programa de archivo y preservación en la isla de
@@ -1309,9 +1279,7 @@ verla. Sin embargo, su aparente sencillez también corre el riesgo de
 simplificar nuestra comprensión del arte por computadoras temprano en un
 simple proceso de entrada y salida (Valyi-Nagy, 2022).
 
-![Vera Molnar, dibujo hecho en plotter de la serie “Inclinaisons” (1974), accedido desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971](./assets/vera%20molnar.jpg)
-
-<p align="center"><em>Vera Molnar, dibujo hecho en plotter de la serie "Inclinaisons" (1974), accedido desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971</em></p>
+<p align="center"><img src="./assets/vera%20molnar.jpg" alt="Vera Molnar, dibujo hecho en plotter de la serie “Inclinaisons” (1974), accedido desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971" /><br /><em>Vera Molnar, dibujo hecho en plotter de la serie &quot;Inclinaisons&quot; (1974), accedido desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971</em></p>
 
 El trabajo de Molnar implicaba una vuelta constante entre papel y
 computadora, relación que mejoró mucho con la existencia del monitor.
@@ -1328,9 +1296,7 @@ cambió por completo: “fue como mudarme a París de nuevo, así de
 emocionante fue… tenía la sensación de que había sido inventado para mí”
 (Valyi-Nagy, 2022).
 
-![A la izquierda: Vera Molnar, estudio para “Inclinaisons” (1971). A la derecha: Vera Molnar, dibujo hecho en plotter “Inclinaison” (1971). Accedidos desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/](./assets/vera_molnar.jpg)
-
-<p align="center"><em>A la izquierda: Vera Molnar, estudio para "Inclinaisons" (1971). A la derecha: Vera Molnar, dibujo hecho en plotter "Inclinaison" (1971). Accedidos desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/</em></p>
+<p align="center"><img src="./assets/vera_molnar.jpg" alt="A la izquierda: Vera Molnar, estudio para “Inclinaisons” (1971). A la derecha: Vera Molnar, dibujo hecho en plotter “Inclinaison” (1971). Accedidos desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/" /><br /><em>A la izquierda: Vera Molnar, estudio para &quot;Inclinaisons&quot; (1971). A la derecha: Vera Molnar, dibujo hecho en plotter &quot;Inclinaison&quot; (1971). Accedidos desde holo.mg/dossiers/vera-molnar-weaving-variations/inclinaisons-1971/</em></p>
 
 En esta misma línea es interesante encontrar una continuidad histórica
 con los llamados *Paper Prints*, un sistema de guardado de películas
@@ -1345,9 +1311,7 @@ Biblioteca del Congreso de EEUU procesó y catalogó desde entonces cada
 una de las películas como una sola fotografía, aceptando miles de
 impresiones en papel durante un período de veinte años.
 
-![A la izquierda: William Kennedy Dickson, Edison Kinetoscopic Record of a Sneeze (1889). A la derecha: Georges Méliès, paper print de Le roi du maquillage (1904). Accedidos desde en.wikipedia.org/wiki/Paper\_print](./assets/Edison.jpg)
-
-<p align="center"><em>A la izquierda: William Kennedy Dickson, Edison Kinetoscopic Record of a Sneeze (1889). A la derecha: Georges Méliès, paper print de Le roi du maquillage (1904). Accedidos desde en.wikipedia.org/wiki/Paper\_print</em></p>
+<p align="center"><img src="./assets/Edison.jpg" alt="A la izquierda: William Kennedy Dickson, Edison Kinetoscopic Record of a Sneeze (1889). A la derecha: Georges Méliès, paper print de Le roi du maquillage (1904). Accedidos desde en.wikipedia.org/wiki/Paper\_print" /><br /><em>A la izquierda: William Kennedy Dickson, Edison Kinetoscopic Record of a Sneeze (1889). A la derecha: Georges Méliès, paper print de Le roi du maquillage (1904). Accedidos desde en.wikipedia.org/wiki/Paper\_print</em></p>
 
 Un efecto secundario afortunado de esta técnica es que mientras las
 películas y negativos reales de este período a menudo se deterioraban o
@@ -1374,9 +1338,7 @@ digitalización de las películas que, dada la naturaleza irregular del
 soporte, requirió de un diseño de hardware y software particular para el
 proyecto (Faden, Armstrong, Nienhuis, Siegel, & Stough, 2023).
 
-![A la izquierda: scanner “Kyōrinrin” en acción. Arriba: distintas ubicaciones de las perforaciones. Abajo: paper film empalmado a mano. “Japanese Paper Film Project” (2023).](./assets/jap_paper_film.jpg)
-
-<p align="center"><em>A la izquierda: scanner "Kyōrinrin" en acción. Arriba: distintas ubicaciones de las perforaciones. Abajo: paper film empalmado a mano. "Japanese Paper Film Project" (2023).</em></p>
+<p align="center"><img src="./assets/jap_paper_film.jpg" alt="A la izquierda: scanner “Kyōrinrin” en acción. Arriba: distintas ubicaciones de las perforaciones. Abajo: paper film empalmado a mano. “Japanese Paper Film Project” (2023)." /><br /><em>A la izquierda: scanner &quot;Kyōrinrin&quot; en acción. Arriba: distintas ubicaciones de las perforaciones. Abajo: paper film empalmado a mano. &quot;Japanese Paper Film Project&quot; (2023).</em></p>
 
 ### Los medios variables
 
@@ -1504,9 +1466,7 @@ son volver a poner en circulación obras pioneras de arte por
 computadora, ofrecer recursos de aprendizaje a estudiantes y educadores,
 e incentivar una comunidad activa (Epler, 2012).
 
-![Sitio de ReCode Project, accedido desde recodeproject.com](./assets/4e4e7ca72fa54310e688b9538adb2b5a.jpg)
-
-<p align="center"><em>Sitio de ReCode Project, accedido desde recodeproject.com</em></p>
+<p align="center"><img src="./assets/4e4e7ca72fa54310e688b9538adb2b5a.jpg" alt="Sitio de ReCode Project, accedido desde recodeproject.com" /><br /><em>Sitio de ReCode Project, accedido desde recodeproject.com</em></p>
 
 Por otro lado, La *Variable Media Network*, fundada por el Museo
 Guggenheim con apoyo de la Fundación Daniel Langlois, es una red de
@@ -1534,9 +1494,7 @@ cual los creadores desearían que su obra sea re-creada (siempre y cuando
 esto sea posible), con independencia del medio en el fue realizada”
 (Hofman, 2007).[^15]
 
-![Jon Ippolito, “Navigating Variable Media Questionaire”, accedido desde variablemediaquestionnaire.net](./assets/VMQ.jpeg)
-
-<p align="center"><em>Jon Ippolito, "Navigating Variable Media Questionaire", accedido desde variablemediaquestionnaire.net</em></p>
+<p align="center"><img src="./assets/VMQ.jpeg" alt="Jon Ippolito, “Navigating Variable Media Questionaire”, accedido desde variablemediaquestionnaire.net" /><br /><em>Jon Ippolito, &quot;Navigating Variable Media Questionaire&quot;, accedido desde variablemediaquestionnaire.net</em></p>
 
 Otros modelos o bases de datos se pueden entender como el punto medio
 entre documentación y difusión. Tal es el caso de Media Art Net o
@@ -1659,9 +1617,7 @@ decaimiento digital surge la importancia del trabajo de la “database”.
 > en la que me movía en ese momento. Una cartografía de relaciones y de
 > trabajos de reflexión y colaboración* (Mackern, 2008).
 
-![Brian Mackern, portada de “netart.org.uy”, Netart latino database (2008), p. 1](./assets/netart.jpg)
-
-<p align="center"><em>Brian Mackern, portada de "netart.org.uy", Netart latino database (2008), p. 1</em></p>
+<p align="center"><img src="./assets/netart.jpg" alt="Brian Mackern, portada de “netart.org.uy”, Netart latino database (2008), p. 1" /><br /><em>Brian Mackern, portada de &quot;netart.org.uy&quot;, Netart latino database (2008), p. 1</em></p>
 
 Su otro proyecto importante es *La Máquina Podrida* (*aka La
 Desdentada*), que consistió en una exposición de su propia computadora
@@ -1686,9 +1642,7 @@ sensibilidad hacia el futuro particular– acaban en una institución de
 acceso público que las cobija, las protege y las difunde.” (Hofman,
 2011)
 
-![Brian Mackern, “La máquina podrida” (2004), accedido 15 de Febrero 2024 desde netart.org.uy/podrida\_ceart](./assets/SAM_5524.jpg)
-
-<p align="center"><em>Brian Mackern, "La máquina podrida" (2004), accedido 15 de Febrero 2024 desde netart.org.uy/podrida\_ceart</em></p>
+<p align="center"><img src="./assets/SAM_5524.jpg" alt="Brian Mackern, “La máquina podrida” (2004), accedido 15 de Febrero 2024 desde netart.org.uy/podrida\_ceart" /><br /><em>Brian Mackern, &quot;La máquina podrida&quot; (2004), accedido 15 de Febrero 2024 desde netart.org.uy/podrida\_ceart</em></p>
 
 Esta idea del valor agregado sobre dispositivos tecnológicos o de
 almacenamiento de uso común también la trabaja el artista Español
@@ -1831,9 +1785,7 @@ contenido, utilizando programas y a través de intermediarios. Y para la
 programas con el contenido, se eliminan las organizaciones
 intermediarias, y se suma la “verificación pública” (Benet, 2018).
 
-![Juan Benet, fotograma de “What Exactly is Web3?” (2018), accedido desde youtube.com/watch?v=l44z35vabvA](./assets/benet.png)
-
-<p align="center"><em>Juan Benet, fotograma de "What Exactly is Web3?" (2018), accedido desde youtube.com/watch?v=l44z35vabvA</em></p>
+<p align="center"><img src="./assets/benet.png" alt="Juan Benet, fotograma de “What Exactly is Web3?” (2018), accedido desde youtube.com/watch?v=l44z35vabvA" /><br /><em>Juan Benet, fotograma de &quot;What Exactly is Web3?&quot; (2018), accedido desde youtube.com/watch?v=l44z35vabvA</em></p>
 
 En este contexto de la Web 3.0 se plantea lo descentralizado, y por
 supuesto también de su gran protagonista, la *Blockchain*: un mecanismo
@@ -1931,9 +1883,7 @@ preservación independiente que podríamos sumar a esta lista de esfuerzos
 destacados y por fuera de la maquinaria y el circuito tradicional de
 preservación.
 
-![Cameron Askin, captura de “Cameron’s World” (2015), accedido desde cameronsworld.net](./assets/camerons-world.jpg)
-
-<p align="center"><em>Cameron Askin, captura de "Cameron’s World" (2015), accedido desde cameronsworld.net</em></p>
+<p align="center"><img src="./assets/camerons-world.jpg" alt="Cameron Askin, captura de “Cameron’s World” (2015), accedido desde cameronsworld.net" /><br /><em>Cameron Askin, captura de &quot;Cameron’s World&quot; (2015), accedido desde cameronsworld.net</em></p>
 
 La materia prima de *Cameron’s World* es el GIF, un formato de imagen
 introducido en 1987 por la empresa CompuServe y diseñado para una rápida
@@ -1972,9 +1922,7 @@ artista finlandés Juha van Ingen, quien en 2017 creó una pieza llamada
 para reproducirse hasta el año 3017. La obra se puede ver y forma parte
 de la colección de la Galería Nacional de Finlandia (KIASMA)[^16].
 
-![Juha van Ingen, AS Long As Possible (2017), accedido desde aslongaspossible.com/images/As\_long\_as\_possible\_publication\_2018.pdf](./assets/aslap.jpeg)
-
-<p align="center"><em>Juha van Ingen, AS Long As Possible (2017), accedido desde aslongaspossible.com/images/As\_long\_as\_possible\_publication\_2018.pdf</em></p>
+<p align="center"><img src="./assets/aslap.jpeg" alt="Juha van Ingen, AS Long As Possible (2017), accedido desde aslongaspossible.com/images/As\_long\_as\_possible\_publication\_2018.pdf" /><br /><em>Juha van Ingen, AS Long As Possible (2017), accedido desde aslongaspossible.com/images/As\_long\_as\_possible\_publication\_2018.pdf</em></p>
 
 ## IV. Los Films Automáticos
 
@@ -2025,9 +1973,7 @@ intereses del proyecto. ¿Cómo optimizar este proceso? ¿Cómo aprovechar
 al máximo sus alcances y limitaciones? ¿Cómo transferir movimiento a un
 medio estático?
 
-![Primer acercamiento al “digital to film”, o “film out”](./assets/films_1.jpg)
-
-<p align="center"><em>Primer acercamiento al "digital to film", o "film out"</em></p>
+<p align="center"><img src="./assets/films_1.jpg" alt="Primer acercamiento al “digital to film”, o “film out”" /><br /><em>Primer acercamiento al &quot;digital to film&quot;, o &quot;film out&quot;</em></p>
 
 ### Digital-to-film-to-digital
 
@@ -2069,21 +2015,13 @@ se realizó una serie de transformaciones antes de la transferencia a
 fílmico: primero se renderizó el modelo y en segundo lugar se redujo en
 colores y resolución a una animación en formato GIF monocromática.
 
-![“Plantae”, a la izquierda código y ventana, a la derecha transfer a fílmico](./assets/af1cbf525eb59abcbf9cafc1afa58e3a.jpg)
+<p align="center"><img src="./assets/af1cbf525eb59abcbf9cafc1afa58e3a.jpg" alt="“Plantae”, a la izquierda código y ventana, a la derecha transfer a fílmico" /><br /><em>&quot;Plantae&quot;, a la izquierda código y ventana, a la derecha transfer a fílmico</em></p>
 
-<p align="center"><em>"Plantae", a la izquierda código y ventana, a la derecha transfer a fílmico</em></p>
+<p align="center"><img src="./assets/8dd19fa4371ad4649ba50f81e8948dbb.JPG" alt="“Nodos”, a la izquierda código y ventana, a la derecha transfer a fílmico" /><br /><em>&quot;Nodos&quot;, a la izquierda código y ventana, a la derecha transfer a fílmico</em></p>
 
-![“Nodos”, a la izquierda código y ventana, a la derecha transfer a fílmico](./assets/8dd19fa4371ad4649ba50f81e8948dbb.JPG)
+<p align="center"><img src="./assets/7b1490a7c218dadf67f2075ceeee5629.jpg" alt="“El Faro”, GIF original y transfer" /><br /><em>&quot;El Faro&quot;, GIF original y transfer</em></p>
 
-<p align="center"><em>"Nodos", a la izquierda código y ventana, a la derecha transfer a fílmico</em></p>
-
-![“El Faro”, GIF original y transfer](./assets/7b1490a7c218dadf67f2075ceeee5629.jpg)
-
-<p align="center"><em>"El Faro", GIF original y transfer</em></p>
-
-![Proceso manual de blow out: cada rollo era procesado manualmente en un tanque Paterson con revelador y fijador](./assets/7e70fc22497ba2a99b650f260bd30eca.png)
-
-<p align="center"><em>Proceso manual de blow out: cada rollo era procesado manualmente en un tanque Paterson con revelador y fijador</em></p>
+<p align="center"><img src="./assets/7e70fc22497ba2a99b650f260bd30eca.png" alt="Proceso manual de blow out: cada rollo era procesado manualmente en un tanque Paterson con revelador y fijador" /><br /><em>Proceso manual de blow out: cada rollo era procesado manualmente en un tanque Paterson con revelador y fijador</em></p>
 
 El proceso de laboratorio fue más bien sencillo porque se trató de
 película blanco y negro con revelador Kodak D76, y al fotografiar
@@ -2101,9 +2039,7 @@ todos los grupos de imágenes secuencialmente, y por último se aplicó una
 estabilización general basada en las perforaciones del film, lo que
 generó un movimiento estable.
 
-![Digitalización de fotogramas](./assets/834a5308f4a621c379b8956a94caa980.jpg)
-
-<p align="center"><em>Digitalización de fotogramas</em></p>
+<p align="center"><img src="./assets/834a5308f4a621c379b8956a94caa980.jpg" alt="Digitalización de fotogramas" /><br /><em>Digitalización de fotogramas</em></p>
 
 Como bien se describía al comienzo de este apartado, eran tiempos de NFT
 y muchas de las obras terminaron en los *marketplace* de la
@@ -2119,9 +2055,7 @@ coleccionista y usufructuar el valor, y en muchos casos el autor
 original obtiene un porcentaje de esta nueva compra, pero esto depende
 del contrato del *marketplace*.
 
-![Un film distribuido como NFTs en el marketplace knownorigin.io (2020)](./assets/bf0da1ed8f53cdd96fc67b6cc12b3a1d.jpg)
-
-<p align="center"><em>Un film distribuido como NFTs en el marketplace knownorigin.io (2020)</em></p>
+<p align="center"><img src="./assets/bf0da1ed8f53cdd96fc67b6cc12b3a1d.jpg" alt="Un film distribuido como NFTs en el marketplace knownorigin.io (2020)" /><br /><em>Un film distribuido como NFTs en el marketplace knownorigin.io (2020)</em></p>
 
 ### Digital-to-film
 
@@ -2207,9 +2141,7 @@ originales de Wolframio. Para esto se compró un driver LED que convierte
 la corriente y la tensión original del proyector, y se instaló un LED
 cálido de 30w con un pequeño disipador de calor.
 
-![Hackeo de Kodak Carousel: reemplazo de lámpara original por LED](./assets/6ccd794ebea71733e60fec2d15d6904b.png)
-
-<p align="center"><em>Hackeo de Kodak Carousel: reemplazo de lámpara original por LED</em></p>
+<p align="center"><img src="./assets/6ccd794ebea71733e60fec2d15d6904b.png" alt="Hackeo de Kodak Carousel: reemplazo de lámpara original por LED" /><br /><em>Hackeo de Kodak Carousel: reemplazo de lámpara original por LED</em></p>
 
 El segundo paso consistió en la automatización. Estos proyectores suelen
 venir con un control remoto, cableado, que avanza y retrocede las fotos.
@@ -2259,9 +2191,7 @@ Faro* se buscó la nostalgia de épocas digitales pasadas, problematizadas
 con el contraste analógico del film que también genera una reflexión
 sobre el computer art de los años 60.
 
-![A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva](./assets/2d6d68553d1352ccb00277e9b4aaba43.png)
-
-<p align="center"><em>A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva</em></p>
+<p align="center"><img src="./assets/2d6d68553d1352ccb00277e9b4aaba43.png" alt="A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva" /><br /><em>A la izquierda: servicio de controlador Arduino en Kodak Carousel. A la derecha: fotograma transferido a diapositiva</em></p>
 
 El dispositivo llegó a montarse y registrarse en cheLA en 2023, y sirvió
 como antecedente a la tercera iteración. Pero el problema principal fue
@@ -2271,9 +2201,7 @@ de movimiento. También parecía que todo el proceso pecaba de estar
 “sobre-ingenierizado”, con demasiados pasos y sensores, pero con un
 resultado lejos del esperado[^17].
 
-![Rodaje y montaje en cheLA de proyector Carousel modificado (2023)](./assets/d187c33616d32b6abf8b897528709638.jpg)
-
-<p align="center"><em>Rodaje y montaje en cheLA de proyector Carousel modificado (2023)</em></p>
+<p align="center"><img src="./assets/d187c33616d32b6abf8b897528709638.jpg" alt="Rodaje y montaje en cheLA de proyector Carousel modificado (2023)" /><br /><em>Rodaje y montaje en cheLA de proyector Carousel modificado (2023)</em></p>
 
 ### El Archivo del Film Automático
 
@@ -2286,9 +2214,7 @@ visualización por segundo, siendo que la velocidad máxima de cada
 proyector es de más o menos una foto por segundo. La primera prueba se
 hizo con 2 proyectores y fue bastante exitosa.
 
-![Primeras pruebas de sincronía entre dos proyectores utilizando diapositivas de la iteración anterior](./assets/bfa73fd91ec2c2e26bcda8d0f37a29ec.png)
-
-<p align="center"><em>Primeras pruebas de sincronía entre dos proyectores utilizando diapositivas de la iteración anterior</em></p>
+<p align="center"><img src="./assets/bfa73fd91ec2c2e26bcda8d0f37a29ec.png" alt="Primeras pruebas de sincronía entre dos proyectores utilizando diapositivas de la iteración anterior" /><br /><em>Primeras pruebas de sincronía entre dos proyectores utilizando diapositivas de la iteración anterior</em></p>
 
 Pero más allá de la metáfora simbólica o de los tecnicismos que se
 venían investigando en iteraciones anteriores, en este momento de la
@@ -2328,9 +2254,7 @@ carrete explican cómo recuperar los datos. El backup del 02/02/2020, que
 consta de 21 TB de información, fue archivado y transportado al Ártico
 en 186 carretes de película (Evans, 2020/2024).
 
-![GitHub, fotograma de “GitHub Arctic Code Vault” (2019), accedido desde youtube.com/watch?v=fzI9FNjXQ0o](./assets/bb662985e0f075b475b5fbb34c24b5c8.jpg)
-
-<p align="center"><em>GitHub, fotograma de "GitHub Arctic Code Vault" (2019), accedido desde youtube.com/watch?v=fzI9FNjXQ0o</em></p>
+<p align="center"><img src="./assets/bb662985e0f075b475b5fbb34c24b5c8.jpg" alt="GitHub, fotograma de “GitHub Arctic Code Vault” (2019), accedido desde youtube.com/watch?v=fzI9FNjXQ0o" /><br /><em>GitHub, fotograma de &quot;GitHub Arctic Code Vault&quot; (2019), accedido desde youtube.com/watch?v=fzI9FNjXQ0o</em></p>
 
 En el mismo apartado de *Computadoras y Celuloide* se menciona el
 proyecto de Alisina Bahadori *Paperify* que convierte cualquier tipo de
@@ -2374,9 +2298,7 @@ condiciones y limitaciones:
 - Y finalmente, con el espectador en mente, una computadora tendría que
   decodificar en tiempo real los QR que se proyectan.
 
-![Pequeño dibujo del sistema propuesto](./assets/sketch.jpg)
-
-<p align="center"><em>Pequeño dibujo del sistema propuesto</em></p>
+<p align="center"><img src="./assets/sketch.jpg" alt="Pequeño dibujo del sistema propuesto" /><br /><em>Pequeño dibujo del sistema propuesto</em></p>
 
 #### Desafíos y limitaciones
 
@@ -2498,9 +2420,7 @@ quería demostrar con qué facilidad una computadora podría ser programada
 para crear este tipo de arte, que hoy podría llamarse programático o
 generativo (Noll, 2016).
 
-![A. Michael Noll, Ninety Parallel Sinusoids (1965)](./assets/5d76c5504f055f024e49994920cbb4f6.jpg)
-
-<p align="center"><em>A. Michael Noll, Ninety Parallel Sinusoids (1965)</em></p>
+<p align="center"><img src="./assets/5d76c5504f055f024e49994920cbb4f6.jpg" alt="A. Michael Noll, Ninety Parallel Sinusoids (1965)" /><br /><em>A. Michael Noll, Ninety Parallel Sinusoids (1965)</em></p>
 
 La recreación literal en código no presentó muchos inconvenientes, y
 consistió en dibujar noventa trayectorias basadas en el seno de un
@@ -2529,9 +2449,7 @@ void draw() {
 }
 ```
 
-![Recreación en Processing de Ninety Parallel Sinusoids](./assets/25024f5fd7968d79dcc731ab76f5fb92.jpg)
-
-<p align="center"><em>Recreación en Processing de Ninety Parallel Sinusoids</em></p>
+<p align="center"><img src="./assets/25024f5fd7968d79dcc731ab76f5fb92.jpg" alt="Recreación en Processing de Ninety Parallel Sinusoids" /><br /><em>Recreación en Processing de Ninety Parallel Sinusoids</em></p>
 
 En línea con esta trayectoria, y siguiendo las limitaciones propuestas,
 se redujeron las líneas a lo mínimo para ensayar la reducción a formato
@@ -2547,9 +2465,7 @@ tesis, y la forma de la película es para hablar de la transición
 digital/analógica, de pasos discretos y caóticos a curvas suaves y
 orgánicas[^19].
 
-![El Film en su primera forma digital](./assets/25cab2500b129b3b76966bd2ef7020ef.png)
-
-<p align="center"><em>El Film en su primera forma digital</em></p>
+<p align="center"><img src="./assets/25cab2500b129b3b76966bd2ef7020ef.png" alt="El Film en su primera forma digital" /><br /><em>El Film en su primera forma digital</em></p>
 
 El paso siguiente consistió en la codificación a su formato QR. El uso
 más común de este código es para páginas web, es muy frecuente en los
@@ -2613,9 +2529,7 @@ URL+SVG
 data:image/svg+xml,<svg... --> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 240"><path d="M0 0h384v240H0z"/><g fill="none" stroke="white"><path d="m0 64 6 8.4 6-10.1 6-9.6 6 20.4 6 2.9 6-18.4 6 4.3 6 5.7 6 3.4 6-20.8"/></g></svg>
 ```
 
-![Captura del conjunto de archivos SVG codificados en forma de QR](./assets/4f75721f3669e4a12eea50f635d57365.jpg)
-
-<p align="center"><em>Captura del conjunto de archivos SVG codificados en forma de QR</em></p>
+<p align="center"><img src="./assets/4f75721f3669e4a12eea50f635d57365.jpg" alt="Captura del conjunto de archivos SVG codificados en forma de QR" /><br /><em>Captura del conjunto de archivos SVG codificados en forma de QR</em></p>
 
 A diferencia de las versiones anteriores donde se convertían a analógico
 obras digitales a través de la fotografía y el soporte fílmico, en el
@@ -2675,13 +2589,9 @@ distintos artistas de la región[^23]. Esta muestra se dio en el contexto
 de la escritura de la tesis, lo que impulsó ampliamente el desarrollo de
 la obra[^24]
 
-![Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin](./assets/7ef740636e9ef0f68889eadc42ed6156.jpg)
+<p align="center"><img src="./assets/7ef740636e9ef0f68889eadc42ed6156.jpg" alt="Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin" /><br /><em>Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin</em></p>
 
-<p align="center"><em>Registro de El Film Automático en la muestra Composant Machinal, foto de William Bobby Sabourin</em></p>
-
-![Comparación entre el objeto final y el bosquejo inicial](./assets/7c6d0dfbdbe006f41cc1e64b62072902.jpg)
-
-<p align="center"><em>Comparación entre el objeto final y el bosquejo inicial</em></p>
+<p align="center"><img src="./assets/7c6d0dfbdbe006f41cc1e64b62072902.jpg" alt="Comparación entre el objeto final y el bosquejo inicial" /><br /><em>Comparación entre el objeto final y el bosquejo inicial</em></p>
 
 Como se explicaba anteriormente, la obra fue concebida como un
 videoinstalación, donde las diapositivas disparadas rítmica y
@@ -2696,9 +2606,7 @@ obra final, a través de codificación y un sistema de recuperación, el
 carácter digital de la obra se mantiene a pesar de su nueva forma
 material.
 
-![Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra](./assets/1bcd19aa4d839156566912dadb1271ba.png)
-
-<p align="center"><em>Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra</em></p>
+<p align="center"><img src="./assets/1bcd19aa4d839156566912dadb1271ba.png" alt="Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra" /><br /><em>Fotogramas del compendio de digital-to-film-to-digital proyectado como parte de la obra</em></p>
 
 El *Archivo del Film Automático* es un ensayo de preservación digital
 inspirado en varios de los referentes artísticos y tecnológicos tratados
@@ -2732,21 +2640,13 @@ ideas acompañan conceptualmente la instalación, pero la obra en su forma
 instalada también ofrece una experiencia abstracta de luz, sonido y
 tecnología nostálgica que la abre a múltiples interpretaciones posibles.
 
-![La estructura de la obra con sus distintos estantes y dispositivos](./assets/eafc18c1daaf5777cbe4b189faf5838d.jpg)
+<p align="center"><img src="./assets/eafc18c1daaf5777cbe4b189faf5838d.jpg" alt="La estructura de la obra con sus distintos estantes y dispositivos" /><br /><em>La estructura de la obra con sus distintos estantes y dispositivos</em></p>
 
-<p align="center"><em>La estructura de la obra con sus distintos estantes y dispositivos</em></p>
+<p align="center"><img src="./assets/2f7cec6a9ac832843bdf2933071ee679.jpg" alt="Microcontrolador Arduino con el shield de relés funcionando como control remoto de los proyectores. El sensor PIR de movimiento que se aprecia en el fotograma se agregó para disminuir la frecuencia con la que ocurría el loop si no se encontraba nadie mirando la instalación." /><br /><em>Microcontrolador Arduino con el shield de relés funcionando como control remoto de los proyectores. El sensor PIR de movimiento que se aprecia en el fotograma se agregó para disminuir la frecuencia con la que ocurría el loop si no se encontraba nadie mirando la instalación.</em></p>
 
-![Microcontrolador Arduino con el shield de relés funcionando como control remoto de los proyectores. El sensor PIR de movimiento que se aprecia en el fotograma se agregó para disminuir la frecuencia con la que ocurría el loop si no se encontraba nadie mirando la instalación.](./assets/2f7cec6a9ac832843bdf2933071ee679.jpg)
+<p align="center"><img src="./assets/d03840925db51095b10c0d81f3a60cbe.jpg" alt="A la izquierda, el rack del Film Automático. A la derecha, el QR proyectado. Fotos de William Bobby Sabourin." /><br /><em>A la izquierda, el rack del Film Automático. A la derecha, el QR proyectado. Fotos de William Bobby Sabourin.</em></p>
 
-<p align="center"><em>Microcontrolador Arduino con el shield de relés funcionando como control remoto de los proyectores. El sensor PIR de movimiento que se aprecia en el fotograma se agregó para disminuir la frecuencia con la que ocurría el loop si no se encontraba nadie mirando la instalación.</em></p>
-
-![A la izquierda, el rack del Film Automático. A la derecha, el QR proyectado. Fotos de William Bobby Sabourin.](./assets/d03840925db51095b10c0d81f3a60cbe.jpg)
-
-<p align="center"><em>A la izquierda, el rack del Film Automático. A la derecha, el QR proyectado. Fotos de William Bobby Sabourin.</em></p>
-
-![Folleto original de Composant Machinal](./assets/e1beb9b0b98a79e02202447113ba8499.jpg)
-
-<p align="center"><em>Folleto original de Composant Machinal</em></p>
+<p align="center"><img src="./assets/e1beb9b0b98a79e02202447113ba8499.jpg" alt="Folleto original de Composant Machinal" /><br /><em>Folleto original de Composant Machinal</em></p>
 
 #### Link a registro audiovisual
 
